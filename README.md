@@ -1,5 +1,5 @@
-# Physical and social environmental metrics data harmonization work repository
-Welcome to the *Physical and social environmental metrics* data harmonization work repository! Documenation of DataSchema variables as well as versionning and storage of data harmonization scripts will be saved in this space. 
+# Physical and social environmental (i.e. geospatial) data harmonization work repository
+Welcome to the *Physical and social environmental (i.e. geospatial)* data harmonization work repository! Documenation of DataSchema variables as well as versionning and storage of data harmonization scripts will be saved in this space. 
 
 This page includes information to get you started.
 
