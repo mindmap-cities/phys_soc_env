@@ -94,7 +94,6 @@ output: html_document
 #This is where the R-script will be written  
 
 
-
 ### **Variable label**: Agricultural land_0  
 **Variable name**: physenv_ua_ne_agriland  
 **Variable description**: Absolute distance to the nearest polygon. No distinction is made between different types of agricultural land.
