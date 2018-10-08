@@ -13,11 +13,11 @@ output: html_document
 
 # Natural environment - Urban Atlas  
 
-### ** Variable label **: Green urban areas  
+### ** Variable label**: Distance to green urban areas  
 **Variable name**: physenv_ua_ne_greenurban  
 **Variable description**: Absolute distance to the nearest polygon marked as green urban area  
-**Variable type**: -  
-**Variable unit**: -  
+**Variable type**: decimal  
+**Variable unit**: meters  
 **Category coding**: -  
 
 **Harmonization status**:    
