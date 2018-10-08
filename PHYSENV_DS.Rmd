@@ -19,6 +19,11 @@ output: html_document
 **Variable type**: -  
 **Variable unit**: -  
 **Category coding**: -  
-**Harmonization status**:
-**Harmonization comment**:  
+
+**Harmonization status**:    
+**Harmonization comment**:    
 **R script**:  
+```{r, echo=TRUE}
+#This is where the R-script will be written
+
+
