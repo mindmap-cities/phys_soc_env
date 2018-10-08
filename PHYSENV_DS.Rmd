@@ -13,17 +13,109 @@ output: html_document
 
 # Natural environment - Urban Atlas  
 
-### **Variable label**: Distance to green urban areas  
+### **Variable label**: Distance to green urban areas_0   
 **Variable name**: physenv_ua_ne_greenurban  
 **Variable description**: Absolute distance to the nearest polygon marked as green urban area  
 **Variable type**: decimal  
 **Variable unit**: meters  
 **Category coding**: -  
 
-**Harmonization status**:    
-**Harmonization comment**:    
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}
+#This is where the R-script will be written  
+
+
+### **Variable label**: Distance to green urban areas_1 
+**Variable name**: physenv_ua_ne_greenurban  
+**Variable description**: Absolute distance to the nearest polygon marked as green urban area  
+**Variable type**: decimal  
+**Variable unit**: meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
 **R script**:  
 ```{r, echo=TRUE}
 #This is where the R-script will be written
+
+
+### **Variable label**: Forests_0    
+**Variable description**: Absolute distance to the nearest polygon marked as forest.  
+**Variable type**: decimal  
+**Variable unit**: meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**: 
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+
+### **Variable label**: Forests_1  
+**Variable description**: Absolute distance to the nearest polygon marked as forest.  
+**Variable type**: decimal  
+**Variable unit**: meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:
+```{r, echo=TRUE} 
+
+
+### **Variable label**: Blue spaces_0 
+**Variable name**: physenv_ua_ne_bluespace  
+**Variable description**: Absolute distance to the nearest polygon marked as water.  
+**Variable type**: decimal  
+**Variable unit**: meters  
+**Category coding**: - 
+
+**Harmonization status**:
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+
+### **Variable label**: Blue spaces_1
+**Variable name**: physenv_ua_ne_bluespace  
+**Variable description**: Absolute distance to the nearest polygon marked as water.  
+**Variable type**: decimal  
+**Variable unit**: meters  
+**Category coding**: - 
+
+**Harmonization status**:
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+
+
+### **Variable label**: Agricultural land_0  
+**Variable name**: physenv_ua_ne_agriland  
+**Variable description**: Absolute distance to the nearest polygon. No distinction is made between different types of agricultural land.
+**Variable type**: decimal  
+**Variable unit**: meters  
+**Category coding**: - 
+
+**Harmonization comment**:  
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written
+ 
+  
+### **Variable label**: Agricultural land_1  
+**Variable name**: physenv_ua_ne_agriland 
+**Variable description**: Absolute distance to the nearest polygon. No distinction is made between different types of agricultural land. **Variable type**: decimal  
+**Variable unit**: meters  
+**Category coding**: -
+
+**Harmonization comment**:  
+**Harmonization comment**:  
+#This is where the R-script will be written  
 
 
