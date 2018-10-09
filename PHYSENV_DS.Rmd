@@ -114,7 +114,277 @@ output: html_document
 **Category coding**: -
 
 **Harmonization comment**:  
-**Harmonization comment**:  
+```{r, echo=TRUE}  
 #This is where the R-script will be written  
 
 
+### **Variable label**: Total green spaces_0   
+**Variable name**: physenv_ua_ne_totalgreen  
+**Variable description**: Absolute distance to the nearest polygon. Total of all categories of green spaces (forests + green urban  areas).  
+**Variable type**: decimal  
+**Variable unit**: meters  
+**Category coding**: -  
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+
+### **Variable label**: Total green spaces_1   
+**Variable name**: physenv_ua_ne_totalgreen  
+**Variable description**: Absolute distance to the nearest polygon. Total of all categories of green spaces (forests + green urban  areas).  
+**Variable type**: decimal  
+**Variable unit**: meters  
+**Category coding**: -
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+### **Variable label**: Total blue spaces_0  
+**Variable name**: physenv_ua_ne_totalblue  
+**Variable description**: Absolute distance to the nearest polygon. Total of all categories of blue spaces (water + wetlands).  
+**Variable type**: decimal  
+**Variable unit**: meters  
+**Category coding**: -
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+
+### **Variable label**: Total blue spaces_1  
+**Variable name**: physenv_ua_ne_totalblue  
+**Variable description**: Absolute distance to the nearest polygon. Total of all categories of blue spaces (water + wetlands).  
+**Variable type**: decimal  
+**Variable unit**: meters  
+**Category coding**: -
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written 
+
+
+
+### **Variable label**: Total blue and green Spaces_0  
+**Variable name**: physenv_ua_ne_totalbluegreen  
+**Variable description**: Absolute distance to the nearest polygon. Total of both green and blue space totals.  
+**Variable type**: decimal  
+**Variable unit**: meters  
+**Category coding**: -
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written 
+
+
+### **Variable label**: Total blue and green Spaces_1  
+**Variable name**: physenv_ua_ne_totalbluegreen  
+**Variable description**: Absolute distance to the nearest polygon. Total of both green and blue space totals.  
+**Variable type**: decimal  
+**Variable unit**: meters  
+**Category coding**: -
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written 
+
+
+### **Variable label**: Green urban areas area size_0  
+**Variable name**: physenv_ua_ne_greenurban_area  
+**Variable description**: Area size of the nearest polygon marked as green urban area  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written 
+
+
+### **Variable label**: Green urban areas area size_1  
+**Variable name**: physenv_ua_ne_greenurban_area  
+**Variable description**: Area size of the nearest polygon marked as green urban area  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written 
+
+
+### **Variable label**: Forests area size_0  
+**Variable name**:physenv_ua_ne_forests_area  
+**Variable description**: Area size of the nearest polygon marked as forest.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written 
+
+
+### **Variable label**: Forests area size_1  
+**Variable name**:physenv_ua_ne_forests_area  
+**Variable description**: Area size of the nearest polygon marked as forest.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written 
+
+
+### **Variable label**: Blue spaces area size_0  
+**Variable name**: physenv_ua_ne_bluespace_area  
+**Variable description**: Area size of the nearest polygon marked as water.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written 
+
+### **Variable label**: Blue spaces area size_0  
+**Variable name**: physenv_ua_ne_bluespace_area  
+**Variable description**: Area size of the nearest polygon marked as water.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written 
+
+### **Variable label**: Agricultural land area size_0  
+**Variable name**: physenv_ua_ne_agriland_area  
+**Variable description**: Area size of the nearest polygon. No distinction is made between different types of agricultural land.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written 
+
+
+### **Variable label**: Agricultural land area size_1  
+**Variable name**: physenv_ua_ne_agriland_area  
+**Variable description**: Area size of the nearest polygon. No distinction is made between different types of agricultural land.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+### **Variable label**: Total green spaces area size_0    
+**Variable name**: physenv_ua_ne_totalgreen_area  
+**Variable description**: Area size of the nearest polygon. Total of all categories of green spaces (forests + green urban areas).   
+**Variable type**: decimal   
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written 
+
+
+### **Variable label**: Total green spaces area size_1    
+**Variable name**: physenv_ua_ne_totalgreen_area  
+**Variable description**: Area size of the nearest polygon. Total of all categories of green spaces (forests + green urban areas).   
+**Variable type**: decimal   
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written 
+
+
+### **Variable label**: Total blue spaces area size_0  
+**Variable name**: physenv_ua_ne_totalblue_area  
+**Variable description**: Area size of the nearest polygon. Total of all categories of blue spaces (water + wetlands).  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written
+
+
+### **Variable label**: Total blue spaces area size_1  
+**Variable name**: physenv_ua_ne_totalblue_area  
+**Variable description**: Area size of the nearest polygon. Total of all categories of blue spaces (water + wetlands).  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written
+
+
+### **Variable label**: Total blue and green Spaces area size_0  
+**Variable name**: physenv_ua_ne_totalbluegreen_area  
+**Variable description**: Area size of the nearest polygon. Total of both green and blue space totals.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+
+### **Variable label**: Total blue and green Spaces area size_1  
+**Variable name**: physenv_ua_ne_totalbluegreen_area  
+**Variable description**: Area size of the nearest polygon. Total of both green and blue space totals.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+
+### **Variable label**: Green urban areas within 100 meter buffer_0  
+**Variable name**: physenv_ua_bf_greenurban100  
+**Variable description**: Total amount of m2 of green urban areas within 100 meter buffer  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+### **Variable label**: Green urban areas within 100 meter buffer_1  
+**Variable name**: physenv_ua_bf_greenurban100  
+**Variable description**: Total amount of m2 of green urban areas within 100 meter buffer  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+
+### **Variable label**: 
+**Variable name**: 
+**Variable description**: 
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written
