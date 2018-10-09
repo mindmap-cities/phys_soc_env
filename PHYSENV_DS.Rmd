@@ -403,19 +403,7 @@ output: html_document
 
 ### **Variable label**: Area size total blue and green Spaces in 2012 (Urban Atlas)   
 **Variable name**: physenv_ua_ne_totalbluegreen_area_12  
-**Variable description**: Area size of the nearest polygon. Total of both green and blue space totals in 2012 from Urban Atalas data.    
-**Variable type**: decimal  
-**Variable unit**: square meters  
-**Category coding**: -
-
-**Harmonization comment**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written  
-
-```
-### **Variable label**: Green urban areas within 100 meter buffer_0  
-**Variable name**: physenv_ua_bf_greenurban100  
-**Variable description**: Total amount of m2 of green urban areas within 100 meter buffer  
+**Variable description**: Area size of the nearest polygon. Total of both green and blue space totals in 2012 from Urban Atalas data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -
@@ -426,9 +414,10 @@ output: html_document
 
 ```
 
-### **Variable label**: Green urban areas within 100 meter buffer_1  
-**Variable name**: physenv_ua_bf_greenurban100  
-**Variable description**: Total amount of m2 of green urban areas within 100 meter buffer  
+
+### **Variable label**: Total amount of m2 of green urban areas within 100 meter buffer in 2006 (Urban Atlas)  
+**Variable name**: physenv_ua_bf_greenurban100_06  
+**Variable description**: Total amount of m2 of green urban areas within 100 meter buffer in 2006 from Urban Atalas data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -438,6 +427,593 @@ output: html_document
 #This is where the R-script will be written  
 
 ```
+
+### **Variable label**: Total amount of m2 of green urban areas within 100 meter buffer in 2012 (Urban Atlas)  
+**Variable name**: physenv_ua_bf_greenurban100_06  
+**Variable description**: Total amount of m2 of green urban areas within 100 meter buffer in 2012 from Urban Atalas data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```
+
+### **Variable label**: Total amount of m2 of forests within 100 meter buffer in 2006 (Urban Atlas)  
+**Variable name**: physenv_ua_bf_forests100_06  
+**Variable description**: Total amount of m2 of forests within 100 meter buffer in 2006 from Urban Atalas data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written
+
+```
+
+
+### **Variable label**: Total amount of m2 of forests within 100 meter buffer in 2012 (Urban Atlas)  
+**Variable name**: Total amount of m2 of forests within 100 meter buffer in 2012 from Urban Atalas data.  
+**Variable description**: physenv_ua_bf_forests100_12   
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written
+
+```
+
+
+### **Variable label**: Total amount of m2 of blue space within 100 meter buffer in 2006 (Uban Atlas)  
+**Variable name**: physenv_ua_bf_bluespace100_06  
+**Variable description**: Total amount of m2 of blue space within 100 meter buffer in 2006 from Urban Atlas data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written
+
+```
+
+
+### **Variable label**: Total amount of m2 of blue space within 100 meter buffer in 2012 (Uban Atlas)  
+**Variable name**: physenv_ua_bf_bluespace100_12  
+**Variable description**: Total amount of m2 of blue space within 100 meter buffer in 2012 from Urban Atlas data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written
+
+```
+
+
+### **Variable label**: Total amount of m2 of agricultural land within 100 meter buffer in 2006 (Urban Atlas)  
+**Variable name**: physenv_ua_bf_agriland100_06  
+**Variable description**: Total amount of m2 of agricultural land within 100 meter buffer in 2006 from Urban Atlas data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written
+
+```
+
+### **Variable label**: Total amount of m2 of agricultural land within 100 meter buffer in 2012 (Urban Atlas)  
+**Variable name**: physenv_ua_bf_agriland100_12  
+**Variable description**: Total amount of m2 of agricultural land within 100 meter buffer in 2012 from Urban Atlas data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written
+
+```
+
+
+### **Variable label**: Total green space within 100 meter buffer in 2006 (Urban Atlas)  
+**Variable name**: physenv_ua_bf_totalgreen100_06  
+**Variable description**: Total amount of m2 of green spaces within 100 meter buffer in 2006 from Urban Atlas data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written
+
+```
+
+
+### **Variable label**: Total green space within 100 meter buffer in 2012 (Urban Atlas)  
+**Variable name**: physenv_ua_bf_totalgreen100_12  
+**Variable description**: Total amount of m2 of green spaces within 100 meter buffer in 2012 Urban Atlas data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written
+
+```
+
+
+### **Variable label**: Total blue space within 100 meter buffer in 2006 (Urban Atlas)  
+**Variable name**: physenv_ua_bf_totalblue100_06  
+**Variable description**: Total amount of m2 of blue spaces within 100 meter buffer in 2006 from Urban Atlas data.
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written
+
+```
+
+
+### **Variable label**: Total blue space within 100 meter buffer in 2012 (Urban Atlas)  
+**Variable name**: physenv_ua_bf_totalblue100_12  
+**Variable description**: Total amount of m2 of blue spaces within 100 meter buffer in 2012 from Urban Atlas data.
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written
+
+```
+
+### **Variable label**: Total blue and green space within 100 meter buffer in 2006 (Urban Atlas)  
+**Variable name**: physenv_ua_bf_totalbluegreen100_06  
+**Variable description**: Total amount of m2 of blue and green spaces within 100 meter buffer in 2006 from Urban Atlas data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Total blue and green space within 100 meter buffer in 2012 (Urban Atlas)  
+**Variable name**: physenv_ua_bf_totalbluegreen100_12  
+**Variable description**: Total amount of m2 of blue and green spaces within 100 meter buffer in 2012 from Urban Atlas data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Green urban areas within 100 meter buffer in 1990 (CORINE)  
+**Variable name**: physenv_cn_bf_greenurban100_90  
+**Variable description**: Total amount of m2 of green urban areas within 100 meter buffer in 1990 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written 
+
+```
+
+
+### **Variable label**: Green urban areas within 100 meter buffer in 2000 (CORINE)  
+**Variable name**: physenv_cn_bf_greenurban100_00  
+**Variable description**: Total amount of m2 of green urban areas within 100 meter buffer in 2000 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written 
+
+```
+
+
+### **Variable label**: Green urban areas within 100 meter buffer in 2006 (CORINE)  
+**Variable name**: physenv_cn_bf_greenurban100_06  
+**Variable description**: Total amount of m2 of green urban areas within 100 meter buffer in 2006 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written 
+
+```
+
+
+### **Variable label**: Green urban areas within 100 meter buffer in 2012 (CORINE)  
+**Variable name**: physenv_cn_bf_greenurban100_12  
+**Variable description**: Total amount of m2 of green urban areas within 100 meter buffer in 2012 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written 
+
+```
+
+
+### **Variable label**: Forests within 100 meter buffer in 1990 (CORINE)  
+**Variable name**: physenv_cn_bf_forests100_90  
+**Variable description**: Total amount of m2 of forests within 100 meter buffer in 1990 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written 
+
+```
+
+
+### **Variable label**: Forests within 100 meter buffer in 2000 (CORINE)  
+**Variable name**: physenv_cn_bf_forests100_00  
+**Variable description**: Total amount of m2 of forests within 100 meter buffer in 2000 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written 
+
+```
+
+
+### **Variable label**: Forests within 100 meter buffer in 2006 (CORINE)  
+**Variable name**: physenv_cn_bf_forests100_06  
+**Variable description**: Total amount of m2 of forests within 100 meter buffer in 2006 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written 
+
+```
+
+
+### **Variable label**: Forests within 100 meter buffer in 2012 (CORINE)  
+**Variable name**: physenv_cn_bf_forests100_12  
+**Variable description**: Total amount of m2 of forests within 100 meter buffer in 2012 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written 
+
+```
+
+
+### **Variable label**: Blue spaces within 100 meter buffer 1990 (CORINE)  
+**Variable name**: physenv_cn_bf_bluespace100_90  
+**Variable description**: Total amount of m2 of blue space within 100 meter buffer in 1990 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written 
+
+```
+
+
+### **Variable label**: Blue spaces within 100 meter buffer 2000 (CORINE)  
+**Variable name**: physenv_cn_bf_bluespace100_00  
+**Variable description**: Total amount of m2 of blue space within 100 meter buffer in 2000 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written 
+
+```
+
+
+### **Variable label**: Blue spaces within 100 meter buffer 2006 (CORINE)  
+**Variable name**: physenv_cn_bf_bluespace100_06  
+**Variable description**: Total amount of m2 of blue space within 100 meter buffer in 2006 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written 
+
+```
+
+
+### **Variable label**: Blue spaces within 100 meter buffer 2012 (CORINE)  
+**Variable name**: physenv_cn_bf_bluespace100_12  
+**Variable description**: Total amount of m2 of blue space within 100 meter buffer in 2012 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written 
+
+```
+
+
+### **Variable label**: Agricultural land within 100 meter buffer in 1990 (CORINE)  
+**Variable name**: physenv_cn_bf_agriland100_90  
+**Variable description**: Total amount of m2 of agricultural land within 100 meter buffer in 1990 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written 
+
+```
+
+
+### **Variable label**: Agricultural land within 100 meter buffer in 2000 (CORINE)  
+**Variable name**: physenv_cn_bf_agriland100_00  
+**Variable description**: Total amount of m2 of agricultural land within 100 meter buffer in 2000 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written 
+
+```
+
+
+### **Variable label**: Agricultural land within 100 meter buffer in 2006 (CORINE)  
+**Variable name**: physenv_cn_bf_agriland100_06  
+**Variable description**: Total amount of m2 of agricultural land within 100 meter buffer in 2006 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written 
+
+```
+
+
+### **Variable label**: Agricultural land within 100 meter buffer in 2012 (CORINE)  
+**Variable name**: physenv_cn_bf_agriland100_12  
+**Variable description**: Total amount of m2 of agricultural land within 100 meter buffer in 2012 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written 
+
+```
+
+
+### **Variable label**: Total green space within 100 meter buffer in 1990 (CORINE)  
+**Variable name**: physenv_cn_bf_totalgreen100_90  
+**Variable description**: Total amount of m2 of green spaces within 100 meter buffer in 1990 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written 
+
+```
+
+
+### **Variable label**: Total green space within 100 meter buffer in 2000 (CORINE)  
+**Variable name**: physenv_cn_bf_totalgreen100_00  
+**Variable description**: Total amount of m2 of green spaces within 100 meter buffer in 2000 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written 
+
+```
+
+
+### **Variable label**: Total green space within 100 meter buffer in 2006 (CORINE)  
+**Variable name**: physenv_cn_bf_totalgreen100_06  
+**Variable description**: Total amount of m2 of green spaces within 100 meter buffer in 2006 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written 
+
+```
+
+
+### **Variable label**: Total green space within 100 meter buffer in 2012 (CORINE)  
+**Variable name**: physenv_cn_bf_totalgreen100_12  
+**Variable description**: Total amount of m2 of green spaces within 100 meter buffer in 2012 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written 
+
+```
+
+
+### **Variable label**: Total blue space within 100 meter buffer in 1990 (CORINE)  
+**Variable name**: physenv_cn_bf_totalblue100_09  
+**Variable description**: Total amount of m2 of blue spaces within 100 meter buffer in 1990 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written
+
+```
+
+
+### **Variable label**: Total blue space within 100 meter buffer in 2000 (CORINE)  
+**Variable name**: physenv_cn_bf_totalblue100_00  
+**Variable description**: Total amount of m2 of blue spaces within 100 meter buffer in 2000 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written
+
+```
+
+
+### **Variable label**: Total blue space within 100 meter buffer in 2006 (CORINE)  
+**Variable name**: physenv_cn_bf_totalblue100_06  
+**Variable description**: Total amount of m2 of blue spaces within 100 meter buffer in 2006 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written
+
+```
+
+### **Variable label**: Total blue space within 100 meter buffer in 2012 (CORINE)  
+**Variable name**: physenv_cn_bf_totalblue100_12  
+**Variable description**: Total amount of m2 of blue spaces within 100 meter buffer in 2012 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written
+
+```
+
+
+### **Variable label**: Total blue and green space within 100 meter buffer in 1990 (CORINE)  
+**Variable name**: physenv_cn_bf_totalbluegreen100_90  
+**Variable description**: Total amount of m2 of blue and green spaces within 100 meter buffer in 1990 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written
+
+```
+
+
+### **Variable label**: Total blue and green space within 100 meter buffer in 2000 (CORINE)  
+**Variable name**: physenv_cn_bf_totalbluegreen100_00  
+**Variable description**: Total amount of m2 of blue and green spaces within 100 meter buffer in 2000 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written
+
+```
+
+
+### **Variable label**: Total blue and green space within 100 meter buffer in 2006 (CORINE)  
+**Variable name**: physenv_cn_bf_totalbluegreen100_06  
+**Variable description**: Total amount of m2 of blue and green spaces within 100 meter buffer in 2006 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written
+
+```
+
+
+### **Variable label**: Total blue and green space within 100 meter buffer in 2012 (CORINE) 
+**Variable name**: physenv_cn_bf_totalbluegreen100_12  
+**Variable description**: Total amount of m2 of blue and green spaces within 100 meter buffer in 2012 from CORINE data.
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written
+
+```
+
+
+### **Variable label**: 
+**Variable name**: 
+**Variable description**: 
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written
+
+```
+
+
+
+
 
 ### **Variable label**: Green urban areas within 400 meter buffer_0  
 **Variable name**: physenv_ua_bf_greenurban400  
@@ -517,15 +1093,4 @@ output: html_document
 
 ```
 
-### **Variable label**: 
-**Variable name**: 
-**Variable description**: 
-**Variable type**: decimal  
-**Variable unit**: square meters  
-**Category coding**: -
 
-**Harmonization comment**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written
-
-```
