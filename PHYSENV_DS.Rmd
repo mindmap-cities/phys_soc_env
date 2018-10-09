@@ -382,6 +382,76 @@ output: html_document
 #This is where the R-script will be written  
 
 
+### **Variable label**: Green urban areas within 400 meter buffer_0  
+**Variable name**: physenv_ua_bf_greenurban400  
+**Variable description**: Total amount of m2 of green urban areas within 400 meter buffer  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written
+
+
+### **Variable label**: Green urban areas within 400 meter buffer_1  
+**Variable name**: physenv_ua_bf_greenurban400  
+**Variable description**: Total amount of m2 of green urban areas within 400 meter buffer  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+
+### **Variable label**: Green urban areas within 800 meter buffer_0  
+**Variable name**: physenv_ua_bf_greenurban800  
+**Variable description**: Total amount of m2 of green urban areas within 800 meter buffer  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written
+
+
+### **Variable label**: Green urban areas within 800 meter buffer_1  
+**Variable name**: physenv_ua_bf_greenurban800  
+**Variable description**: Total amount of m2 of green urban areas within 800 meter buffer  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written
+
+
+### **Variable label**: Green urban areas within 1000 meter buffer_0  
+**Variable name**: physenv_ua_bf_greenurban1000
+**Variable description**: Total amount of m2 of green urban areas within 1000 meter buffer  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written
+
+### **Variable label**: Green urban areas within 1000 meter buffer_1  
+**Variable name**: physenv_ua_bf_greenurban1000
+**Variable description**: Total amount of m2 of green urban areas within 1000 meter buffer  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written
+
 ### **Variable label**: 
 **Variable name**: 
 **Variable description**: 
@@ -392,3 +462,4 @@ output: html_document
 **Harmonization comment**:  
 ```{r, echo=TRUE}  
 #This is where the R-script will be written
+
