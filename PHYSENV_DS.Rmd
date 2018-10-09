@@ -141,6 +141,7 @@ output: html_document
 ```{r, echo=TRUE}  
 #This is where the R-script will be written  
 
+
 ### **Variable label**: Total blue spaces_0  
 **Variable name**: physenv_ua_ne_totalblue  
 **Variable description**: Absolute distance to the nearest polygon. Total of all categories of blue spaces (water + wetlands).  
@@ -163,7 +164,6 @@ output: html_document
 **Harmonization comment**:  
 ```{r, echo=TRUE}  
 #This is where the R-script will be written 
-
 
 
 ### **Variable label**: Total blue and green Spaces_0  
@@ -249,6 +249,7 @@ output: html_document
 ```{r, echo=TRUE}  
 #This is where the R-script will be written 
 
+
 ### **Variable label**: Blue spaces area size_0  
 **Variable name**: physenv_ua_ne_bluespace_area  
 **Variable description**: Area size of the nearest polygon marked as water.  
@@ -259,6 +260,7 @@ output: html_document
 **Harmonization comment**:  
 ```{r, echo=TRUE}  
 #This is where the R-script will be written 
+
 
 ### **Variable label**: Agricultural land area size_0  
 **Variable name**: physenv_ua_ne_agriland_area  
@@ -282,6 +284,7 @@ output: html_document
 **Harmonization comment**:  
 ```{r, echo=TRUE}  
 #This is where the R-script will be written  
+
 
 ### **Variable label**: Total green spaces area size_0    
 **Variable name**: physenv_ua_ne_totalgreen_area  
@@ -365,6 +368,7 @@ output: html_document
 **Harmonization comment**:  
 ```{r, echo=TRUE}  
 #This is where the R-script will be written  
+
 
 ### **Variable label**: Green urban areas within 100 meter buffer_1  
 **Variable name**: physenv_ua_bf_greenurban100  
