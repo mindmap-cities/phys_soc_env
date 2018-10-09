@@ -44,7 +44,7 @@ output: html_document
 
 ```
 
-### **Variable label**: Distance to forests in 2006  
+### **Variable label**: Distance to forests in 2006 (Urban Atlas)  
 **Variable name**: physenv_ua_ne_forests_06  
 **Variable description**: Absolute distance to the nearest polygon marked as forest in 2006 from Urban Atalas data.  
 **Variable type**: decimal  
@@ -60,7 +60,7 @@ output: html_document
 ```  
 
 
-### **Variable label**: Distance to forests in 2012  
+### **Variable label**: Distance to forests in 2012 (Urban Atlas)   
 **Variable name**: physenv_ua_ne_forests_12
 **Variable description**: Absolute distance to the nearest polygon marked as forest in 2012 from Urban Atalas data.  
 **Variable type**: decimal  
@@ -76,7 +76,7 @@ output: html_document
 ```
 
 
-### **Variable label**: Distance to blue spaces_2006  
+### **Variable label**: Distance to blue spaces in 2006 (Urban Atlas)    
 **Variable name**: physenv_ua_ne_bluespace_06  
 **Variable description**: Absolute distance to the nearest polygon marked as water in 2006 from Urban Atalas data.  
 **Variable type**: decimal  
@@ -90,7 +90,7 @@ output: html_document
 #This is where the R-script will be written  
 
 ```
-### **Variable label**: Distance to blue spaces_2012  
+### **Variable label**: Distance to blue spaces in 2012 (Urban Atlas)    
 **Variable name**: physenv_ua_ne_bluespace_12  
 **Variable description**: Absolute distance to the nearest polygon marked as water in 2012 from Urban Atalas data.  
 **Variable type**: decimal  
@@ -106,7 +106,7 @@ output: html_document
 ```
 
 
-### **Variable label**: Distance to agricultural land_2006  
+### **Variable label**: Distance to agricultural land in 2006 (Urban Atlas)    
 **Variable name**: physenv_ua_ne_agriland_06  
 **Variable description**: Absolute distance to the nearest polygon. No distinction is made between different types of agricultural land in 2006 from Urban Atalas data.  
 **Variable type**: decimal  
@@ -121,7 +121,7 @@ output: html_document
 ```
 
 
-### **Variable label**: Distance to agricultural land_2012  
+### **Variable label**: Distance to agricultural land in 2012 (Urban Atlas)    
 **Variable name**: physenv_ua_ne_agriland_12  
 **Variable description**: Absolute distance to the nearest polygon. No distinction is made between different types of agricultural land in 2012 from Urban Atalas data.  
 **Variable type**: decimal  
@@ -136,7 +136,7 @@ output: html_document
 ```
 
 
-### **Variable label**: Distance to total green spaces_2006  
+### **Variable label**: Distance to total green spaces in 2006 (Urban Atlas)   
 **Variable name**: physenv_ua_ne_totalgreen_06  
 **Variable description**: Absolute distance to the nearest polygon. Total of all categories of green spaces (forests + green urban  areas) in 2006 from Urban Atalas data.  
 **Variable type**: decimal  
@@ -150,7 +150,7 @@ output: html_document
 ```
 
 
-### **Variable label**: Distance to total green spaces_2012  
+### **Variable label**: Distance to total green spaces in 2012 (Urban Atlas)   
 **Variable name**: physenv_ua_ne_totalgreen_12  
 **Variable description**: Absolute distance to the nearest polygon. Total of all categories of green spaces (forests + green urban  areas) in 2012 from Urban Atalas data.  
 **Variable type**: decimal  
@@ -164,7 +164,7 @@ output: html_document
 ```
 
 
-### **Variable label**: Distance to total blue spaces_2006  
+### **Variable label**: Distance to total blue spaces in 2006 (Urban Atlas)   
 **Variable name**: physenv_ua_ne_totalblue_06  
 **Variable description**: Absolute distance to the nearest polygon. Total of all categories of blue spaces (water + wetlands) in 2006 from Urban Atalas data.  
 **Variable type**: decimal  
@@ -178,7 +178,7 @@ output: html_document
 ```
 
 
-### **Variable label**: Distance to total blue spaces_2012  
+### **Variable label**: Distance to total blue spaces in 2012 (Urban Atlas)   
 **Variable name**: physenv_ua_ne_totalblue_12  
 **Variable description**: Absolute distance to the nearest polygon. Total of all categories of blue spaces (water + wetlands) in 2012 from Urban Atalas data.  
 **Variable type**: decimal  
@@ -192,7 +192,7 @@ output: html_document
 ```
 
 
-### **Variable label**: Distance to total blue and green Spaces_2006  
+### **Variable label**: Distance to total blue and green Spaces in 2006 (Urban Atlas)  
 **Variable name**: physenv_ua_ne_totalbluegreen_06  
 **Variable description**: Absolute distance to the nearest polygon. Total of both green and blue space totals in 2006 from Urban Atalas data.  
 **Variable type**: decimal  
@@ -205,7 +205,7 @@ output: html_document
 
 ```
 
-### **Variable label**: Distance to total blue and green Spaces_2012  
+### **Variable label**: Distance to total blue and green Spaces in 2012 (Urban Atlas)   
 **Variable name**: physenv_ua_ne_totalbluegreen_12  
 **Variable description**: Absolute distance to the nearest polygon. Total of both green and blue space totals in 2012 from Urban Atalas data.  
 **Variable type**: decimal  
@@ -219,7 +219,7 @@ output: html_document
 ```
 
 
-### **Variable label**: Area size of green urban areas_2006  
+### **Variable label**: Area size of green urban areas in 2006 (Urban Atlas)  
 **Variable name**: physenv_ua_ne_greenurban_area_06  
 **Variable description**: Area size of the nearest polygon marked as green urban area in 2006 from Urban Atalas data.  
 **Variable type**: decimal  
@@ -233,7 +233,7 @@ output: html_document
 ```
 
 
-### **Variable label**: Area size of green urban areas _2012  
+### **Variable label**: Area size of green urban areas in 2012 (Urban Atlas)   
 **Variable name**: physenv_ua_ne_greenurban_area_12  
 **Variable description**: Area size of the nearest polygon marked as green urban area in 2012 from Urban Atalas data.  
 **Variable type**: decimal  
@@ -247,7 +247,7 @@ output: html_document
 ```
 
 
-### **Variable label**: Area size of Forests_2006  
+### **Variable label**: Area size of Forests in 2006 (Urban Atlas)   
 **Variable name**: physenv_ua_ne_forests_area_06  
 **Variable description**: Area size of the nearest polygon marked as forest in 2006 from Urban Atalas data.  
 **Variable type**: decimal  
@@ -261,7 +261,7 @@ output: html_document
 ```
 
 
-### **Variable label**: Area size of Forests_2012  
+### **Variable label**: Area size of Forests in 2012 (Urban Atlas)    
 **Variable name**: physenv_ua_ne_forests_area_12   
 **Variable description**: Area size of the nearest polygon marked as forest in 2012 from Urban Atalas data.  
 **Variable type**: decimal  
@@ -275,7 +275,7 @@ output: html_document
 ```
 
 
-### **Variable label**: Area size blue spaces area size_2006  
+### **Variable label**: Area size blue spaces area size in 2006 (Urban Atlas)   
 **Variable name**: physenv_ua_ne_bluespace_area_06  
 **Variable description**: Area size of the nearest polygon marked as water in 2006 from Urban Atalas data.  
 **Variable type**: decimal  
@@ -289,7 +289,7 @@ output: html_document
 ```
 
 
-### **Variable label**: Area size blue spaces area size_2012  
+### **Variable label**: Area size blue spaces area size in 2012 (Urban Atlas)   
 **Variable name**: physenv_ua_ne_bluespace_area_12  
 **Variable description**: Area size of the nearest polygon marked as water in 2012 from Urban Atalas data.  
 **Variable type**: decimal  
@@ -303,7 +303,7 @@ output: html_document
 ```
 
 
-### **Variable label**: Area size agricultural land_2006  
+### **Variable label**: Area size agricultural land in 2006 (Urban Atlas)   
 **Variable name**: physenv_ua_ne_agriland_area_06  
 **Variable description**: Area size of the nearest polygon. No distinction is made between different types of agricultural land in 2006 from Urban Atalas data.  
 **Variable type**: decimal  
@@ -317,7 +317,7 @@ output: html_document
 ```
 
 
-### **Variable label**: Area size agricultural land_2012  
+### **Variable label**: Area size agricultural land in 2012 (Urban Atlas)   
 **Variable name**: physenv_ua_ne_agriland_area_12  
 **Variable description**: Area size of the nearest polygon. No distinction is made between different types of agricultural land in 2012 from Urban Atalas data.  
 **Variable type**: decimal  
@@ -331,7 +331,7 @@ output: html_document
 ```
 
 
-### **Variable label**: Area size total green spaces_2006  
+### **Variable label**: Area size total green spaces in 2006 (Urban Atlas)   
 **Variable name**: physenv_ua_ne_totalgreen_area_06  
 **Variable description**: Area size of the nearest polygon. Total of all categories of green spaces (forests + green urban areas) in 2006 from Urban Atalas data.  
 **Variable type**: decimal   
@@ -345,7 +345,7 @@ output: html_document
 ```
 
 
-### **Variable label**: Area size total green spaces_2012  
+### **Variable label**: Area size total green spaces in 2012 (Urban Atlas)   
 **Variable name**: physenv_ua_ne_totalgreen_area_12  
 **Variable description**: Area size of the nearest polygon. Total of all categories of green spaces (forests + green urban areas) in 2012 from Urban Atalas data.  
 **Variable type**: decimal   
@@ -359,7 +359,7 @@ output: html_document
 ```
 
 
-### **Variable label**: Area size total blue spaces_2006  
+### **Variable label**: Area size total blue spaces in 2006 (Urban Atlas)   
 **Variable name**: physenv_ua_ne_totalblue_area_06  
 **Variable description**: Area size of the nearest polygon. Total of all categories of blue spaces (water + wetlands) in 2006 from Urban Atalas data.  
 **Variable type**: decimal  
@@ -373,7 +373,7 @@ output: html_document
 ```
 
 
-### **Variable label**: Area size total blue spaces_2012  
+### **Variable label**: Area size total blue spaces in 2012 (Urban Atlas)   
 **Variable name**: physenv_ua_ne_totalblue_area_12  
 **Variable description**: Area size of the nearest polygon. Total of all categories of blue spaces (water + wetlands) in 2012 from Urban Atalas data.  
 **Variable type**: decimal  
@@ -387,7 +387,7 @@ output: html_document
 ```
 
 
-### **Variable label**: Area size total blue and green Spaces_2006  
+### **Variable label**: Area size total blue and green Spaces in 2006 (Urban Atlas)   
 **Variable name**: physenv_ua_ne_totalbluegreen_area_06  
 **Variable description**: Area size of the nearest polygon. Total of both green and blue space totals in 2006 from Urban Atalas data.    
 **Variable type**: decimal  
@@ -401,7 +401,7 @@ output: html_document
 ```
 
 
-### **Variable label**: Area size total blue and green Spaces_2012  
+### **Variable label**: Area size total blue and green Spaces in 2012 (Urban Atlas)   
 **Variable name**: physenv_ua_ne_totalbluegreen_area_12  
 **Variable description**: Area size of the nearest polygon. Total of both green and blue space totals in 2012 from Urban Atalas data.    
 **Variable type**: decimal  
