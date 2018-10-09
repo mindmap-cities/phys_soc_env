@@ -26,6 +26,8 @@ output: html_document
 ```{r, echo=TRUE}
 #This is where the R-script will be written  
 
+```
+
 
 ### **Variable label**: Distance to green urban areas_1 
 **Variable name**: physenv_ua_ne_greenurban  
@@ -40,6 +42,7 @@ output: html_document
 ```{r, echo=TRUE}
 #This is where the R-script will be written
 
+```
 
 ### **Variable label**: Forests_0    
 **Variable description**: Absolute distance to the nearest polygon marked as forest.  
@@ -53,6 +56,7 @@ output: html_document
 ```{r, echo=TRUE}  
 #This is where the R-script will be written  
 
+```
 
 ### **Variable label**: Forests_1  
 **Variable description**: Absolute distance to the nearest polygon marked as forest.  
@@ -65,6 +69,7 @@ output: html_document
 **R script**:
 ```{r, echo=TRUE} 
 
+```
 
 ### **Variable label**: Blue spaces_0 
 **Variable name**: physenv_ua_ne_bluespace  
@@ -79,6 +84,7 @@ output: html_document
 ```{r, echo=TRUE}  
 #This is where the R-script will be written  
 
+```
 
 ### **Variable label**: Blue spaces_1
 **Variable name**: physenv_ua_ne_bluespace  
@@ -93,6 +99,7 @@ output: html_document
 ```{r, echo=TRUE}  
 #This is where the R-script will be written  
 
+```
 
 ### **Variable label**: Agricultural land_0  
 **Variable name**: physenv_ua_ne_agriland  
@@ -106,6 +113,7 @@ output: html_document
 ```{r, echo=TRUE}  
 #This is where the R-script will be written
  
+```
   
 ### **Variable label**: Agricultural land_1  
 **Variable name**: physenv_ua_ne_agriland 
@@ -117,6 +125,7 @@ output: html_document
 ```{r, echo=TRUE}  
 #This is where the R-script will be written  
 
+```
 
 ### **Variable label**: Total green spaces_0   
 **Variable name**: physenv_ua_ne_totalgreen  
@@ -129,6 +138,7 @@ output: html_document
 ```{r, echo=TRUE}  
 #This is where the R-script will be written  
 
+```
 
 ### **Variable label**: Total green spaces_1   
 **Variable name**: physenv_ua_ne_totalgreen  
@@ -141,6 +151,7 @@ output: html_document
 ```{r, echo=TRUE}  
 #This is where the R-script will be written  
 
+```
 
 ### **Variable label**: Total blue spaces_0  
 **Variable name**: physenv_ua_ne_totalblue  
@@ -153,6 +164,7 @@ output: html_document
 ```{r, echo=TRUE}  
 #This is where the R-script will be written  
 
+```
 
 ### **Variable label**: Total blue spaces_1  
 **Variable name**: physenv_ua_ne_totalblue  
@@ -165,6 +177,7 @@ output: html_document
 ```{r, echo=TRUE}  
 #This is where the R-script will be written 
 
+```
 
 ### **Variable label**: Total blue and green Spaces_0  
 **Variable name**: physenv_ua_ne_totalbluegreen  
@@ -177,6 +190,7 @@ output: html_document
 ```{r, echo=TRUE}  
 #This is where the R-script will be written 
 
+```
 
 ### **Variable label**: Total blue and green Spaces_1  
 **Variable name**: physenv_ua_ne_totalbluegreen  
@@ -189,6 +203,7 @@ output: html_document
 ```{r, echo=TRUE}  
 #This is where the R-script will be written 
 
+```
 
 ### **Variable label**: Green urban areas area size_0  
 **Variable name**: physenv_ua_ne_greenurban_area  
@@ -201,6 +216,7 @@ output: html_document
 ```{r, echo=TRUE}  
 #This is where the R-script will be written 
 
+```
 
 ### **Variable label**: Green urban areas area size_1  
 **Variable name**: physenv_ua_ne_greenurban_area  
@@ -213,6 +229,7 @@ output: html_document
 ```{r, echo=TRUE}  
 #This is where the R-script will be written 
 
+```
 
 ### **Variable label**: Forests area size_0  
 **Variable name**:physenv_ua_ne_forests_area  
@@ -225,6 +242,7 @@ output: html_document
 ```{r, echo=TRUE}  
 #This is where the R-script will be written 
 
+```
 
 ### **Variable label**: Forests area size_1  
 **Variable name**:physenv_ua_ne_forests_area  
@@ -237,6 +255,7 @@ output: html_document
 ```{r, echo=TRUE}  
 #This is where the R-script will be written 
 
+```
 
 ### **Variable label**: Blue spaces area size_0  
 **Variable name**: physenv_ua_ne_bluespace_area  
@@ -249,6 +268,7 @@ output: html_document
 ```{r, echo=TRUE}  
 #This is where the R-script will be written 
 
+```
 
 ### **Variable label**: Blue spaces area size_0  
 **Variable name**: physenv_ua_ne_bluespace_area  
@@ -261,6 +281,7 @@ output: html_document
 ```{r, echo=TRUE}  
 #This is where the R-script will be written 
 
+```
 
 ### **Variable label**: Agricultural land area size_0  
 **Variable name**: physenv_ua_ne_agriland_area  
@@ -273,6 +294,7 @@ output: html_document
 ```{r, echo=TRUE}  
 #This is where the R-script will be written 
 
+```
 
 ### **Variable label**: Agricultural land area size_1  
 **Variable name**: physenv_ua_ne_agriland_area  
@@ -285,6 +307,7 @@ output: html_document
 ```{r, echo=TRUE}  
 #This is where the R-script will be written  
 
+```
 
 ### **Variable label**: Total green spaces area size_0    
 **Variable name**: physenv_ua_ne_totalgreen_area  
@@ -297,6 +320,7 @@ output: html_document
 ```{r, echo=TRUE}  
 #This is where the R-script will be written 
 
+```
 
 ### **Variable label**: Total green spaces area size_1    
 **Variable name**: physenv_ua_ne_totalgreen_area  
@@ -309,6 +333,7 @@ output: html_document
 ```{r, echo=TRUE}  
 #This is where the R-script will be written 
 
+```
 
 ### **Variable label**: Total blue spaces area size_0  
 **Variable name**: physenv_ua_ne_totalblue_area  
@@ -321,6 +346,7 @@ output: html_document
 ```{r, echo=TRUE}  
 #This is where the R-script will be written
 
+```
 
 ### **Variable label**: Total blue spaces area size_1  
 **Variable name**: physenv_ua_ne_totalblue_area  
@@ -333,6 +359,7 @@ output: html_document
 ```{r, echo=TRUE}  
 #This is where the R-script will be written
 
+```
 
 ### **Variable label**: Total blue and green Spaces area size_0  
 **Variable name**: physenv_ua_ne_totalbluegreen_area  
@@ -345,6 +372,7 @@ output: html_document
 ```{r, echo=TRUE}  
 #This is where the R-script will be written  
 
+```
 
 ### **Variable label**: Total blue and green Spaces area size_1  
 **Variable name**: physenv_ua_ne_totalbluegreen_area  
@@ -357,6 +385,7 @@ output: html_document
 ```{r, echo=TRUE}  
 #This is where the R-script will be written  
 
+```
 
 ### **Variable label**: Green urban areas within 100 meter buffer_0  
 **Variable name**: physenv_ua_bf_greenurban100  
@@ -369,6 +398,7 @@ output: html_document
 ```{r, echo=TRUE}  
 #This is where the R-script will be written  
 
+```
 
 ### **Variable label**: Green urban areas within 100 meter buffer_1  
 **Variable name**: physenv_ua_bf_greenurban100  
@@ -381,6 +411,7 @@ output: html_document
 ```{r, echo=TRUE}  
 #This is where the R-script will be written  
 
+```
 
 ### **Variable label**: Green urban areas within 400 meter buffer_0  
 **Variable name**: physenv_ua_bf_greenurban400  
@@ -393,6 +424,7 @@ output: html_document
 ```{r, echo=TRUE}  
 #This is where the R-script will be written
 
+```
 
 ### **Variable label**: Green urban areas within 400 meter buffer_1  
 **Variable name**: physenv_ua_bf_greenurban400  
@@ -405,6 +437,7 @@ output: html_document
 ```{r, echo=TRUE}  
 #This is where the R-script will be written  
 
+```
 
 ### **Variable label**: Green urban areas within 800 meter buffer_0  
 **Variable name**: physenv_ua_bf_greenurban800  
@@ -417,6 +450,7 @@ output: html_document
 ```{r, echo=TRUE}  
 #This is where the R-script will be written
 
+```
 
 ### **Variable label**: Green urban areas within 800 meter buffer_1  
 **Variable name**: physenv_ua_bf_greenurban800  
@@ -429,6 +463,7 @@ output: html_document
 ```{r, echo=TRUE}  
 #This is where the R-script will be written
 
+```
 
 ### **Variable label**: Green urban areas within 1000 meter buffer_0  
 **Variable name**: physenv_ua_bf_greenurban1000
@@ -441,6 +476,8 @@ output: html_document
 ```{r, echo=TRUE}  
 #This is where the R-script will be written
 
+```
+
 ### **Variable label**: Green urban areas within 1000 meter buffer_1  
 **Variable name**: physenv_ua_bf_greenurban1000
 **Variable description**: Total amount of m2 of green urban areas within 1000 meter buffer  
@@ -451,6 +488,8 @@ output: html_document
 **Harmonization comment**:  
 ```{r, echo=TRUE}  
 #This is where the R-script will be written
+
+```
 
 ### **Variable label**: 
 **Variable name**: 
@@ -463,3 +502,4 @@ output: html_document
 ```{r, echo=TRUE}  
 #This is where the R-script will be written
 
+```
