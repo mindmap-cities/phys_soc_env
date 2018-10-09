@@ -13,9 +13,9 @@ output: html_document
 
 # Natural environment - Urban Atlas  
 
-### **Variable label**: Distance to green urban areas_0   
-**Variable name**: physenv_ua_ne_greenurban  
-**Variable description**: Absolute distance to the nearest polygon marked as green urban area  
+### **Variable label**: Distance to green urban areas in 2006 (Urban Atlas)   
+**Variable name**: physenv_ua_ne_greenurban_06  
+**Variable description**: Absolute distance to the nearest polygon marked as green urban area in 2006 from Urban Atalas data  
 **Variable type**: decimal  
 **Variable unit**: meters  
 **Category coding**: -  
@@ -29,9 +29,9 @@ output: html_document
 ```
 
 
-### **Variable label**: Distance to green urban areas_1 
-**Variable name**: physenv_ua_ne_greenurban  
-**Variable description**: Absolute distance to the nearest polygon marked as green urban area  
+### **Variable label**: Distance to green urban areas in 2012 (Urban Atlas)
+**Variable name**: physenv_ua_ne_greenurban_12  
+**Variable description**: Absolute distance to the nearest polygon marked as green urban area in 2012 from Urban Atlas data  
 **Variable type**: decimal  
 **Variable unit**: meters  
 **Category coding**: -  
@@ -44,8 +44,9 @@ output: html_document
 
 ```
 
-### **Variable label**: Forests_0    
-**Variable description**: Absolute distance to the nearest polygon marked as forest.  
+### **Variable label**: Distance to forests in 2006
+**Variable name**: ADD
+**Variable description**: Absolute distance to the nearest polygon marked as forest in 2006.  
 **Variable type**: decimal  
 **Variable unit**: meters  
 **Category coding**: -  
