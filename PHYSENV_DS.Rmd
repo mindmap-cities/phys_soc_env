@@ -15,7 +15,7 @@ output: html_document
 
 ### **Variable label**: Distance to green urban areas in 2006 (Urban Atlas)   
 **Variable name**: physenv_ua_ne_greenurban_06  
-**Variable description**: Absolute distance to the nearest polygon marked as green urban area in 2006 from Urban Atalas data  
+**Variable description**: Absolute distance to the nearest polygon marked as green urban area in 2006 from Urban Atalas data.  
 **Variable type**: decimal  
 **Variable unit**: meters  
 **Category coding**: -  
@@ -31,7 +31,7 @@ output: html_document
 
 ### **Variable label**: Distance to green urban areas in 2012 (Urban Atlas)
 **Variable name**: physenv_ua_ne_greenurban_12  
-**Variable description**: Absolute distance to the nearest polygon marked as green urban area in 2012 from Urban Atlas data  
+**Variable description**: Absolute distance to the nearest polygon marked as green urban area in 2012 from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: meters  
 **Category coding**: -  
@@ -44,9 +44,25 @@ output: html_document
 
 ```
 
-### **Variable label**: Distance to forests in 2006
-**Variable name**: ADD
-**Variable description**: Absolute distance to the nearest polygon marked as forest in 2006.  
+### **Variable label**: Distance to forests in 2006  
+**Variable name**: physenv_ua_ne_forests_06  
+**Variable description**: Absolute distance to the nearest polygon marked as forest in 2006 from Urban Atalas data.  
+**Variable type**: decimal  
+**Variable unit**: meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Distance to forests in 2012  
+**Variable name**: physenv_ua_ne_forests_12
+**Variable description**: Absolute distance to the nearest polygon marked as forest in 2012 from Urban Atalas data.  
 **Variable type**: decimal  
 **Variable unit**: meters  
 **Category coding**: -  
@@ -59,22 +75,24 @@ output: html_document
 
 ```
 
-### **Variable label**: Forests_1  
-**Variable description**: Absolute distance to the nearest polygon marked as forest.  
+
+### **Variable label**: Distance to blue spaces_2006  
+**Variable name**: physenv_ua_ne_bluespace_06  
+**Variable description**: Absolute distance to the nearest polygon marked as water in 2006 from Urban Atalas data.  
 **Variable type**: decimal  
 **Variable unit**: meters  
-**Category coding**: -  
+**Category coding**: - 
 
-**Harmonization status**:  
+**Harmonization status**:
 **Harmonization comment**:  
-**R script**:
-```{r, echo=TRUE} 
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
 
 ```
-
-### **Variable label**: Blue spaces_0 
-**Variable name**: physenv_ua_ne_bluespace  
-**Variable description**: Absolute distance to the nearest polygon marked as water.  
+### **Variable label**: Distance to blue spaces_2012  
+**Variable name**: physenv_ua_ne_bluespace_12  
+**Variable description**: Absolute distance to the nearest polygon marked as water in 2012 from Urban Atalas data.  
 **Variable type**: decimal  
 **Variable unit**: meters  
 **Category coding**: - 
@@ -87,24 +105,25 @@ output: html_document
 
 ```
 
-### **Variable label**: Blue spaces_1
-**Variable name**: physenv_ua_ne_bluespace  
-**Variable description**: Absolute distance to the nearest polygon marked as water.  
+
+### **Variable label**: Distance to agricultural land_2006  
+**Variable name**: physenv_ua_ne_agriland_06  
+**Variable description**: Absolute distance to the nearest polygon. No distinction is made between different types of agricultural land in 2006 from Urban Atalas data.  
 **Variable type**: decimal  
 **Variable unit**: meters  
 **Category coding**: - 
 
-**Harmonization status**:
 **Harmonization comment**:  
-**R script**:  
+**Harmonization comment**:  
 ```{r, echo=TRUE}  
 #This is where the R-script will be written  
-
+ 
 ```
 
-### **Variable label**: Agricultural land_0  
-**Variable name**: physenv_ua_ne_agriland  
-**Variable description**: Absolute distance to the nearest polygon. No distinction is made between different types of agricultural land.
+
+### **Variable label**: Distance to agricultural land_2012  
+**Variable name**: physenv_ua_ne_agriland_12  
+**Variable description**: Absolute distance to the nearest polygon. No distinction is made between different types of agricultural land in 2012 from Urban Atalas data.  
 **Variable type**: decimal  
 **Variable unit**: meters  
 **Category coding**: - 
@@ -115,22 +134,11 @@ output: html_document
 #This is where the R-script will be written
  
 ```
-  
-### **Variable label**: Agricultural land_1  
-**Variable name**: physenv_ua_ne_agriland 
-**Variable description**: Absolute distance to the nearest polygon. No distinction is made between different types of agricultural land. **Variable type**: decimal  
-**Variable unit**: meters  
-**Category coding**: -
 
-**Harmonization comment**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written  
 
-```
-
-### **Variable label**: Total green spaces_0   
-**Variable name**: physenv_ua_ne_totalgreen  
-**Variable description**: Absolute distance to the nearest polygon. Total of all categories of green spaces (forests + green urban  areas).  
+### **Variable label**: Distance to total green spaces_2006  
+**Variable name**: physenv_ua_ne_totalgreen_06  
+**Variable description**: Absolute distance to the nearest polygon. Total of all categories of green spaces (forests + green urban  areas) in 2006 from Urban Atalas data.  
 **Variable type**: decimal  
 **Variable unit**: meters  
 **Category coding**: -  
@@ -141,9 +149,24 @@ output: html_document
 
 ```
 
-### **Variable label**: Total green spaces_1   
-**Variable name**: physenv_ua_ne_totalgreen  
-**Variable description**: Absolute distance to the nearest polygon. Total of all categories of green spaces (forests + green urban  areas).  
+
+### **Variable label**: Distance to total green spaces_2012  
+**Variable name**: physenv_ua_ne_totalgreen_12  
+**Variable description**: Absolute distance to the nearest polygon. Total of all categories of green spaces (forests + green urban  areas) in 2012 from Urban Atalas data.  
+**Variable type**: decimal  
+**Variable unit**: meters  
+**Category coding**: -  
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```
+
+
+### **Variable label**: Distance to total blue spaces_2006  
+**Variable name**: physenv_ua_ne_totalblue_06  
+**Variable description**: Absolute distance to the nearest polygon. Total of all categories of blue spaces (water + wetlands) in 2006 from Urban Atalas data.  
 **Variable type**: decimal  
 **Variable unit**: meters  
 **Category coding**: -
@@ -154,9 +177,10 @@ output: html_document
 
 ```
 
-### **Variable label**: Total blue spaces_0  
-**Variable name**: physenv_ua_ne_totalblue  
-**Variable description**: Absolute distance to the nearest polygon. Total of all categories of blue spaces (water + wetlands).  
+
+### **Variable label**: Distance to total blue spaces_2012  
+**Variable name**: physenv_ua_ne_totalblue_12  
+**Variable description**: Absolute distance to the nearest polygon. Total of all categories of blue spaces (water + wetlands) in 2012 from Urban Atalas data.  
 **Variable type**: decimal  
 **Variable unit**: meters  
 **Category coding**: -
@@ -167,9 +191,10 @@ output: html_document
 
 ```
 
-### **Variable label**: Total blue spaces_1  
-**Variable name**: physenv_ua_ne_totalblue  
-**Variable description**: Absolute distance to the nearest polygon. Total of all categories of blue spaces (water + wetlands).  
+
+### **Variable label**: Distance to total blue and green Spaces_2006  
+**Variable name**: physenv_ua_ne_totalbluegreen_06  
+**Variable description**: Absolute distance to the nearest polygon. Total of both green and blue space totals in 2006 from Urban Atalas data.  
 **Variable type**: decimal  
 **Variable unit**: meters  
 **Category coding**: -
@@ -180,9 +205,9 @@ output: html_document
 
 ```
 
-### **Variable label**: Total blue and green Spaces_0  
-**Variable name**: physenv_ua_ne_totalbluegreen  
-**Variable description**: Absolute distance to the nearest polygon. Total of both green and blue space totals.  
+### **Variable label**: Distance to total blue and green Spaces_2012  
+**Variable name**: physenv_ua_ne_totalbluegreen_12  
+**Variable description**: Absolute distance to the nearest polygon. Total of both green and blue space totals in 2012 from Urban Atalas data.  
 **Variable type**: decimal  
 **Variable unit**: meters  
 **Category coding**: -
@@ -193,22 +218,10 @@ output: html_document
 
 ```
 
-### **Variable label**: Total blue and green Spaces_1  
-**Variable name**: physenv_ua_ne_totalbluegreen  
-**Variable description**: Absolute distance to the nearest polygon. Total of both green and blue space totals.  
-**Variable type**: decimal  
-**Variable unit**: meters  
-**Category coding**: -
 
-**Harmonization comment**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written 
-
-```
-
-### **Variable label**: Green urban areas area size_0  
-**Variable name**: physenv_ua_ne_greenurban_area  
-**Variable description**: Area size of the nearest polygon marked as green urban area  
+### **Variable label**: Area size of green urban areas_2006  
+**Variable name**: physenv_ua_ne_greenurban_area_06  
+**Variable description**: Area size of the nearest polygon marked as green urban area in 2006 from Urban Atalas data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -
@@ -219,87 +232,10 @@ output: html_document
 
 ```
 
-### **Variable label**: Green urban areas area size_1  
-**Variable name**: physenv_ua_ne_greenurban_area  
-**Variable description**: Area size of the nearest polygon marked as green urban area  
-**Variable type**: decimal  
-**Variable unit**: square meters  
-**Category coding**: -
 
-**Harmonization comment**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written 
-
-```
-
-### **Variable label**: Forests area size_0  
-**Variable name**:physenv_ua_ne_forests_area  
-**Variable description**: Area size of the nearest polygon marked as forest.  
-**Variable type**: decimal  
-**Variable unit**: square meters  
-**Category coding**: -
-
-**Harmonization comment**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written 
-
-```
-
-### **Variable label**: Forests area size_1  
-**Variable name**:physenv_ua_ne_forests_area  
-**Variable description**: Area size of the nearest polygon marked as forest.  
-**Variable type**: decimal  
-**Variable unit**: square meters  
-**Category coding**: -
-
-**Harmonization comment**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written 
-
-```
-
-### **Variable label**: Blue spaces area size_0  
-**Variable name**: physenv_ua_ne_bluespace_area  
-**Variable description**: Area size of the nearest polygon marked as water.  
-**Variable type**: decimal  
-**Variable unit**: square meters  
-**Category coding**: -
-
-**Harmonization comment**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written 
-
-```
-
-### **Variable label**: Blue spaces area size_0  
-**Variable name**: physenv_ua_ne_bluespace_area  
-**Variable description**: Area size of the nearest polygon marked as water.  
-**Variable type**: decimal  
-**Variable unit**: square meters  
-**Category coding**: -
-
-**Harmonization comment**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written 
-
-```
-
-### **Variable label**: Agricultural land area size_0  
-**Variable name**: physenv_ua_ne_agriland_area  
-**Variable description**: Area size of the nearest polygon. No distinction is made between different types of agricultural land.  
-**Variable type**: decimal  
-**Variable unit**: square meters  
-**Category coding**: -
-
-**Harmonization comment**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written 
-
-```
-
-### **Variable label**: Agricultural land area size_1  
-**Variable name**: physenv_ua_ne_agriland_area  
-**Variable description**: Area size of the nearest polygon. No distinction is made between different types of agricultural land.  
+### **Variable label**: Area size of green urban areas _2012  
+**Variable name**: physenv_ua_ne_greenurban_area_12  
+**Variable description**: Area size of the nearest polygon marked as green urban area in 2012 from Urban Atalas data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -310,9 +246,94 @@ output: html_document
 
 ```
 
-### **Variable label**: Total green spaces area size_0    
-**Variable name**: physenv_ua_ne_totalgreen_area  
-**Variable description**: Area size of the nearest polygon. Total of all categories of green spaces (forests + green urban areas).   
+
+### **Variable label**: Area size of Forests_2006  
+**Variable name**: physenv_ua_ne_forests_area_06  
+**Variable description**: Area size of the nearest polygon marked as forest in 2006 from Urban Atalas data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```
+
+
+### **Variable label**: Area size of Forests_2012  
+**Variable name**: physenv_ua_ne_forests_area_12   
+**Variable description**: Area size of the nearest polygon marked as forest in 2012 from Urban Atalas data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```
+
+
+### **Variable label**: Area size blue spaces area size_2006  
+**Variable name**: physenv_ua_ne_bluespace_area_06  
+**Variable description**: Area size of the nearest polygon marked as water in 2006 from Urban Atalas data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written 
+
+```
+
+
+### **Variable label**: Area size blue spaces area size_2012  
+**Variable name**: physenv_ua_ne_bluespace_area_12  
+**Variable description**: Area size of the nearest polygon marked as water in 2012 from Urban Atalas data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written 
+
+```
+
+
+### **Variable label**: Area size agricultural land_2006  
+**Variable name**: physenv_ua_ne_agriland_area_06  
+**Variable description**: Area size of the nearest polygon. No distinction is made between different types of agricultural land in 2006 from Urban Atalas data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written 
+
+```
+
+
+### **Variable label**: Area size agricultural land_2012  
+**Variable name**: physenv_ua_ne_agriland_area_12  
+**Variable description**: Area size of the nearest polygon. No distinction is made between different types of agricultural land in 2012 from Urban Atalas data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -
+
+**Harmonization comment**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written 
+
+```
+
+
+### **Variable label**: Area size total green spaces_2006  
+**Variable name**: physenv_ua_ne_totalgreen_area_06  
+**Variable description**: Area size of the nearest polygon. Total of all categories of green spaces (forests + green urban areas) in 2006 from Urban Atalas data.  
 **Variable type**: decimal   
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -323,9 +344,10 @@ output: html_document
 
 ```
 
-### **Variable label**: Total green spaces area size_1    
-**Variable name**: physenv_ua_ne_totalgreen_area  
-**Variable description**: Area size of the nearest polygon. Total of all categories of green spaces (forests + green urban areas).   
+
+### **Variable label**: Area size total green spaces_2012  
+**Variable name**: physenv_ua_ne_totalgreen_area_12  
+**Variable description**: Area size of the nearest polygon. Total of all categories of green spaces (forests + green urban areas) in 2012 from Urban Atalas data.  
 **Variable type**: decimal   
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -336,9 +358,10 @@ output: html_document
 
 ```
 
-### **Variable label**: Total blue spaces area size_0  
-**Variable name**: physenv_ua_ne_totalblue_area  
-**Variable description**: Area size of the nearest polygon. Total of all categories of blue spaces (water + wetlands).  
+
+### **Variable label**: Area size total blue spaces_2006  
+**Variable name**: physenv_ua_ne_totalblue_area_06  
+**Variable description**: Area size of the nearest polygon. Total of all categories of blue spaces (water + wetlands) in 2006 from Urban Atalas data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -
@@ -349,9 +372,10 @@ output: html_document
 
 ```
 
-### **Variable label**: Total blue spaces area size_1  
-**Variable name**: physenv_ua_ne_totalblue_area  
-**Variable description**: Area size of the nearest polygon. Total of all categories of blue spaces (water + wetlands).  
+
+### **Variable label**: Area size total blue spaces_2012  
+**Variable name**: physenv_ua_ne_totalblue_area_12  
+**Variable description**: Area size of the nearest polygon. Total of all categories of blue spaces (water + wetlands) in 2012 from Urban Atalas data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -
@@ -362,9 +386,10 @@ output: html_document
 
 ```
 
-### **Variable label**: Total blue and green Spaces area size_0  
-**Variable name**: physenv_ua_ne_totalbluegreen_area  
-**Variable description**: Area size of the nearest polygon. Total of both green and blue space totals.  
+
+### **Variable label**: Area size total blue and green Spaces_2006  
+**Variable name**: physenv_ua_ne_totalbluegreen_area_06  
+**Variable description**: Area size of the nearest polygon. Total of both green and blue space totals in 2006 from Urban Atalas data.    
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -
@@ -375,9 +400,10 @@ output: html_document
 
 ```
 
-### **Variable label**: Total blue and green Spaces area size_1  
-**Variable name**: physenv_ua_ne_totalbluegreen_area  
-**Variable description**: Area size of the nearest polygon. Total of both green and blue space totals.  
+
+### **Variable label**: Area size total blue and green Spaces_2012  
+**Variable name**: physenv_ua_ne_totalbluegreen_area_12  
+**Variable description**: Area size of the nearest polygon. Total of both green and blue space totals in 2012 from Urban Atalas data.    
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -
@@ -387,7 +413,6 @@ output: html_document
 #This is where the R-script will be written  
 
 ```
-
 ### **Variable label**: Green urban areas within 100 meter buffer_0  
 **Variable name**: physenv_ua_bf_greenurban100  
 **Variable description**: Total amount of m2 of green urban areas within 100 meter buffer  
