@@ -26,7 +26,7 @@ output: html_document
 ```{r, echo=TRUE}
 #This is where the R-script will be written  
 
-```
+```  
 
 
 ### **Variable label**: Distance to green urban areas in 2012 (Urban Atlas)
@@ -42,7 +42,7 @@ output: html_document
 ```{r, echo=TRUE}
 #This is where the R-script will be written
 
-```
+```  
 
 ### **Variable label**: Distance to forests in 2006 (Urban Atlas)  
 **Variable name**: physenv_ua_ne_forests_06  
@@ -73,7 +73,7 @@ output: html_document
 ```{r, echo=TRUE}  
 #This is where the R-script will be written  
 
-```
+```  
 
 
 ### **Variable label**: Distance to blue spaces in 2006 (Urban Atlas)    
@@ -90,6 +90,8 @@ output: html_document
 #This is where the R-script will be written  
 
 ```
+
+
 ### **Variable label**: Distance to blue spaces in 2012 (Urban Atlas)    
 **Variable name**: physenv_ua_ne_bluespace_12  
 **Variable description**: Absolute distance to the nearest polygon marked as water in 2012 from Urban Atalas data.  
@@ -103,7 +105,7 @@ output: html_document
 ```{r, echo=TRUE}  
 #This is where the R-script will be written  
 
-```
+```  
 
 
 ### **Variable label**: Distance to agricultural land in 2006 (Urban Atlas)    
@@ -113,12 +115,13 @@ output: html_document
 **Variable unit**: meters  
 **Category coding**: - 
 
+**Harmonization status**:  
 **Harmonization comment**:  
-**Harmonization comment**:  
-```{r, echo=TRUE}  
+**R script**:  
+```{r, echo=TRUE}
 #This is where the R-script will be written  
- 
-```
+
+```  
 
 
 ### **Variable label**: Distance to agricultural land in 2012 (Urban Atlas)    
@@ -128,12 +131,13 @@ output: html_document
 **Variable unit**: meters  
 **Category coding**: - 
 
+**Harmonization status**:  
 **Harmonization comment**:  
-**Harmonization comment**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written
- 
-```
+**R script**:  
+```{r, echo=TRUE}
+#This is where the R-script will be written  
+
+```  
 
 
 ### **Variable label**: Distance to total green spaces in 2006 (Urban Atlas)   
@@ -143,11 +147,13 @@ output: html_document
 **Variable unit**: meters  
 **Category coding**: -  
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
+**R script**:  
+```{r, echo=TRUE}
 #This is where the R-script will be written  
 
-```
+```  
 
 
 ### **Variable label**: Distance to total green spaces in 2012 (Urban Atlas)   
@@ -157,11 +163,13 @@ output: html_document
 **Variable unit**: meters  
 **Category coding**: -  
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
+**R script**:  
+```{r, echo=TRUE}
 #This is where the R-script will be written  
 
-```
+```  
 
 
 ### **Variable label**: Distance to total blue spaces in 2006 (Urban Atlas)   
@@ -171,11 +179,13 @@ output: html_document
 **Variable unit**: meters  
 **Category coding**: -
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
+**R script**:  
+```{r, echo=TRUE}
 #This is where the R-script will be written  
 
-```
+```  
 
 
 ### **Variable label**: Distance to total blue spaces in 2012 (Urban Atlas)   
@@ -185,11 +195,13 @@ output: html_document
 **Variable unit**: meters  
 **Category coding**: -
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
+**R script**:  
+```{r, echo=TRUE}
 #This is where the R-script will be written  
 
-```
+```  
 
 
 ### **Variable label**: Distance to total blue and green Spaces in 2006 (Urban Atlas)  
@@ -199,11 +211,14 @@ output: html_document
 **Variable unit**: meters  
 **Category coding**: -
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written 
+**R script**:  
+```{r, echo=TRUE}
+#This is where the R-script will be written  
 
-```
+```  
+
 
 ### **Variable label**: Distance to total blue and green Spaces in 2012 (Urban Atlas)   
 **Variable name**: physenv_ua_ne_totalbluegreen_12  
@@ -212,11 +227,13 @@ output: html_document
 **Variable unit**: meters  
 **Category coding**: -
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written 
+**R script**:  
+```{r, echo=TRUE}
+#This is where the R-script will be written  
 
-```
+```  
 
 
 ### **Variable label**: Area size of green urban areas in 2006 (Urban Atlas)  
@@ -226,11 +243,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written 
+**R script**:  
+```{r, echo=TRUE}
+#This is where the R-script will be written  
 
-```
+```  
 
 
 ### **Variable label**: Area size of green urban areas in 2012 (Urban Atlas)   
@@ -240,11 +259,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -  
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
+**R script**:  
+```{r, echo=TRUE}
 #This is where the R-script will be written  
 
-```
+```  
 
 
 ### **Variable label**: Area size of Forests in 2006 (Urban Atlas)   
@@ -254,11 +275,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -  
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
+**R script**:  
+```{r, echo=TRUE}
 #This is where the R-script will be written  
 
-```
+```  
 
 
 ### **Variable label**: Area size of Forests in 2012 (Urban Atlas)    
@@ -268,11 +291,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -  
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
+**R script**:  
+```{r, echo=TRUE}
 #This is where the R-script will be written  
 
-```
+```  
 
 
 ### **Variable label**: Area size blue spaces area size in 2006 (Urban Atlas)   
@@ -282,11 +307,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written 
+**R script**:  
+```{r, echo=TRUE}
+#This is where the R-script will be written  
 
-```
+```  
 
 
 ### **Variable label**: Area size blue spaces area size in 2012 (Urban Atlas)   
@@ -296,11 +323,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written 
+**R script**:  
+```{r, echo=TRUE}
+#This is where the R-script will be written  
 
-```
+```  
 
 
 ### **Variable label**: Area size agricultural land in 2006 (Urban Atlas)   
@@ -310,11 +339,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written 
+**R script**:  
+```{r, echo=TRUE}
+#This is where the R-script will be written  
 
-```
+```  
 
 
 ### **Variable label**: Area size agricultural land in 2012 (Urban Atlas)   
@@ -324,11 +355,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written 
+**R script**:  
+```{r, echo=TRUE}
+#This is where the R-script will be written  
 
-```
+```  
 
 
 ### **Variable label**: Area size total green spaces in 2006 (Urban Atlas)   
@@ -338,11 +371,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -  
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written 
+**R script**:  
+```{r, echo=TRUE}
+#This is where the R-script will be written  
 
-```
+```  
 
 
 ### **Variable label**: Area size total green spaces in 2012 (Urban Atlas)   
@@ -352,11 +387,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -  
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written 
+**R script**:  
+```{r, echo=TRUE}
+#This is where the R-script will be written  
 
-```
+```  
 
 
 ### **Variable label**: Area size total blue spaces in 2006 (Urban Atlas)   
@@ -366,11 +403,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written
+**R script**:  
+```{r, echo=TRUE}
+#This is where the R-script will be written  
 
-```
+```  
 
 
 ### **Variable label**: Area size total blue spaces in 2012 (Urban Atlas)   
@@ -380,11 +419,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written
+**R script**:  
+```{r, echo=TRUE}
+#This is where the R-script will be written  
 
-```
+```  
 
 
 ### **Variable label**: Area size total blue and green Spaces in 2006 (Urban Atlas)   
@@ -394,11 +435,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
+**R script**:  
+```{r, echo=TRUE}
 #This is where the R-script will be written  
 
-```
+```  
 
 
 ### **Variable label**: Area size total blue and green Spaces in 2012 (Urban Atlas)   
@@ -408,11 +451,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
+**R script**:  
+```{r, echo=TRUE}
 #This is where the R-script will be written  
 
-```
+```  
 
 
 ### **Variable label**: Total amount of m2 of green urban areas within 100 meter buffer in 2006 (Urban Atlas)  
@@ -422,11 +467,14 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -  
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
+**R script**:  
+```{r, echo=TRUE}
 #This is where the R-script will be written  
 
-```
+```  
+
 
 ### **Variable label**: Total amount of m2 of green urban areas within 100 meter buffer in 2012 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_greenurban100_06  
@@ -435,11 +483,14 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -  
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
+**R script**:  
+```{r, echo=TRUE}
 #This is where the R-script will be written  
 
-```
+```  
+
 
 ### **Variable label**: Total amount of m2 of forests within 100 meter buffer in 2006 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_forests100_06  
@@ -448,11 +499,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written
+**R script**:  
+```{r, echo=TRUE}
+#This is where the R-script will be written  
 
-```
+```  
 
 
 ### **Variable label**: Total amount of m2 of forests within 100 meter buffer in 2012 (Urban Atlas)  
@@ -462,11 +515,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written
+**R script**:  
+```{r, echo=TRUE}
+#This is where the R-script will be written  
 
-```
+```  
 
 
 ### **Variable label**: Total amount of m2 of blue space within 100 meter buffer in 2006 (Uban Atlas)  
@@ -476,11 +531,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written
+**R script**:  
+```{r, echo=TRUE}
+#This is where the R-script will be written  
 
-```
+```  
 
 
 ### **Variable label**: Total amount of m2 of blue space within 100 meter buffer in 2012 (Uban Atlas)  
@@ -490,11 +547,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written
+**R script**:  
+```{r, echo=TRUE}
+#This is where the R-script will be written  
 
-```
+```  
 
 
 ### **Variable label**: Total amount of m2 of agricultural land within 100 meter buffer in 2006 (Urban Atlas)  
@@ -504,11 +563,14 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written
+**R script**:  
+```{r, echo=TRUE}
+#This is where the R-script will be written  
 
-```
+```  
+
 
 ### **Variable label**: Total amount of m2 of agricultural land within 100 meter buffer in 2012 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_agriland100_12  
@@ -517,11 +579,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written
+**R script**:  
+```{r, echo=TRUE}
+#This is where the R-script will be written  
 
-```
+```  
 
 
 ### **Variable label**: Total green space within 100 meter buffer in 2006 (Urban Atlas)  
@@ -531,11 +595,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written
+**R script**:  
+```{r, echo=TRUE}
+#This is where the R-script will be written  
 
-```
+```  
 
 
 ### **Variable label**: Total green space within 100 meter buffer in 2012 (Urban Atlas)  
@@ -545,11 +611,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written
+**R script**:  
+```{r, echo=TRUE}
+#This is where the R-script will be written  
 
-```
+```  
 
 
 ### **Variable label**: Total blue space within 100 meter buffer in 2006 (Urban Atlas)  
@@ -559,11 +627,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written
+**R script**:  
+```{r, echo=TRUE}
+#This is where the R-script will be written  
 
-```
+```  
 
 
 ### **Variable label**: Total blue space within 100 meter buffer in 2012 (Urban Atlas)  
@@ -573,11 +643,14 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written
+**R script**:  
+```{r, echo=TRUE}
+#This is where the R-script will be written  
 
-```
+```  
+
 
 ### **Variable label**: Total blue and green space within 100 meter buffer in 2006 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_totalbluegreen100_06  
@@ -586,8 +659,10 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -  
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
+**R script**:  
+```{r, echo=TRUE}
 #This is where the R-script will be written  
 
 ```  
@@ -600,8 +675,10 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -  
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
+**R script**:  
+```{r, echo=TRUE}
 #This is where the R-script will be written  
 
 ```  
@@ -614,11 +691,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written 
+**R script**:  
+```{r, echo=TRUE}
+#This is where the R-script will be written  
 
-```
+```  
 
 
 ### **Variable label**: Green urban areas within 100 meter buffer in 2000 (CORINE)  
@@ -628,11 +707,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written 
+**R script**:  
+```{r, echo=TRUE}
+#This is where the R-script will be written  
 
-```
+```  
 
 
 ### **Variable label**: Green urban areas within 100 meter buffer in 2006 (CORINE)  
@@ -642,11 +723,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written 
+**R script**:  
+```{r, echo=TRUE}
+#This is where the R-script will be written  
 
-```
+```  
 
 
 ### **Variable label**: Green urban areas within 100 meter buffer in 2012 (CORINE)  
@@ -656,11 +739,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written 
+**R script**:  
+```{r, echo=TRUE}
+#This is where the R-script will be written  
 
-```
+```  
 
 
 ### **Variable label**: Forests within 100 meter buffer in 1990 (CORINE)  
@@ -670,11 +755,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written 
+**R script**:  
+```{r, echo=TRUE}
+#This is where the R-script will be written  
 
-```
+```  
 
 
 ### **Variable label**: Forests within 100 meter buffer in 2000 (CORINE)  
@@ -684,11 +771,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written 
+**R script**:  
+```{r, echo=TRUE}
+#This is where the R-script will be written  
 
-```
+```  
 
 
 ### **Variable label**: Forests within 100 meter buffer in 2006 (CORINE)  
@@ -698,11 +787,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written 
+**R script**:  
+```{r, echo=TRUE}
+#This is where the R-script will be written  
 
-```
+```  
 
 
 ### **Variable label**: Forests within 100 meter buffer in 2012 (CORINE)  
@@ -712,11 +803,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written 
+**R script**:  
+```{r, echo=TRUE}
+#This is where the R-script will be written  
 
-```
+```  
 
 
 ### **Variable label**: Blue spaces within 100 meter buffer 1990 (CORINE)  
@@ -726,11 +819,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written 
+**R script**:  
+```{r, echo=TRUE}
+#This is where the R-script will be written  
 
-```
+```  
 
 
 ### **Variable label**: Blue spaces within 100 meter buffer 2000 (CORINE)  
@@ -740,11 +835,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written 
+**R script**:  
+```{r, echo=TRUE}
+#This is where the R-script will be written  
 
-```
+```  
 
 
 ### **Variable label**: Blue spaces within 100 meter buffer 2006 (CORINE)  
@@ -754,11 +851,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written 
+**R script**:  
+```{r, echo=TRUE}
+#This is where the R-script will be written  
 
-```
+```  
 
 
 ### **Variable label**: Blue spaces within 100 meter buffer 2012 (CORINE)  
@@ -768,11 +867,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written 
+**R script**:  
+```{r, echo=TRUE}
+#This is where the R-script will be written  
 
-```
+```  
 
 
 ### **Variable label**: Agricultural land within 100 meter buffer in 1990 (CORINE)  
@@ -782,11 +883,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written 
+**R script**:  
+```{r, echo=TRUE}
+#This is where the R-script will be written  
 
-```
+```  
 
 
 ### **Variable label**: Agricultural land within 100 meter buffer in 2000 (CORINE)  
@@ -796,11 +899,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written 
+**R script**:  
+```{r, echo=TRUE}
+#This is where the R-script will be written  
 
-```
+```  
 
 
 ### **Variable label**: Agricultural land within 100 meter buffer in 2006 (CORINE)  
@@ -810,11 +915,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written 
+**R script**:  
+```{r, echo=TRUE}
+#This is where the R-script will be written  
 
-```
+```  
 
 
 ### **Variable label**: Agricultural land within 100 meter buffer in 2012 (CORINE)  
@@ -824,11 +931,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written 
+**R script**:  
+```{r, echo=TRUE}
+#This is where the R-script will be written  
 
-```
+```  
 
 
 ### **Variable label**: Total green space within 100 meter buffer in 1990 (CORINE)  
@@ -838,11 +947,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -  
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written 
+**R script**:  
+```{r, echo=TRUE}
+#This is where the R-script will be written  
 
-```
+```  
 
 
 ### **Variable label**: Total green space within 100 meter buffer in 2000 (CORINE)  
@@ -852,11 +963,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -  
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written 
+**R script**:  
+```{r, echo=TRUE}
+#This is where the R-script will be written  
 
-```
+```  
 
 
 ### **Variable label**: Total green space within 100 meter buffer in 2006 (CORINE)  
@@ -866,11 +979,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -  
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written 
+**R script**:  
+```{r, echo=TRUE}
+#This is where the R-script will be written  
 
-```
+```  
 
 
 ### **Variable label**: Total green space within 100 meter buffer in 2012 (CORINE)  
@@ -880,11 +995,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -  
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written 
+**R script**:  
+```{r, echo=TRUE}
+#This is where the R-script will be written  
 
-```
+```  
 
 
 ### **Variable label**: Total blue space within 100 meter buffer in 1990 (CORINE)  
@@ -894,11 +1011,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written
+**R script**:  
+```{r, echo=TRUE}
+#This is where the R-script will be written  
 
-```
+```  
 
 
 ### **Variable label**: Total blue space within 100 meter buffer in 2000 (CORINE)  
@@ -908,11 +1027,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written
+**R script**:  
+```{r, echo=TRUE}
+#This is where the R-script will be written  
 
-```
+```  
 
 
 ### **Variable label**: Total blue space within 100 meter buffer in 2006 (CORINE)  
@@ -922,11 +1043,14 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written
+**R script**:  
+```{r, echo=TRUE}
+#This is where the R-script will be written  
 
-```
+```  
+
 
 ### **Variable label**: Total blue space within 100 meter buffer in 2012 (CORINE)  
 **Variable name**: physenv_cn_bf_totalblue100_12  
@@ -935,11 +1059,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written
+**R script**:  
+```{r, echo=TRUE}
+#This is where the R-script will be written  
 
-```
+```  
 
 
 ### **Variable label**: Total blue and green space within 100 meter buffer in 1990 (CORINE)  
@@ -949,11 +1075,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written
+**R script**:  
+```{r, echo=TRUE}
+#This is where the R-script will be written  
 
-```
+```  
 
 
 ### **Variable label**: Total blue and green space within 100 meter buffer in 2000 (CORINE)  
@@ -963,11 +1091,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written
+**R script**:  
+```{r, echo=TRUE}
+#This is where the R-script will be written  
 
-```
+```  
 
 
 ### **Variable label**: Total blue and green space within 100 meter buffer in 2006 (CORINE)  
@@ -977,11 +1107,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written
+**R script**:  
+```{r, echo=TRUE}
+#This is where the R-script will be written  
 
-```
+```  
 
 
 ### **Variable label**: Total blue and green space within 100 meter buffer in 2012 (CORINE) 
@@ -991,11 +1123,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written
+**R script**:  
+```{r, echo=TRUE}
+#This is where the R-script will be written  
 
-```
+```  
 
 
 ### **Variable label**: Total amount of m2 of green urban areas within 400 meter buffer in 2006 (Urban Atlas)  
@@ -1005,11 +1139,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -  
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
+**R script**:  
+```{r, echo=TRUE}
 #This is where the R-script will be written  
 
-```
+```  
 
 
 ### **Variable label**: Total amount of m2 of green urban areas within 400 meter buffer in 2012 (Urban Atlas)  
@@ -1019,11 +1155,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -  
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
+**R script**:  
+```{r, echo=TRUE}
 #This is where the R-script will be written  
 
-```  
+```   
 
 
 ### **Variable label**: Total amount of m2 of forests within 400 meter buffer in 2006 (Urban Atlas)
@@ -1033,11 +1171,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written
+**R script**:  
+```{r, echo=TRUE}
+#This is where the R-script will be written  
 
-```
+```   
 
 
 ### **Variable label**: Total amount of m2 of forests within 400 meter buffer in 2012 (Urban Atlas)
@@ -1047,11 +1187,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written
+**R script**:  
+```{r, echo=TRUE}
+#This is where the R-script will be written  
 
-```
+```   
 
 
 ### **Variable label**: Total amount of m2 of blue space within 400 meter buffer in 2006 (Urban Atlas)  
@@ -1061,11 +1203,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written
+**R script**:  
+```{r, echo=TRUE}
+#This is where the R-script will be written  
 
-```
+```   
 
 
 ### **Variable label**: Total amount of m2 of blue space within 400 meter buffer in 2012 (Urban Atlas)  
@@ -1075,11 +1219,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -  
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
+**R script**:  
+```{r, echo=TRUE}
 #This is where the R-script will be written  
 
-```  
+```   
 
 
 ### **Variable label**: Total amount of m2 of agricultural land within 400 meter buffer in 2006 (Urban Atlas)  
@@ -1089,11 +1235,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written
+**R script**:  
+```{r, echo=TRUE}
+#This is where the R-script will be written  
 
-```
+```   
 
 
 ### **Variable label**: Total amount of m2 of agricultural land within 400 meter buffer in 2012 (Urban Atlas)  
@@ -1103,11 +1251,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written
+**R script**:  
+```{r, echo=TRUE}
+#This is where the R-script will be written  
 
-```
+```   
 
 
 ### **Variable label**: 
@@ -1117,11 +1267,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written
+**R script**:  
+```{r, echo=TRUE}
+#This is where the R-script will be written  
 
-```
+```   
 
 
 ### **Variable label**: Total amount of m2 of green spaces within 400 meter buffer in 2006 (Urban Atlas)  
@@ -1131,11 +1283,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -  
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
+**R script**:  
+```{r, echo=TRUE}
 #This is where the R-script will be written  
 
-```  
+```   
 
 
 ### **Variable label**: Total amount of m2 of green spaces within 400 meter buffer in 2012 (Urban Atlas)  
@@ -1145,11 +1299,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -  
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
+**R script**:  
+```{r, echo=TRUE}
 #This is where the R-script will be written  
 
-```  
+```   
 
 
 ### **Variable label**: Total amount of m2 of blue spaces within 400 meter buffer in 2006 (Urban Atlas)  
@@ -1159,11 +1315,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -  
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
+**R script**:  
+```{r, echo=TRUE}
 #This is where the R-script will be written  
 
-```  
+```   
 
 
 ### **Variable label**: Total amount of m2 of blue spaces within 400 meter buffer in 2012 (Urban Atlas)  
@@ -1173,11 +1331,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -  
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
+**R script**:  
+```{r, echo=TRUE}
 #This is where the R-script will be written  
 
-```  
+```    
 
 
 ### **Variable label**: Total amount of m2 of blue and green spaces within 400 meter buffer in 2006 (Urban Atlas)  
@@ -1187,11 +1347,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -  
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
+**R script**:  
+```{r, echo=TRUE}
 #This is where the R-script will be written  
 
-```  
+```   
 
 
 ### **Variable label**: Total amount of m2 of blue and green spaces within 400 meter buffer in 2012 (Urban Atlas)  
@@ -1201,11 +1363,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -  
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
+**R script**:  
+```{r, echo=TRUE}
 #This is where the R-script will be written  
 
-```  
+```   
 
 
 ### **Variable label**: Total amount of m2 of green urban areas within 400 meter buffer in 1990 (CORINE)  
@@ -1215,11 +1379,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -  
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
+**R script**:  
+```{r, echo=TRUE}
 #This is where the R-script will be written  
 
-```  
+```   
 
 
 ### **Variable label**: Total amount of m2 of green urban areas within 400 meter buffer in 2000 (CORINE)  
@@ -1229,11 +1395,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -  
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
+**R script**:  
+```{r, echo=TRUE}
 #This is where the R-script will be written  
 
-```  
+```    
 
 
 ### **Variable label**: Total amount of m2 of green urban areas within 400 meter buffer in 2006 (CORINE)  
@@ -1243,11 +1411,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -  
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
+**R script**:  
+```{r, echo=TRUE}
 #This is where the R-script will be written  
 
-```  
+```   
 
 
 ### **Variable label**: Total amount of m2 of green urban areas within 400 meter buffer in 2012 (CORINE)  
@@ -1257,11 +1427,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -  
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
+**R script**:  
+```{r, echo=TRUE}
 #This is where the R-script will be written  
 
-```  
+```    
 
 
 ### **Variable label**: Total amount of m2 of forest within 400 meter buffer in 1990 (CORINE)  
@@ -1271,11 +1443,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -  
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
+**R script**:  
+```{r, echo=TRUE}
 #This is where the R-script will be written  
 
-```  
+```   
 
 
 ### **Variable label**: Total amount of m2 of forest within 400 meter buffer in 2000 (CORINE)  
@@ -1285,11 +1459,14 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -  
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
+**R script**:  
+```{r, echo=TRUE}
 #This is where the R-script will be written  
 
-```  
+```   
+
 
 ### **Variable label**: Total amount of m2 of forest within 400 meter buffer in 2006 (CORINE)  
 **Variable name**: physenv_cn_bf_forests400_06  
@@ -1298,11 +1475,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -  
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
+**R script**:  
+```{r, echo=TRUE}
 #This is where the R-script will be written  
 
-```  
+```   
 
 
 ### **Variable label**: Total amount of m2 of forest within 400 meter buffer in 2012 (CORINE)  
@@ -1312,11 +1491,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -  
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
+**R script**:  
+```{r, echo=TRUE}
 #This is where the R-script will be written  
 
-```  
+```   
 
 
 ### **Variable label**: Total amount of m2 of blue space within 400 meter buffer in 1990 (CORINE)  
@@ -1326,11 +1507,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -  
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
+**R script**:  
+```{r, echo=TRUE}
 #This is where the R-script will be written  
 
-```  
+```   
 
 
 ### **Variable label**: Total amount of m2 of blue space within 400 meter buffer in 2000 (CORINE)  
@@ -1340,11 +1523,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -  
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
+**R script**:  
+```{r, echo=TRUE}
 #This is where the R-script will be written  
 
-```  
+```   
 
 
 ### **Variable label**: Total amount of m2 of blue space within 400 meter buffer in 2006 (CORINE)  
@@ -1354,11 +1539,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -  
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
+**R script**:  
+```{r, echo=TRUE}
 #This is where the R-script will be written  
 
-```  
+```   
 
 
 ### **Variable label**: Total amount of m2 of blue space within 400 meter buffer in 2012 (CORINE)  
@@ -1368,11 +1555,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -  
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
+**R script**:  
+```{r, echo=TRUE}
 #This is where the R-script will be written  
 
-```  
+```   
 
 
 ### **Variable label**: Total amount of m2 of agricultural land within 400 meter buffer in 1990 (CORINE)  
@@ -1382,11 +1571,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -  
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
+**R script**:  
+```{r, echo=TRUE}
 #This is where the R-script will be written  
 
-```  
+```   
 
 
 ### **Variable label**: Total amount of m2 of agricultural land within 400 meter buffer in 2000 (CORINE)  
@@ -1396,11 +1587,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -  
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
+**R script**:  
+```{r, echo=TRUE}
 #This is where the R-script will be written  
 
-```  
+```   
 
 
 ### **Variable label**: Total amount of m2 of agricultural land within 400 meter buffer in 2006 (CORINE)  
@@ -1410,11 +1603,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -  
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
+**R script**:  
+```{r, echo=TRUE}
 #This is where the R-script will be written  
 
-```  
+```   
 
 
 ### **Variable label**: Total amount of m2 of agricultural land within 400 meter buffer in 2012 (CORINE)  
@@ -1424,11 +1619,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -  
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
+**R script**:  
+```{r, echo=TRUE}
 #This is where the R-script will be written  
 
-```  
+```   
 
 
 ### **Variable label**: Total amount of m2 of green spaces within 400 meter buffer in 1990 (CORINE)
@@ -1438,11 +1635,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written
+**R script**:  
+```{r, echo=TRUE}
+#This is where the R-script will be written  
 
-```
+```   
 
 
 ### **Variable label**: Total amount of m2 of green spaces within 400 meter buffer in 2000 (CORINE)
@@ -1452,11 +1651,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written
+**R script**:  
+```{r, echo=TRUE}
+#This is where the R-script will be written  
 
-```
+```   
 
 
 ### **Variable label**: Total amount of m2 of green spaces within 400 meter buffer in 2006 (CORINE)
@@ -1466,11 +1667,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written
+**R script**:  
+```{r, echo=TRUE}
+#This is where the R-script will be written  
 
-```
+```   
 
 
 ### **Variable label**: Total amount of m2 of green spaces within 400 meter buffer in 2012 (CORINE)
@@ -1480,11 +1683,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written
+**R script**:  
+```{r, echo=TRUE}
+#This is where the R-script will be written  
 
-```
+```   
 
 
 ### **Variable label**: Total amount of m2 of blue spaces within 400 meter buffer in 1990 (CORINE)  
@@ -1494,11 +1699,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -  
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
+**R script**:  
+```{r, echo=TRUE}
 #This is where the R-script will be written  
 
-```  
+```   
 
 ### **Variable label**: Total amount of m2 of blue spaces within 400 meter buffer in 2000 (CORINE)  
 **Variable name**: physenv_cn_bf_totalblue400_00  
@@ -1507,11 +1714,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -  
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
+**R script**:  
+```{r, echo=TRUE}
 #This is where the R-script will be written  
 
-```  
+```   
 
 
 ### **Variable label**: Total amount of m2 of blue spaces within 400 meter buffer in 2006 (CORINE)  
@@ -1521,11 +1730,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -  
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
+**R script**:  
+```{r, echo=TRUE}
 #This is where the R-script will be written  
 
-``` 
+```   
 
 
 ### **Variable label**: Total amount of m2 of blue spaces within 400 meter buffer in 2012 (CORINE)  
@@ -1535,11 +1746,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -  
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
+**R script**:  
+```{r, echo=TRUE}
 #This is where the R-script will be written  
 
-``` 
+```   
 
 
 ### **Variable label**: Total amount of m2 of blue and green spaces within 400 meter buffer in 1990 (CORINE)  
@@ -1549,11 +1762,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -  
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
+**R script**:  
+```{r, echo=TRUE}
 #This is where the R-script will be written  
 
-```  
+```   
 
 
 ### **Variable label**: Total amount of m2 of blue and green spaces within 400 meter buffer in 2000 (CORINE)  
@@ -1563,11 +1778,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -  
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
+**R script**:  
+```{r, echo=TRUE}
 #This is where the R-script will be written  
 
-```  
+```   
 
 
 ### **Variable label**: Total amount of m2 of blue and green spaces within 400 meter buffer in 2006 (CORINE)  
@@ -1577,11 +1794,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -  
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
+**R script**:  
+```{r, echo=TRUE}
 #This is where the R-script will be written  
 
-```  
+```   
 
 
 ### **Variable label**: Total amount of m2 of blue and green spaces within 400 meter buffer in 2012 (CORINE)  
@@ -1591,11 +1810,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -  
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
+**R script**:  
+```{r, echo=TRUE}
 #This is where the R-script will be written  
 
-```  
+```    
 
 
 ### **Variable label**: Total amount of m2 of sports & leisure facilities within 400 meter buffer in 2006 (Urban Atlas)  
@@ -1605,11 +1826,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -  
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
+**R script**:  
+```{r, echo=TRUE}
 #This is where the R-script will be written  
 
-```  
+```   
 
 
 ### **Variable label**: Total amount of m2 of sports & leisure facilities within 400 meter buffer in 2012 (Urban Atlas)  
@@ -1619,11 +1842,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -  
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
+**R script**:  
+```{r, echo=TRUE}
 #This is where the R-script will be written  
 
-```  
+```   
 
 
 ### **Variable label**: Total amount of m2 of sports & leisure facilities within 400 meter buffer in 1990 (CORINE)  
@@ -1633,11 +1858,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written
+**R script**:  
+```{r, echo=TRUE}
+#This is where the R-script will be written  
 
-```
+```   
 
 
 ### **Variable label**: Total amount of m2 of sports & leisure facilities within 400 meter buffer in 2000 (CORINE)  
@@ -1647,11 +1874,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written
+**R script**:  
+```{r, echo=TRUE}
+#This is where the R-script will be written  
 
-```
+```   
 
 
 ### **Variable label**: Total amount of m2 of sports & leisure facilities within 400 meter buffer in 2006 (CORINE)  
@@ -1661,11 +1890,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written
+**R script**:  
+```{r, echo=TRUE}
+#This is where the R-script will be written  
 
-```
+```   
 
 
 ### **Variable label**: Total amount of m2 of sports & leisure facilities within 400 meter buffer in 2012 (CORINE)  
@@ -1675,11 +1906,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written
+**R script**:  
+```{r, echo=TRUE}
+#This is where the R-script will be written  
 
-```
+```   
 
 
 
@@ -1692,12 +1925,13 @@ output: html_document
 **Variable unit**: square meters  
 **Category coding**: -
 
+**Harmonization status**:  
 **Harmonization comment**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written
+**R script**:  
+```{r, echo=TRUE}
+#This is where the R-script will be written  
 
-```
-
+```   
 
 
 
