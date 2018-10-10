@@ -83,7 +83,7 @@ output: html_document
 **Variable unit**: meters  
 **Category coding**: - 
 
-**Harmonization status**:
+**Harmonization status**:  
 **Harmonization comment**:  
 **R script**:  
 ```{r, echo=TRUE}  
@@ -99,7 +99,7 @@ output: html_document
 **Variable unit**: meters  
 **Category coding**: - 
 
-**Harmonization status**:
+**Harmonization status**:  
 **Harmonization comment**:  
 **R script**:  
 ```{r, echo=TRUE}  
