@@ -4800,6 +4800,454 @@ output: html_document
 ```  
 
 
+### **Variable label**: Area size of green urban areas in 1990 (CORINE)  
+**Variable name**: physenv_cn_ne_greenurban_area_90  
+**Variable description**: Area size of the nearest polygon marked as green urban area in 1990 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of green urban areas in 2000 (CORINE)  
+**Variable name**: physenv_cn_ne_greenurban_area_00  
+**Variable description**: Area size of the nearest polygon marked as green urban area in 2000 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of green urban areas in 2006 (CORINE)  
+**Variable name**: physenv_cn_ne_greenurban_area_06  
+**Variable description**: Area size of the nearest polygon marked as green urban area in 2006 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of green urban areas in 2012 (CORINE)  
+**Variable name**: physenv_cn_ne_greenurban_area_12  
+**Variable description**: Area size of the nearest polygon marked as green urban area in 2012 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of  forests in 1990 (CORINE)  
+**Variable name**: physenv_cn_ne_forests_area_90  
+**Variable description**: Area size of the nearest polygon marked as green urban area in 1990 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of  forests in 2000 (CORINE)  
+**Variable name**: physenv_cn_ne_forests_area_00  
+**Variable description**: Area size of the nearest polygon marked as green urban area in 2000 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of  forests in 2006 (CORINE)  
+**Variable name**: physenv_cn_ne_forests_area_06  
+**Variable description**: Area size of the nearest polygon marked as green urban area in 2006 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of  forests in 2012 (CORINE)  
+**Variable name**: physenv_cn_ne_forests_area_12  
+**Variable description**: Area size of the nearest polygon marked as green urban area in 2012 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of  blue spaces in 1990 (CORINE)  
+**Variable name**: physenv_cn_ne_bluespace_area_90  
+**Variable description**: Area size of the nearest polygon marked as water in 1990 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of  blue spaces in 2000 (CORINE)  
+**Variable name**: physenv_cn_ne_bluespace_area_00  
+**Variable description**: Area size of the nearest polygon marked as water in 2000 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of  blue spaces in 2006 (CORINE)  
+**Variable name**: physenv_cn_ne_bluespace_area_06  
+**Variable description**: Area size of the nearest polygon marked as water in 2006 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of  blue spaces in 2012 (CORINE)  
+**Variable name**: physenv_cn_ne_bluespace_area_12  
+**Variable description**: Area size of the nearest polygon marked as water in 2012 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of  agricultural land in 1990 (CORINE)  
+**Variable name**: physenv_cn_ne_agriland_area_90  
+**Variable description**: Area size of the nearest polygon. No distinction is made between different types of agricultural land in 1990 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of  agricultural land in 2000 (CORINE)  
+**Variable name**: physenv_cn_ne_agriland_area_00  
+**Variable description**: Area size of the nearest polygon. No distinction is made between different types of agricultural land in 2000 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of  agricultural land in 2006 (CORINE)  
+**Variable name**: physenv_cn_ne_agriland_area_06  
+**Variable description**: Area size of the nearest polygon. No distinction is made between different types of agricultural land in 2006 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of  agricultural land in 2012 (CORINE)  
+**Variable name**: physenv_cn_ne_agriland_area_12  
+**Variable description**: Area size of the nearest polygon. No distinction is made between different types of agricultural land in 2012 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of green spaces in total in 1990 (CORINE)  
+**Variable name**: physenv_cn_ne_totalgreen_area_90  
+**Variable description**:  Area size of the nearest polygon. Total of all categories of green spaces (forests + green urban areas) in 1990 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of green spaces in total in 2000 (CORINE)  
+**Variable name**: physenv_cn_ne_totalgreen_area_00  
+**Variable description**:  Area size of the nearest polygon. Total of all categories of green spaces (forests + green urban areas) in 2000 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of green spaces in total in 2006 (CORINE)  
+**Variable name**: physenv_cn_ne_totalgreen_area_06  
+**Variable description**:  Area size of the nearest polygon. Total of all categories of green spaces (forests + green urban areas) in 2006 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of green spaces in total in 2012 (CORINE)  
+**Variable name**: physenv_cn_ne_totalgreen_area_12  
+**Variable description**:  Area size of the nearest polygon. Total of all categories of green spaces (forests + green urban areas) in 2012 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of blue spaces in total in 1990 (CORINE)  
+**Variable name**: physenv_cn_ne_totalblue_area_90  
+**Variable description**: Area size of the nearest polygon. Total of all categories of blue spaces (water + wetlands) in 1990 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of blue spaces in total in 2000 (CORINE)  
+**Variable name**: physenv_cn_ne_totalblue_area_00  
+**Variable description**: Area size of the nearest polygon. Total of all categories of blue spaces (water + wetlands) in 2000 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of blue spaces in total in 2006 (CORINE)  
+**Variable name**: physenv_cn_ne_totalblue_area_06  
+**Variable description**: Area size of the nearest polygon. Total of all categories of blue spaces (water + wetlands) in 2006 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of blue spaces in total in 2012 (CORINE)  
+**Variable name**: physenv_cn_ne_totalblue_area_12  
+**Variable description**: Area size of the nearest polygon. Total of all categories of blue spaces (water + wetlands) in 2012 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of blue and green Spaces in total in 1990 (CORINE)  
+**Variable name**: physenv_cn_ne_totalbluegreen_area_90  
+**Variable description**: Area size of the nearest polygon. Total of both green and blue space totals in 1990 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of blue and green Spaces in total in 2000 (CORINE)  
+**Variable name**: physenv_cn_ne_totalbluegreen_area_00  
+**Variable description**: Area size of the nearest polygon. Total of both green and blue space totals in 2000 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of blue and green Spaces in total in 2006 (CORINE)  
+**Variable name**: physenv_cn_ne_totalbluegreen_area_06  
+**Variable description**: Area size of the nearest polygon. Total of both green and blue space totals in 2006 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of blue and green Spaces in total in 2012 (CORINE)  
+**Variable name**: physenv_cn_ne_totalbluegreen_area_12  
+**Variable description**: Area size of the nearest polygon. Total of both green and blue space totals in 2012 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
 
 ### **Variable label**: 
 **Variable name**: 
