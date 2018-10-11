@@ -11,7 +11,7 @@ output: html_document
 6. [Land use - CORINE subdomain] #(Land-use - CORINE-subdomain)  
 7. [Built environment - Urban Atlas subdomain] #(Built-environment - Urban-Atlas-subdomain)  
 
-**Variable** | **definition of variables**
+**Variable** | **definition of variable**
 ------------------------ | --------------------------------------------------
 total blue space | Total of all categories of blue spaces (water + wetlands).    
 total green spaces | Total of all categories of green spaces (forests + green urban areas).  
