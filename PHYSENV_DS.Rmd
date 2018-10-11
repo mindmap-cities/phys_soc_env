@@ -82,8 +82,8 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-### **Variable label**: Distance to blue spaces in 2006 (Urban Atlas)    
-**Variable name**: physenv_ua_ne_bluespace_06  
+### **Variable label**: Distance to water in 2006 (Urban Atlas)    
+**Variable name**: physenv_ua_ne_water_06  
 **Variable description**: Absolute distance to the nearest polygon marked as water in 2006 from Urban Atalas data.  
 **Variable type**: decimal  
 **Variable unit**: meters  
@@ -98,8 +98,8 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```
 
 
-### **Variable label**: Distance to blue spaces in 2012 (Urban Atlas)    
-**Variable name**: physenv_ua_ne_bluespace_12  
+### **Variable label**: Distance to water in 2012 (Urban Atlas)    
+**Variable name**: physenv_ua_ne_water_12  
 **Variable description**: Absolute distance to the nearest polygon marked as water in 2012 from Urban Atalas data.  
 **Variable type**: decimal  
 **Variable unit**: meters  
@@ -306,8 +306,8 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-### **Variable label**: Area size blue spaces area size in 2006 (Urban Atlas)   
-**Variable name**: physenv_ua_ne_bluespace_area_06  
+### **Variable label**: Area size of water in 2006 (Urban Atlas)   
+**Variable name**: phenv_ua_ne_water_area_06  
 **Variable description**: Area size of the nearest polygon marked as water in 2006 from Urban Atalas data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
@@ -322,8 +322,8 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-### **Variable label**: Area size blue spaces area size in 2012 (Urban Atlas)   
-**Variable name**: physenv_ua_ne_bluespace_area_12  
+### **Variable label**: Area size of water in 2012 (Urban Atlas)   
+**Variable name**: phenv_ua_ne_water_area_12  
 **Variable description**: Area size of the nearest polygon marked as water in 2012 from Urban Atalas data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
@@ -530,9 +530,9 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-### **Variable label**: Total amount of m2 of blue space within 100 meter buffer in 2006 (Uban Atlas)  
-**Variable name**: physenv_ua_bf_bluespace100_06  
-**Variable description**: Total amount of m2 of blue space within 100 meter buffer in 2006 from Urban Atlas data.  
+### **Variable label**: Total amount of m2 of water within 100 meter buffer in 2006 (Uban Atlas)  
+**Variable name**: physenv_ua_bf_water100_06  
+**Variable description**: Total amount of m2 of water 100 meter buffer in 2006 from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -
@@ -546,9 +546,9 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-### **Variable label**: Total amount of m2 of blue space within 100 meter buffer in 2012 (Uban Atlas)  
-**Variable name**: physenv_ua_bf_bluespace100_12  
-**Variable description**: Total amount of m2 of blue space within 100 meter buffer in 2012 from Urban Atlas data.  
+### **Variable label**: Total amount of m2 of water within 100 meter buffer in 2012 (Uban Atlas)  
+**Variable name**: physenv_ua_bf_water100_12  
+**Variable description**: Total amount of m2 of water 100 meter buffer in 2012 from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -
@@ -818,9 +818,9 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-### **Variable label**: Blue spaces within 100 meter buffer 1990 (CORINE)  
-**Variable name**: physenv_cn_bf_bluespace100_90  
-**Variable description**: Total amount of m2 of blue space within 100 meter buffer in 1990 from CORINE data.  
+### **Variable label**: Amount of water within 100 meter buffer 1990 (CORINE)  
+**Variable name**: physenv_cn_bf_water100_90  
+**Variable description**: Total amount of m2 of water within 100 meter buffer in 1990 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -
@@ -834,9 +834,9 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-### **Variable label**: Blue spaces within 100 meter buffer 2000 (CORINE)  
-**Variable name**: physenv_cn_bf_bluespace100_00  
-**Variable description**: Total amount of m2 of blue space within 100 meter buffer in 2000 from CORINE data.  
+### **Variable label**: Amount of water within 100 meter buffer 2000 (CORINE)  
+**Variable name**: physenv_cn_bf_water100_00  
+**Variable description**: Total amount of m2 of water within 100 meter buffer in 2000 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -
@@ -850,9 +850,9 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-### **Variable label**: Blue spaces within 100 meter buffer 2006 (CORINE)  
-**Variable name**: physenv_cn_bf_bluespace100_06  
-**Variable description**: Total amount of m2 of blue space within 100 meter buffer in 2006 from CORINE data.  
+### **Variable label**: Amount of water within 100 meter buffer 2006 (CORINE)  
+**Variable name**: physenv_cn_bf_water100_06  
+**Variable description**: Total amount of m2 of water within 100 meter buffer in 2006 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -
@@ -866,9 +866,9 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-### **Variable label**: Blue spaces within 100 meter buffer 2012 (CORINE)  
-**Variable name**: physenv_cn_bf_bluespace100_12  
-**Variable description**: Total amount of m2 of blue space within 100 meter buffer in 2012 from CORINE data.  
+### **Variable label**: Amount of water within 100 meter buffer 2012 (CORINE)  
+**Variable name**: physenv_cn_bf_water100_12  
+**Variable description**: Total amount of m2 of water within 100 meter buffer in 2012 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -
@@ -1202,9 +1202,9 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```   
 
 
-### **Variable label**: Total amount of m2 of blue space within 400 meter buffer in 2006 (Urban Atlas)  
-**Variable name**: physenv_ua_bf_bluespace400_06  
-**Variable description**: Total amount of m2 of blue space within 400 meter buffer in 2006 from Urban Atlas data.  
+### **Variable label**: Amount of m2 of water within 400 meter buffer in 2006 (Urban Atlas)  
+**Variable name**: physenv_ua_bf_water400_06  
+**Variable description**: Total amount of m2 of water within 400 meter buffer in 2006 from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -
@@ -1218,9 +1218,9 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```   
 
 
-### **Variable label**: Total amount of m2 of blue space within 400 meter buffer in 2012 (Urban Atlas)  
-**Variable name**: physenv_ua_bf_bluespace400_12  
-**Variable description**: Total amount of m2 of blue space within 400 meter buffer in 2012 from Urban Atlas data.  
+### **Variable label**: Amount of m2 of water within 400 meter buffer in 2012 (Urban Atlas)  
+**Variable name**: physenv_ua_bf_water400_12  
+**Variable description**: Total amount of m2 of water within 400 meter buffer in 2012 from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -1506,9 +1506,9 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```   
 
 
-### **Variable label**: Total amount of m2 of blue space within 400 meter buffer in 1990 (CORINE)  
-**Variable name**: physenv_cn_bf_bluespace400_90  
-**Variable description**: Total amount of m2 of blue space within 400 meter buffer in 1990 from CORINE data.  
+### **Variable label**: TAmount of m2 of water within 400 meter buffer in 1990 (CORINE)  
+**Variable name**: physenv_cn_bf_water400_90  
+**Variable description**: Total amount of m2 of water within 400 meter buffer in 1990 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -1522,9 +1522,9 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```   
 
 
-### **Variable label**: Total amount of m2 of blue space within 400 meter buffer in 2000 (CORINE)  
-**Variable name**: physenv_cn_bf_bluespace400_00  
-**Variable description**: Total amount of m2 of blue space within 400 meter buffer in 2000 from CORINE data.  
+### **Variable label**: Amount of m2 of water within 400 meter buffer in 2000 (CORINE)  
+**Variable name**: physenv_cn_bf_water400_00  
+**Variable description**: Total amount of m2 of water within 400 meter buffer in 2000 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -1538,9 +1538,9 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```   
 
 
-### **Variable label**: Total amount of m2 of blue space within 400 meter buffer in 2006 (CORINE)  
-**Variable name**: physenv_cn_bf_bluespace400_06  
-**Variable description**: Total amount of m2 of blue space within 400 meter buffer in 2006 from CORINE data.  
+### **Variable label**: Amount of m2 of water within 400 meter buffer in 2006 (CORINE)  
+**Variable name**: physenv_cn_bf_water400_06  
+**Variable description**: Total amount of m2 of water within 400 meter buffer in 2006 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -1554,9 +1554,9 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```   
 
 
-### **Variable label**: Total amount of m2 of blue space within 400 meter buffer in 2012 (CORINE)  
-**Variable name**: physenv_cn_bf_bluespace400_12  
-**Variable description**: Total amount of m2 of blue space within 400 meter buffer in 2012 from CORINE data.  
+### **Variable label**: Amount of m2 of water within 400 meter buffer in 2012 (CORINE)  
+**Variable name**: physenv_cn_bf_water400_12  
+**Variable description**: Total amount of m2 of water 400 meter buffer in 2012 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -1985,9 +1985,9 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-### **Variable label**: Total amount of m2 of blue space within 800 meter buffer in 2006 (Urban Atlas)  
-**Variable name**: physenv_ua_bf_bluespace800_06  
-**Variable description**: Total amount of m2 of blue space within 800 meter buffer in 2006 from Urban Atlas data.  
+### **Variable label**: within 800 meter buffer in XXXX (Urban Atlas) within 800 meter buffer in 2006 (Urban Atlas)  
+**Variable name**: physenv_ua_bf_water800_06  
+**Variable description**: TTotal amount of m2 of water within 800 meter buffer in 2006 from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -2001,9 +2001,9 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-### **Variable label**: Total amount of m2 of blue space within 800 meter buffer in 2012 (Urban Atlas)  
-**Variable name**: physenv_ua_bf_bluespace800_12  
-**Variable description**: Total amount of m2 of blue space within 800 meter buffer in 2012 from Urban Atlas data.  
+### **Variable label**: within 800 meter buffer in XXXX (Urban Atlas) within 800 meter buffer in 2012 (Urban Atlas)  
+**Variable name**: physenv_ua_bf_water800_12  
+**Variable description**: Total amount of m2 of water 800 meter buffer in 2012 from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -2271,9 +2271,9 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-### **Variable label**: Total amount of m2 of blue space within 800 meter buffer in 1990 (CORINE)  
-**Variable name**: physenv_cn_bf_bluespace800_90  
-**Variable description**: Total amount of m2 of blue space within 800 meter buffer in 1990 from CORINE data. 
+### **Variable label**: Amount of m2 of water within 800 meter buffer in 1990 (CORINE)  
+**Variable name**: physenv_cn_bf_water800_90  
+**Variable description**: Total amount of m2 of water within 800 meter buffer in 1990 from CORINE data. 
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -2287,9 +2287,9 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-### **Variable label**: Total amount of m2 of blue space within 800 meter buffer in 2000 (CORINE)  
-**Variable name**: physenv_cn_bf_bluespace800_00  
-**Variable description**: Total amount of m2 of blue space within 800 meter buffer in 2000 from CORINE data. 
+### **Variable label**: Amount of m2 of water within 800 meter buffer in 2000 (CORINE)  
+**Variable name**: physenv_cn_bf_water800_00  
+**Variable description**: Total amount of m2 of water within 800 meter buffer in 2000 from CORINE data. 
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -2303,9 +2303,9 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-### **Variable label**: Total amount of m2 of blue space within 800 meter buffer in 2006 (CORINE)  
-**Variable name**: physenv_cn_bf_bluespace800_06  
-**Variable description**: Total amount of m2 of blue space within 800 meter buffer in 2006 from CORINE data. 
+### **Variable label**: Amount of m2 of water within 800 meter buffer in 2006 (CORINE)  
+**Variable name**: physenv_cn_bf_water800_06  
+**Variable description**: Total amount of m2 of water within 800 meter buffer in 2006 from CORINE data. 
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -2319,9 +2319,9 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-### **Variable label**: Total amount of m2 of blue space within 800 meter buffer in 2012 (CORINE)  
-**Variable name**: physenv_cn_bf_bluespace800_12  
-**Variable description**: Total amount of m2 of blue space within 800 meter buffer in 2012 from CORINE data. 
+### **Variable label**: Amount of m2 of water within 800 meter buffer in 2012 (CORINE)  
+**Variable name**: physenv_cn_bf_water800_12  
+**Variable description**: Total amount of m2 of water within 800 meter buffer in 2012 from CORINE data. 
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -2751,9 +2751,9 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-### **Variable label**: Total amount of m2 of blue space within 1000 meter buffer in 2006 (Urban Atlas)  
-**Variable name**: physenv_ua_bf_bluespace1000_06  
-**Variable description**:  Total amount of m2 of blue space within 1000 meter buffer in 2006 from Urban Atlas data.  
+### **Variable label**: Amount of m2 of water within 1000 meter buffer in 2006 (Urban Atlas)  
+**Variable name**: physenv_ua_bf_water1000_06  
+**Variable description**:  Total amount of m2 of water within 1000 meter buffer in 2006 from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -2767,9 +2767,9 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-### **Variable label**: Total amount of m2 of blue space within 1000 meter buffer in 2012 (Urban Atlas)  
-**Variable name**: physenv_ua_bf_bluespace1000_12  
-**Variable description**:  Total amount of m2 of blue space within 1000 meter buffer in 2012 from Urban Atlas data.  
+### **Variable label**: Amount of m2 of water within 1000 meter buffer in 2012 (Urban Atlas)  
+**Variable name**: physenv_ua_bf_water1000_12  
+**Variable description**:  Total amount of m2 of water within 1000 meter buffer in 2012 from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: - 
@@ -3040,9 +3040,9 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ``` 
 
 
-### **Variable label**: Total amount of m2 of blue space within 1000 meter buffer in 1990 (CORINE)  
-**Variable name**: physenv_cn_bf_bluespace1000_90  
-**Variable description**: Total amount of m2 of blue space within 1000 meter buffer in 1990 from CORINE data.    
+### **Variable label**: Amount of m2 of water 1000 meter buffer in 1990 (CORINE)  
+**Variable name**: physenv_cn_bf_water1000_90  
+**Variable description**: Total amount of m2 of water within 1000 meter buffer in 1990 from CORINE data.    
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -3056,9 +3056,9 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-### **Variable label**: Total amount of m2 of blue space within 1000 meter buffer in 2000 (CORINE)  
-**Variable name**: physenv_cn_bf_bluespace1000_00  
-**Variable description**: Total amount of m2 of blue space within 1000 meter buffer in 2000 from CORINE data.    
+### **Variable label**: Amount of m2 of water within 1000 meter buffer in 2000 (CORINE)  
+**Variable name**: physenv_cn_bf_water1000_00  
+**Variable description**: Total amount of m2 of water within 1000 meter buffer in 2000 from CORINE data.    
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -3072,9 +3072,9 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-### **Variable label**: Total amount of m2 of blue space within 1000 meter buffer in 2006 (CORINE)  
-**Variable name**: physenv_cn_bf_bluespace1000_06  
-**Variable description**: Total amount of m2 of blue space within 1000 meter buffer in 2006 from CORINE data.    
+### **Variable label**: Amount of m2 of water within 1000 meter buffer in 2006 (CORINE)  
+**Variable name**: physenv_cn_bf_water1000_06  
+**Variable description**: Total amount of m2 of water within 1000 meter buffer in 2006 from CORINE data.    
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -3088,9 +3088,9 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-### **Variable label**: Total amount of m2 of blue space within 1000 meter buffer in 2012 (CORINE)  
-**Variable name**: physenv_cn_bf_bluespace1000_12  
-**Variable description**: Total amount of m2 of blue space within 1000 meter buffer in 2012 from CORINE data.    
+### **Variable label**: Amount of m2 of water within 1000 meter buffer in 2012 (CORINE)  
+**Variable name**: physenv_cn_bf_water1000_12  
+**Variable description**: Total amount of m2 of water within 1000 meter buffer in 2012 from CORINE data.    
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -3536,9 +3536,9 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-### **Variable label**: Total amount of m2 of blue space within 1600 meter buffer in 2006 (Urban Atlas)  
-**Variable name**: physenv_ua_bf_bluespace1600_06  
-**Variable description**: Total amount of m2 of blue space within 1600 meter buffer in 2006 from Urban Atlas data.  
+### **Variable label**: Amount of m2 of water within 1600 meter buffer in 2006 (Urban Atlas)  
+**Variable name**: physenv_ua_bf_water1600_06  
+**Variable description**: Total amount of m2 of water within 1600 meter buffer in 2006 from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -3552,9 +3552,9 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-### **Variable label**: Total amount of m2 of blue space within 1600 meter buffer in 2012 (Urban Atlas)  
-**Variable name**: physenv_ua_bf_bluespace1600_12  
-**Variable description**: Total amount of m2 of blue space within 1600 meter buffer in 2012 from Urban Atlas data.  
+### **Variable label**: Amount of m2 of water within 1600 meter buffer in 2012 (Urban Atlas)  
+**Variable name**: physenv_ua_bf_water1600_12  
+**Variable description**: Total amount of m2 of water within 1600 meter buffer in 2012 from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
