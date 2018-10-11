@@ -5248,6 +5248,440 @@ output: html_document
 ```  
 
 
+### **Variable label**: Distance to facilities in 2006 (Urban Atlas)  
+**Variable name**: physenv_ua_be_facilities_06  
+**Variable description**: Absolute distance to the nearest polygon marked as sports & leisure facilitiesin in 2006 from Urban Atlas data.  
+**Variable type**: decimal  
+**Variable unit**: meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Distance to facilities in 2012 (Urban Atlas)  
+**Variable name**: physenv_ua_be_facilities_12  
+**Variable description**: Absolute distance to the nearest polygon marked as sports & leisure facilitiesin in 2012 from Urban Atlas data.  
+**Variable type**: decimal  
+**Variable unit**: meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of facilities in 2006 (Urban Atlas)  
+**Variable name**: physenv_ua_be_facilities_area_06  
+**Variable description**: Area size of the nearest polygon marked as sports & leisure facilities in 2006 from Urban Atlas data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of facilities in 2012 (Urban Atlas)  
+**Variable name**: physenv_ua_be_facilities_area_12  
+**Variable description**: Area size of the nearest polygon marked as sports & leisure facilities in 2012 from Urban Atlas data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Distance to facilities in 1990 (CORINE)  
+**Variable name**: physenv_cn_be_facilities_90  
+**Variable description**: Absolute distance to the nearest polygon marked as sports & leisure facilities in 1990 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Distance to facilities in 2000 (CORINE)  
+**Variable name**: physenv_cn_be_facilities_00  
+**Variable description**: Absolute distance to the nearest polygon marked as sports & leisure facilities in 2000 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Distance to facilities in 2006 (CORINE)  
+**Variable name**: physenv_cn_be_facilities_06  
+**Variable description**: Absolute distance to the nearest polygon marked as sports & leisure facilities in 2006 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Distance to facilities in 2012 (CORINE)  
+**Variable name**: physenv_cn_be_facilities_12  
+**Variable description**: Absolute distance to the nearest polygon marked as sports & leisure facilities in 2012 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of facilities in 1990 (CORINE)  
+**Variable name**: physenv_cn_be_facilities_area_90  
+**Variable description**: Area size of the nearest polygon marked as sports & leisure facilities in 1990 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of facilities in 1990 (CORINE)  
+**Variable name**: physenv_cn_be_facilities_area_90  
+**Variable description**: Area size of the nearest polygon marked as sports & leisure facilities in 1990 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of facilities in 2000 (CORINE)  
+**Variable name**: physenv_cn_be_facilities_area_00  
+**Variable description**: Area size of the nearest polygon marked as sports & leisure facilities in 2000 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of facilities in 2006 (CORINE)  
+**Variable name**: physenv_cn_be_facilities_area_06  
+**Variable description**: Area size of the nearest polygon marked as sports & leisure facilities in 2006 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of facilities in 2012 (CORINE)  
+**Variable name**: physenv_cn_be_facilities_area_12  
+**Variable description**: Area size of the nearest polygon marked as sports & leisure facilities in 2012 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Land use mix within 100 meter buffer in 2006 (Urban Atlas)  
+**Variable name**: physenv_ua_bf_landuse100_06  
+**Variable description**: Land use mix is calculated using an entropy formula in 2006 from Urban Atlas data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Land use mix within 100 meter buffer in 2012 (Urban Atlas)  
+**Variable name**: physenv_ua_bf_landuse100_12  
+**Variable description**: Land use mix is calculated using an entropy formula in 2012 from Urban Atlas data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of Built-up area within 100 meter buffer in 2006 (Urban Atlas)  
+**Variable name**: physenv_ua_landuse100_bu_06  
+**Variable description**: Area size in m2 of built-up areas within buffer in 2006 from Urban Atlas data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of Built-up area within 100 meter buffer in 2012 (Urban Atlas)  
+**Variable name**: physenv_ua_landuse100_bu_12  
+**Variable description**: Area size in m2 of built-up areas within buffer in 2012 from Urban Atlas data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of industrial and commercial area within 100 meter buffer in 2006 (Urban Atlas)  
+**Variable name**: physenv_ua_landuse100_ic_06  
+**Variable description**: Area size in m2 of industrial and commercial areas within buffer in 2006 from Urban Atlas data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of industrial and commercial area within 100 meter buffer in 2012 (Urban Atlas)  
+**Variable name**: physenv_ua_landuse100_ic_12  
+**Variable description**: Area size in m2 of industrial and commercial areas within buffer in 2012 from Urban Atlas data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of infrastructure area within 100 meter buffer in 2006 (Urban Atlas)  
+**Variable name**: physenv_ua_landuse100_in_06  
+**Variable description**: Area size in m2 of infrastructure areas within buffer in 2006 from Urban Atlas data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+
+### **Variable label**: Area size of infrastructure area within 100 meter buffer in 2012 (Urban Atlas)  
+**Variable name**: physenv_ua_landuse100_in_12  
+**Variable description**: Area size in m2 of infrastructure areas within buffer in 2012 from Urban Atlas data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of port area within 100 meter buffer in 2006 (Urban Atlas)  
+**Variable name**: physenv_ua_landuse100_po_06  
+**Variable description**: Area size in m2 of ports (airports and sea ports) within buffer in 2006 from Urban Atlas data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of port area within 100 meter buffer in 2012 (Urban Atlas)  
+**Variable name**: physenv_ua_landuse100_po_12  
+**Variable description**: Area size in m2 of ports (airports and sea ports) within buffer in 2012 from Urban Atlas data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of green urban area within 100 meter buffer in 2006 (Urban Atlas)  
+**Variable name**: physenv_ua_landuse100_gu_06  
+**Variable description**: Area size in m2 of green urban areas within buffer in 2006 from Urban Atlas data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+
+### **Variable label**: Area size of green urban area within 100 meter buffer in 2012 (Urban Atlas)  
+**Variable name**: physenv_ua_landuse100_gu_12  
+**Variable description**: Area size in m2 of green urban areas within buffer in 2012 from Urban Atlas data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of  sports & leisure facilities area within 100 meter buffer in 2006 (Urban Atlas)  
+**Variable name**: physenv_ua_landuse100_fa_06  
+**Variable description**: Area size in m2 of sports & leisure facilities within buffer in 2006 from Urban Atlas data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of  sports & leisure facilities area within 100 meter buffer in 2012 (Urban Atlas)  
+**Variable name**: physenv_ua_landuse100_fa_12  
+**Variable description**: Area size in m2 of sports & leisure facilities within buffer in 2012 from Urban Atlas data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
 
 ### **Variable label**: 
 **Variable name**: 
