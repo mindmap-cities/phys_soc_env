@@ -146,7 +146,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-### **Variable label**: Distance to total green spaces in 2006 (Urban Atlas)   
+### **Variable label**: Distance to total green spaces (forest + green urban areas) in 2006 (Urban Atlas)   
 **Variable name**: physenv_ua_ne_totalgreen_06  
 **Variable description**: Absolute distance to the nearest polygon. Total of all categories of green spaces (forests + green urban  areas) in 2006 from Urban Atalas data.  
 **Variable type**: decimal  
@@ -162,7 +162,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-### **Variable label**: Distance to total green spaces in 2012 (Urban Atlas)   
+### **Variable label**: Distance to total green spaces (forest + green urban areas) in 2012 (Urban Atlas)   
 **Variable name**: physenv_ua_ne_totalgreen_12  
 **Variable description**: Absolute distance to the nearest polygon. Total of all categories of green spaces (forests + green urban  areas) in 2012 from Urban Atalas data.  
 **Variable type**: decimal  
@@ -178,7 +178,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-### **Variable label**: Distance to total blue spaces in 2006 (Urban Atlas)   
+### **Variable label**: Distance to total blue spaces (water + wetlands) in 2006 (Urban Atlas)   
 **Variable name**: physenv_ua_ne_totalblue_06  
 **Variable description**: Absolute distance to the nearest polygon. Total of all categories of blue spaces (water + wetlands) in 2006 from Urban Atalas data.  
 **Variable type**: decimal  
@@ -194,7 +194,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-### **Variable label**: Distance to total blue spaces in 2012 (Urban Atlas)   
+### **Variable label**: Distance to total blue spaces (water + wetlands) in 2012 (Urban Atlas)   
 **Variable name**: physenv_ua_ne_totalblue_12  
 **Variable description**: Absolute distance to the nearest polygon. Total of all categories of blue spaces (water + wetlands) in 2012 from Urban Atalas data.  
 **Variable type**: decimal  
@@ -210,9 +210,9 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-### **Variable label**: Distance to total blue and green Spaces in 2006 (Urban Atlas)  
+### **Variable label**: Distance to total blue and green Spaces (water, wetlands, forests, green urban areas) in 2006 (Urban Atlas)  
 **Variable name**: physenv_ua_ne_totalbluegreen_06  
-**Variable description**: Absolute distance to the nearest polygon. Total of both green and blue space totals in 2006 from Urban Atalas data.  
+**Variable description**: Absolute distance to the nearest polygon. Total of both green and blue spaces  (water, wetlands, forests, green urban areas) in 2006 from Urban Atalas data.  
 **Variable type**: decimal  
 **Variable unit**: meters  
 **Category coding**: -
@@ -370,7 +370,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-### **Variable label**: Area size total green spaces in 2006 (Urban Atlas)   
+### **Variable label**: Area size of total green spaces (forest + green urban areas) in 2006 (Urban Atlas)   
 **Variable name**: physenv_ua_ne_totalgreen_area_06  
 **Variable description**: Area size of the nearest polygon. Total of all categories of green spaces (forests + green urban areas) in 2006 from Urban Atalas data.  
 **Variable type**: decimal   
@@ -386,7 +386,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-### **Variable label**: Area size total green spaces in 2012 (Urban Atlas)   
+### **Variable label**: Area size of total green spaces (forest + green urban areas) in 2012 (Urban Atlas)   
 **Variable name**: physenv_ua_ne_totalgreen_area_12  
 **Variable description**: Area size of the nearest polygon. Total of all categories of green spaces (forests + green urban areas) in 2012 from Urban Atalas data.  
 **Variable type**: decimal   
@@ -402,7 +402,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-### **Variable label**: Area size total blue spaces in 2006 (Urban Atlas)   
+### **Variable label**: Area size of total blue spaces (water + wetlands) in 2006 (Urban Atlas)   
 **Variable name**: physenv_ua_ne_totalblue_area_06  
 **Variable description**: Area size of the nearest polygon. Total of all categories of blue spaces (water + wetlands) in 2006 from Urban Atalas data.  
 **Variable type**: decimal  
@@ -418,7 +418,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-### **Variable label**: Area size total blue spaces in 2012 (Urban Atlas)   
+### **Variable label**: Area size of total blue spaces (water + wetlands) in 2012 (Urban Atlas)   
 **Variable name**: physenv_ua_ne_totalblue_area_12  
 **Variable description**: Area size of the nearest polygon. Total of all categories of blue spaces (water + wetlands) in 2012 from Urban Atalas data.  
 **Variable type**: decimal  
@@ -434,9 +434,9 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-### **Variable label**: Area size total blue and green Spaces in 2006 (Urban Atlas)   
+### **Variable label**: Area size of total blue and green space (water, wetlands, forests, green urban areas) in 2006 (Urban Atlas)   
 **Variable name**: physenv_ua_ne_totalbluegreen_area_06  
-**Variable description**: Area size of the nearest polygon. Total of both green and blue space totals in 2006 from Urban Atalas data.    
+**Variable description**:  Area size of the nearest polygon. Total of both green and blue spaces  (water, wetlands, forests, green urban areas) in 2006 from Urban Atalas data.   
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -
@@ -450,7 +450,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-### **Variable label**: Area size total blue and green Spaces in 2012 (Urban Atlas)   
+### **Variable label**: Area size of total blue and green space (water, wetlands, forests, green urban areas) in 2012 (Urban Atlas)   
 **Variable name**: physenv_ua_ne_totalbluegreen_area_12  
 **Variable description**: Area size of the nearest polygon. Total of both green and blue space totals in 2012 from Urban Atalas data.  
 **Variable type**: decimal  
@@ -466,7 +466,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-### **Variable label**: Total amount of m2 of green urban areas within 100 meter buffer in 2006 (Urban Atlas)  
+### **Variable label**: Amount of m2 of green urban areas within 100 meter buffer in 2006 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_greenurban100_06  
 **Variable description**: Total amount of m2 of green urban areas within 100 meter buffer in 2006 from Urban Atalas data.  
 **Variable type**: decimal  
@@ -482,7 +482,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-### **Variable label**: Total amount of m2 of green urban areas within 100 meter buffer in 2012 (Urban Atlas)  
+### **Variable label**: Amount of m2 of green urban areas within 100 meter buffer in 2012 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_greenurban100_06  
 **Variable description**: Total amount of m2 of green urban areas within 100 meter buffer in 2012 from Urban Atalas data.  
 **Variable type**: decimal  
@@ -498,7 +498,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-### **Variable label**: Total amount of m2 of forests within 100 meter buffer in 2006 (Urban Atlas)  
+### **Variable label**: Amount of m2 of forests within 100 meter buffer in 2006 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_forests100_06  
 **Variable description**: Total amount of m2 of forests within 100 meter buffer in 2006 from Urban Atalas data.  
 **Variable type**: decimal  
@@ -514,7 +514,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-### **Variable label**: Total amount of m2 of forests within 100 meter buffer in 2012 (Urban Atlas)  
+### **Variable label**: Amount of m2 of forests within 100 meter buffer in 2012 (Urban Atlas)  
 **Variable name**: Total amount of m2 of forests within 100 meter buffer in 2012 from Urban Atalas data.  
 **Variable description**: physenv_ua_bf_forests100_12   
 **Variable type**: decimal  
@@ -530,7 +530,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-### **Variable label**: Total amount of m2 of water within 100 meter buffer in 2006 (Uban Atlas)  
+### **Variable label**: Amount of m2 of water within 100 meter buffer in 2006 (Uban Atlas)  
 **Variable name**: physenv_ua_bf_water100_06  
 **Variable description**: Total amount of m2 of water 100 meter buffer in 2006 from Urban Atlas data.  
 **Variable type**: decimal  
@@ -546,7 +546,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-### **Variable label**: Total amount of m2 of water within 100 meter buffer in 2012 (Uban Atlas)  
+### **Variable label**: Amount of m2 of water within 100 meter buffer in 2012 (Uban Atlas)  
 **Variable name**: physenv_ua_bf_water100_12  
 **Variable description**: Total amount of m2 of water 100 meter buffer in 2012 from Urban Atlas data.  
 **Variable type**: decimal  
@@ -562,7 +562,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-### **Variable label**: Total amount of m2 of agricultural land within 100 meter buffer in 2006 (Urban Atlas)  
+### **Variable label**: Amount of m2 of agricultural land within 100 meter buffer in 2006 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_agriland100_06  
 **Variable description**: Total amount of m2 of agricultural land within 100 meter buffer in 2006 from Urban Atlas data.  
 **Variable type**: decimal  
@@ -578,7 +578,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-### **Variable label**: Total amount of m2 of agricultural land within 100 meter buffer in 2012 (Urban Atlas)  
+### **Variable label**: Amount of m2 of agricultural land within 100 meter buffer in 2012 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_agriland100_12  
 **Variable description**: Total amount of m2 of agricultural land within 100 meter buffer in 2012 from Urban Atlas data.  
 **Variable type**: decimal  
@@ -594,9 +594,9 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-### **Variable label**: Total amount of total green space within 100 meter buffer in 2006 (Urban Atlas)  
+### **Variable label**: Amount of total green space (forest + green urban areas) within 100 meter buffer in 2006 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_totalgreen100_06  
-**Variable description**: Total amount of m2 of total green spaces within 100 meter buffer in 2006 from Urban Atlas data.  
+**Variable description**: Total amount of m2 of total green spaces (forest + green urban areas) within 100 meter buffer in 2006 from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -
@@ -610,9 +610,9 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-### **Variable label**: Total amount of total green space within 100 meter buffer in 2012 (Urban Atlas)  
+### **Variable label**: Amount of total green space (forest + green urban areas) within 100 meter buffer in 2012 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_totalgreen100_12  
-**Variable description**: Total amount of m2 of total green spaces within 100 meter buffer in 2012 Urban Atlas data.  
+**Variable description**: Total amount of m2 of total green spaces (forest + green urban areas) within 100 meter buffer in 2012 Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -
@@ -626,9 +626,9 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-### **Variable label**: Total amount of total blue space within 100 meter buffer in 2006 (Urban Atlas)  
+### **Variable label**: Amount of total blue space (water + wetlands)within 100 meter buffer in 2006 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_totalblue100_06  
-**Variable description**: Total amount of m2 of blue spaces within 100 meter buffer in 2006 from Urban Atlas data.
+**Variable description**: Total amount of m2 of total blue spaces (water + wetlands) within 100 meter buffer in 2006 from Urban Atlas data.
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -
@@ -642,9 +642,9 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-### **Variable label**: Total amount of total blue space within 100 meter buffer in 2012 (Urban Atlas)  
+### **Variable label**: Amount of total blue space (water + wetlands)within 100 meter buffer in 2012 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_totalblue100_12  
-**Variable description**: Total amount of m2 of total blue spaces within 100 meter buffer in 2012 from Urban Atlas data.
+**Variable description**: Total amount of m2 of total blue spaces (water + wetlands) within 100 meter buffer in 2012 from Urban Atlas data.
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -
@@ -658,9 +658,9 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-### **Variable label**: Total amount of total blue and green space within 100 meter buffer in 2006 (Urban Atlas)  
+### **Variable label**: Amount of total blue and green space (water, wetlands, forests, green urban areas) within 100 meter buffer in 2006 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_totalbluegreen100_06  
-**Variable description**: Total amount of m2 of total blue and green spaces within 100 meter buffer in 2006 from Urban Atlas data.  
+**Variable description**: Total amount of m2 of total blue and green spaces (water, wetlands, forests, green urban areas)within 100 meter buffer in 2006 from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -674,9 +674,9 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-### **Variable label**: Total blue and green space within 100 meter buffer in 2012 (Urban Atlas)  
+### **Variable label**: Amount of total blue and green space (water, wetlands, forests, green urban areas) buffer in 2012 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_totalbluegreen100_12  
-**Variable description**: Total amount of m2 of blue and green spaces within 100 meter buffer in 2012 from Urban Atlas data.  
+**Variable description**: Total amount of m2 of total blue and green spaces (water, wetlands, forests, green urban areas) within 100 meter buffer in 2012 from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -690,7 +690,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-### **Variable label**: Green urban areas within 100 meter buffer in 1990 (CORINE)  
+### **Variable label**: Amount of green urban areas within 100 meter buffer in 1990 (CORINE)  
 **Variable name**: physenv_cn_bf_greenurban100_90  
 **Variable description**: Total amount of m2 of green urban areas within 100 meter buffer in 1990 from CORINE data.  
 **Variable type**: decimal  
@@ -706,7 +706,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-### **Variable label**: Green urban areas within 100 meter buffer in 2000 (CORINE)  
+### **Variable label**: Amount of green urban areas within 100 meter buffer in 2000 (CORINE)  
 **Variable name**: physenv_cn_bf_greenurban100_00  
 **Variable description**: Total amount of m2 of green urban areas within 100 meter buffer in 2000 from CORINE data.  
 **Variable type**: decimal  
@@ -722,7 +722,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-### **Variable label**: Green urban areas within 100 meter buffer in 2006 (CORINE)  
+### **Variable label**: Amount of green urban areas within 100 meter buffer in 2006 (CORINE)  
 **Variable name**: physenv_cn_bf_greenurban100_06  
 **Variable description**: Total amount of m2 of green urban areas within 100 meter buffer in 2006 from CORINE data.  
 **Variable type**: decimal  
@@ -738,7 +738,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-### **Variable label**: Green urban areas within 100 meter buffer in 2012 (CORINE)  
+### **Variable label**: Amount of green urban areas within 100 meter buffer in 2012 (CORINE)  
 **Variable name**: physenv_cn_bf_greenurban100_12  
 **Variable description**: Total amount of m2 of green urban areas within 100 meter buffer in 2012 from CORINE data.  
 **Variable type**: decimal  
@@ -754,7 +754,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-### **Variable label**: Forests within 100 meter buffer in 1990 (CORINE)  
+### **Variable label**: Amount of forests within 100 meter buffer in 1990 (CORINE)  
 **Variable name**: physenv_cn_bf_forests100_90  
 **Variable description**: Total amount of m2 of forests within 100 meter buffer in 1990 from CORINE data.  
 **Variable type**: decimal  
@@ -770,7 +770,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-### **Variable label**: Forests within 100 meter buffer in 2000 (CORINE)  
+### **Variable label**: Amount of forests within 100 meter buffer in 2000 (CORINE)  
 **Variable name**: physenv_cn_bf_forests100_00  
 **Variable description**: Total amount of m2 of forests within 100 meter buffer in 2000 from CORINE data.  
 **Variable type**: decimal  
@@ -786,7 +786,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-### **Variable label**: Forests within 100 meter buffer in 2006 (CORINE)  
+### **Variable label**: Amount of forests within 100 meter buffer in 2006 (CORINE)  
 **Variable name**: physenv_cn_bf_forests100_06  
 **Variable description**: Total amount of m2 of forests within 100 meter buffer in 2006 from CORINE data.  
 **Variable type**: decimal  
@@ -802,7 +802,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-### **Variable label**: Forests within 100 meter buffer in 2012 (CORINE)  
+### **Variable label**: Amount of forests within 100 meter buffer in 2012 (CORINE)  
 **Variable name**: physenv_cn_bf_forests100_12  
 **Variable description**: Total amount of m2 of forests within 100 meter buffer in 2012 from CORINE data.  
 **Variable type**: decimal  
@@ -882,7 +882,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-### **Variable label**: Agricultural land within 100 meter buffer in 1990 (CORINE)  
+### **Variable label**: Amount of agricultural land within 100 meter buffer in 1990 (CORINE)  
 **Variable name**: physenv_cn_bf_agriland100_90  
 **Variable description**: Total amount of m2 of agricultural land within 100 meter buffer in 1990 from CORINE data.  
 **Variable type**: decimal  
@@ -898,7 +898,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-### **Variable label**: Agricultural land within 100 meter buffer in 2000 (CORINE)  
+### **Variable label**: Amount of agricultural land within 100 meter buffer in 2000 (CORINE)  
 **Variable name**: physenv_cn_bf_agriland100_00  
 **Variable description**: Total amount of m2 of agricultural land within 100 meter buffer in 2000 from CORINE data.  
 **Variable type**: decimal  
@@ -914,7 +914,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-### **Variable label**: Agricultural land within 100 meter buffer in 2006 (CORINE)  
+### **Variable label**: Amount of agricultural land within 100 meter buffer in 2006 (CORINE)  
 **Variable name**: physenv_cn_bf_agriland100_06  
 **Variable description**: Total amount of m2 of agricultural land within 100 meter buffer in 2006 from CORINE data.  
 **Variable type**: decimal  
@@ -930,7 +930,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-### **Variable label**: Agricultural land within 100 meter buffer in 2012 (CORINE)  
+### **Variable label**: Amount of agricultural land within 100 meter buffer in 2012 (CORINE)  
 **Variable name**: physenv_cn_bf_agriland100_12  
 **Variable description**: Total amount of m2 of agricultural land within 100 meter buffer in 2012 from CORINE data.  
 **Variable type**: decimal  
@@ -1138,7 +1138,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-### **Variable label**: Total amount of m2 of green urban areas within 400 meter buffer in 2006 (Urban Atlas)  
+### **Variable label**: Amount of m2 of green urban areas within 400 meter buffer in 2006 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_greenurban400_06  
 **Variable description**: Total amount of m2 of green urban areas within 400 meter buffer in 2006 from Urban Atlas data.  
 **Variable type**: decimal  
@@ -1154,7 +1154,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-### **Variable label**: Total amount of m2 of green urban areas within 400 meter buffer in 2012 (Urban Atlas)  
+### **Variable label**: Amount of m2 of green urban areas within 400 meter buffer in 2012 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_greenurban400_12  
 **Variable description**: Total amount of m2 of green urban areas within 400 meter buffer in 2012 from Urban Atlas data.  
 **Variable type**: decimal  
@@ -1170,7 +1170,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```   
 
 
-### **Variable label**: Total amount of m2 of forests within 400 meter buffer in 2006 (Urban Atlas)
+### **Variable label**: Amount of m2 of forests within 400 meter buffer in 2006 (Urban Atlas)
 **Variable name**: physenv_ua_bf_forests400_06  
 **Variable description**: Total amount of m2 of forests within 400 meter buffer in 2006 from Urban Atlas data.
 **Variable type**: decimal  
@@ -1186,7 +1186,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```   
 
 
-### **Variable label**: Total amount of m2 of forests within 400 meter buffer in 2012 (Urban Atlas)
+### **Variable label**: Amount of m2 of forests within 400 meter buffer in 2012 (Urban Atlas)
 **Variable name**: physenv_ua_bf_forests400_12  
 **Variable description**: Total amount of m2 of forests within 400 meter buffer in 2012 from Urban Atlas data.
 **Variable type**: decimal  
@@ -1234,7 +1234,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```   
 
 
-### **Variable label**: Total amount of m2 of agricultural land within 400 meter buffer in 2006 (Urban Atlas)  
+### **Variable label**: Amount of m2 of agricultural land within 400 meter buffer in 2006 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_agriland400_06  
 **Variable description**: Total amount of m2 of agricultural land within 400 meter buffer in 2006 from Urban Atlas data.  
 **Variable type**: decimal  
@@ -1250,25 +1250,9 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```   
 
 
-### **Variable label**: Total amount of m2 of agricultural land within 400 meter buffer in 2012 (Urban Atlas)  
+### **Variable label**: Amount of m2 of agricultural land within 400 meter buffer in 2012 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_agriland400_12  
 **Variable description**: Total amount of m2 of agricultural land within 400 meter buffer in 2012 from Urban Atlas data.  
-**Variable type**: decimal  
-**Variable unit**: square meters  
-**Category coding**: -
-
-**Harmonization status**:  
-**Harmonization comment**:  
-**R script**:  
-```{r, echo=TRUE}
-#This is where the R-script will be written  
-
-```   
-
-
-### **Variable label**: 
-**Variable name**: 
-**Variable description**: 
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -
@@ -1378,7 +1362,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```   
 
 
-### **Variable label**: Total amount of m2 of green urban areas within 400 meter buffer in 1990 (CORINE)  
+### **Variable label**: Amount of m2 of green urban areas within 400 meter buffer in 1990 (CORINE)  
 **Variable name**: physenv_cn_bf_greenurban400_90  
 **Variable description**: Total amount of m2 of green urban areas within 400 meter buffer in 1990 from CORINE data.  
 **Variable type**: decimal  
@@ -1394,7 +1378,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```   
 
 
-### **Variable label**: Total amount of m2 of green urban areas within 400 meter buffer in 2000 (CORINE)  
+### **Variable label**: Amount of m2 of green urban areas within 400 meter buffer in 2000 (CORINE)  
 **Variable name**: physenv_cn_bf_greenurban400_00  
 **Variable description**: Total amount of m2 of green urban areas within 400 meter buffer in 2000 from CORINE data.  
 **Variable type**: decimal  
@@ -1410,7 +1394,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```    
 
 
-### **Variable label**: Total amount of m2 of green urban areas within 400 meter buffer in 2006 (CORINE)  
+### **Variable label**: Amount of m2 of green urban areas within 400 meter buffer in 2006 (CORINE)  
 **Variable name**: physenv_cn_bf_greenurban400_06  
 **Variable description**: Total amount of m2 of green urban areas within 400 meter buffer in 2006 from CORINE data.  
 **Variable type**: decimal  
@@ -1426,7 +1410,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```   
 
 
-### **Variable label**: Total amount of m2 of green urban areas within 400 meter buffer in 2012 (CORINE)  
+### **Variable label**: Amount of m2 of green urban areas within 400 meter buffer in 2012 (CORINE)  
 **Variable name**: physenv_cn_bf_greenurban400_12  
 **Variable description**: Total amount of m2 of green urban areas within 400 meter buffer in 2012 from CORINE data.  
 **Variable type**: decimal  
@@ -1442,7 +1426,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```    
 
 
-### **Variable label**: Total amount of m2 of forest within 400 meter buffer in 1990 (CORINE)  
+### **Variable label**: Amount of m2 of forest within 400 meter buffer in 1990 (CORINE)  
 **Variable name**: physenv_cn_bf_forests400_90  
 **Variable description**:  Total amount of m2 of forests within 400 meter buffer in 1990 from CORINE data.  
 **Variable type**: decimal  
@@ -1458,7 +1442,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```   
 
 
-### **Variable label**: Total amount of m2 of forest within 400 meter buffer in 2000 (CORINE)  
+### **Variable label**: Amount of m2 of forest within 400 meter buffer in 2000 (CORINE)  
 **Variable name**: physenv_cn_bf_forests400_00  
 **Variable description**:  Total amount of m2 of forests within 400 meter buffer in 2000 from CORINE data.  
 **Variable type**: decimal  
@@ -1474,7 +1458,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```   
 
 
-### **Variable label**: Total amount of m2 of forest within 400 meter buffer in 2006 (CORINE)  
+### **Variable label**: Amount of m2 of forest within 400 meter buffer in 2006 (CORINE)  
 **Variable name**: physenv_cn_bf_forests400_06  
 **Variable description**:  Total amount of m2 of forests within 400 meter buffer in 2006 from CORINE data.  
 **Variable type**: decimal  
@@ -1490,7 +1474,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```   
 
 
-### **Variable label**: Total amount of m2 of forest within 400 meter buffer in 2012 (CORINE)  
+### **Variable label**: Amount of m2 of forest within 400 meter buffer in 2012 (CORINE)  
 **Variable name**: physenv_cn_bf_forests400_12  
 **Variable description**:  Total amount of m2 of forests within 400 meter buffer in  from CORINE data.  
 **Variable type**: decimal  
@@ -1506,7 +1490,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```   
 
 
-### **Variable label**: TAmount of m2 of water within 400 meter buffer in 1990 (CORINE)  
+### **Variable label**: Amount of m2 of water within 400 meter buffer in 1990 (CORINE)  
 **Variable name**: physenv_cn_bf_water400_90  
 **Variable description**: Total amount of m2 of water within 400 meter buffer in 1990 from CORINE data.  
 **Variable type**: decimal  
@@ -1570,7 +1554,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```   
 
 
-### **Variable label**: Total amount of m2 of agricultural land within 400 meter buffer in 1990 (CORINE)  
+### **Variable label**: Amount of m2 of agricultural land within 400 meter buffer in 1990 (CORINE)  
 **Variable name**: physenv_cn_bf_agriland400_90  
 **Variable description**:  Total amount of m2 of agricultural land within 400 meter buffer in 1990 from CORINE data.  
 **Variable type**: decimal  
@@ -1586,7 +1570,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```   
 
 
-### **Variable label**: Total amount of m2 of agricultural land within 400 meter buffer in 2000 (CORINE)  
+### **Variable label**: Amount of m2 of agricultural land within 400 meter buffer in 2000 (CORINE)  
 **Variable name**: physenv_cn_bf_agriland400_00  
 **Variable description**:  Total amount of m2 of agricultural land within 400 meter buffer in 2000 from CORINE data.  
 **Variable type**: decimal  
@@ -1602,7 +1586,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```   
 
 
-### **Variable label**: Total amount of m2 of agricultural land within 400 meter buffer in 2006 (CORINE)  
+### **Variable label**: Amount of m2 of agricultural land within 400 meter buffer in 2006 (CORINE)  
 **Variable name**: physenv_cn_bf_agriland400_06  
 **Variable description**:  Total amount of m2 of agricultural land within 400 meter buffer in 2006 from CORINE data.  
 **Variable type**: decimal  
@@ -1618,7 +1602,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```   
 
 
-### **Variable label**: Total amount of m2 of agricultural land within 400 meter buffer in 2012 (CORINE)  
+### **Variable label**: Amount of m2 of agricultural land within 400 meter buffer in 2012 (CORINE)  
 **Variable name**: physenv_cn_bf_agriland400_12  
 **Variable description**:  Total amount of m2 of agricultural land within 400 meter buffer in 2012 from CORINE data.  
 **Variable type**: decimal  
@@ -3829,9 +3813,9 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-### **Variable label**: Total amount of m2 of blue space within 1600 meter buffer in 1990 (CORINE)  
-**Variable name**: physenv_cn_bf_bluespace1600_90  
-**Variable description**: Total amount of m2 of blue space within 1600 meter buffer in 1990 from CORINE data.  
+### **Variable label**: Amount of m2 of water within 1600 meter buffer in 1990 (CORINE)  
+**Variable name**: physenv_cn_bf_water1600_90  
+**Variable description**: Total amount of m2 of water within 1600 meter buffer in 1990 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -3845,9 +3829,9 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-### **Variable label**: Total amount of m2 of blue space within 1600 meter buffer in 2000 (CORINE)  
-**Variable name**: physenv_cn_bf_bluespace1600_00  
-**Variable description**: Total amount of m2 of blue space within 1600 meter buffer in 2000 from CORINE data.  
+### **Variable label**: Amount of m2 of water within 1600 meter buffer in 2000 (CORINE)  
+**Variable name**: physenv_cn_bf_water1600_00  
+**Variable description**: Total amount of m2 of water within 1600 meter buffer in 2000 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -3861,9 +3845,9 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-### **Variable label**: Total amount of m2 of blue space within 1600 meter buffer in 2006 (CORINE)  
-**Variable name**: physenv_cn_bf_bluespace1600_06  
-**Variable description**: Total amount of m2 of blue space within 1600 meter buffer in 2006 from CORINE data.  
+### **Variable label**: Amount of m2 of water within 1600 meter buffer in 2006 (CORINE)  
+**Variable name**: physenv_cn_bf_water1600_06  
+**Variable description**: Total amount of m2 of water within 1600 meter buffer in 2006 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -3877,9 +3861,9 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-### **Variable label**: Total amount of m2 of blue space within 1600 meter buffer in 2012 (CORINE)  
-**Variable name**: physenv_cn_bf_bluespace1600_12  
-**Variable description**: Total amount of m2 of blue space within 1600 meter buffer in 2012 from CORINE data.  
+### **Variable label**: Amount of m2 of water within 1600 meter buffer in 2012 (CORINE)  
+**Variable name**: physenv_cn_bf_water1600_12  
+**Variable description**: Total amount of m2 of water within 1600 meter buffer in 2012 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -4486,8 +4470,8 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-### **Variable label**: Distance to blue spaces in 1990 (CORINE)  
-**Variable name**: physenv_cn_ne_bluespace_90  
+### **Variable label**: Distance to water in 1990 (CORINE)  
+**Variable name**: physenv_cn_ne_water_90  
 **Variable description**: Absolute distance to the nearest polygon marked as water in 1990 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: meters  
@@ -4502,8 +4486,8 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-### **Variable label**: Distance to blue spaces in 2000 (CORINE)  
-**Variable name**: physenv_cn_ne_bluespace_00  
+### **Variable label**: Distance to water in 2000 (CORINE)  
+**Variable name**: physenv_cn_ne_water_00  
 **Variable description**: Absolute distance to the nearest polygon marked as water in 2000 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: meters  
@@ -4518,8 +4502,8 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-### **Variable label**: Distance to blue spaces in 2006 (CORINE)  
-**Variable name**: physenv_cn_ne_bluespace_06  
+### **Variable label**: Distance to water in 2006 (CORINE)  
+**Variable name**: physenv_cn_ne_water_06  
 **Variable description**: Absolute distance to the nearest polygon marked as water in 2006 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: meters  
@@ -4534,8 +4518,8 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-### **Variable label**: Distance to blue spaces in 2012 (CORINE)  
-**Variable name**: physenv_cn_ne_bluespace_12  
+### **Variable label**: Distance to water in 2012 (CORINE)  
+**Variable name**: physenv_cn_ne_water_12  
 **Variable description**: Absolute distance to the nearest polygon marked as water in 2012 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: meters  
@@ -4934,8 +4918,8 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-### **Variable label**: Area size of  blue spaces in 1990 (CORINE)  
-**Variable name**: physenv_cn_ne_bluespace_area_90  
+### **Variable label**: Area size of  water in 1990 (CORINE)  
+**Variable name**: physenv_cn_ne_water_area_90  
 **Variable description**: Area size of the nearest polygon marked as water in 1990 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
@@ -4950,8 +4934,8 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-### **Variable label**: Area size of  blue spaces in 2000 (CORINE)  
-**Variable name**: physenv_cn_ne_bluespace_area_00  
+### **Variable label**: Area size of  water in 2000 (CORINE)  
+**Variable name**: physenv_cn_ne_water_area_00  
 **Variable description**: Area size of the nearest polygon marked as water in 2000 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
@@ -4966,8 +4950,8 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-### **Variable label**: Area size of  blue spaces in 2006 (CORINE)  
-**Variable name**: physenv_cn_ne_bluespace_area_06  
+### **Variable label**: Area size of  water in 2006 (CORINE)  
+**Variable name**: physenv_cn_ne_water_area_06  
 **Variable description**: Area size of the nearest polygon marked as water in 2006 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
@@ -4982,8 +4966,8 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-### **Variable label**: Area size of  blue spaces in 2012 (CORINE)  
-**Variable name**: physenv_cn_ne_bluespace_area_12  
+### **Variable label**: Area size of  water in 2012 (CORINE)  
+**Variable name**: physenv_cn_ne_water_area_12  
 **Variable description**: Area size of the nearest polygon marked as water in 2012 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
