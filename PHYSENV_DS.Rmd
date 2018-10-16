@@ -6156,6 +6156,952 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
+### **Variable label**: Area size of sports & leisure facilities area within 100 meter buffer in 1990 (CORINE)  
+**Variable name**: physenv_cn_bf_landuse100_fa_90  
+**Variable description**: Area size in m2 of sports & leisure facilities within 100 buffer in 1990 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of sports & leisure facilities area within 100 meter buffer in 2000 (CORINE)  
+**Variable name**: physenv_cn_bf_landuse100_fa_00  
+**Variable description**: Area size in m2 of sports & leisure facilities within 100 buffer in 2000 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of sports & leisure facilities area within 100 meter buffer in 2006 (CORINE)  
+**Variable name**: physenv_cn_bf_landuse100_fa_06  
+**Variable description**: Area size in m2 of sports & leisure facilities within 100 buffer in 2006 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of sports & leisure facilities area within 100 meter buffer in 2012 (CORINE)  
+**Variable name**: physenv_cn_bf_landuse100_fa_12  
+**Variable description**: Area size in m2 of sports & leisure facilities within 100 buffer in 2012 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of agricultural land within 100 meter buffer in 1990 (CORINE)  
+**Variable name**: physenv_cn_bf_landuse100_ag_90  
+**Variable description**: Area size in m2 of agricultural within 100 buffer in 1990 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of agricultural land within 100 meter buffer in 2000 (CORINE)  
+**Variable name**: physenv_cn_bf_landuse100_ag_00  
+**Variable description**: Area size in m2 of agricultural within 100 buffer in 2000 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of agricultural land within 100 meter buffer in 2006 (CORINE)  
+**Variable name**: physenv_cn_bf_landuse100_ag_06  
+**Variable description**: Area size in m2 of agricultural within 100 buffer in 2006 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of agricultural land within 100 meter buffer in 2012 (CORINE)  
+**Variable name**: physenv_cn_bf_landuse100_ag_12  
+**Variable description**: Area size in m2 of agricultural within 100 buffer in 2012 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of other natural areas within 100 meter buffer in 1990 (CORINE)  
+**Variable name**: physenv_cn_bf_landuse100_on_90  
+**Variable description**: Area size in m2 of other natural areas within 100 buffer in 1990 from CORINE data.
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of other natural areas within 100 meter buffer in 2000 (CORINE)  
+**Variable name**: physenv_cn_bf_landuse100_on_00  
+**Variable description**: Area size in m2 of other natural areas within 100 buffer in 2000 from CORINE data.
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of other natural areas within 100 meter buffer in 2006 (CORINE)  
+**Variable name**: physenv_cn_bf_landuse100_on_06  
+**Variable description**: Area size in m2 of other natural areas within 100 buffer in 2006 from CORINE data.
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of other natural areas within 100 meter buffer in 2012 (CORINE)  
+**Variable name**: physenv_cn_bf_landuse100_on_12  
+**Variable description**: Area size in m2 of other natural areas within 100 buffer in 2012 from CORINE data.
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of water within 100 meter buffer in 1990 (CORINE)  
+**Variable name**: physenv_cn_bf_landuse100_bs_90  
+**Variable description**: Area size in m2 of water within 100 meter buffer in 1990 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of water within 100 meter buffer in 2000 (CORINE)  
+**Variable name**: physenv_cn_bf_landuse100_bs_00  
+**Variable description**: Area size in m2 of water within 100 meter buffer in 2000 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of water within 100 meter buffer in 2006 (CORINE)  
+**Variable name**: physenv_cn_bf_landuse100_bs_06  
+**Variable description**: Area size in m2 of water within 100 meter buffer in 2006 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+### **Variable label**: Area size of water within 100 meter buffer in 2012 (CORINE)  
+**Variable name**: physenv_cn_bf_landuse100_bs_12  
+**Variable description**: Area size in m2 of water within 100 meter buffer in 2012 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of other areas within 100 meter buffer in 1990 (CORINE)  
+**Variable name**: physenv_cn_bf_landuse100_ot_90  
+**Variable description**: Area size in m2 of other areas within 100 buffer in 1990 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of other areas within 100 meter buffer in 2000 (CORINE)  
+**Variable name**: physenv_cn_bf_landuse100_ot_00  
+**Variable description**: Area size in m2 of other areas within 100 buffer in 2000 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of other areas within 100 meter buffer in 2006 (CORINE)  
+**Variable name**: physenv_cn_bf_landuse100_ot_06  
+**Variable description**: Area size in m2 of other areas within 100 buffer in 2006 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of other areas within 100 meter buffer in 2012 (CORINE)  
+**Variable name**: physenv_cn_bf_landuse100_ot_12  
+**Variable description**: Area size in m2 of other areas within 100 buffer in 2012 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Land use mix within 400 meter buffer in 2006 (Urban Atlas)  
+**Variable name**: physenv_ua_bf_bf_landuse400_06  
+**Variable description**: Land use mix in m2 within a 400 meterbuffer. It is calculated using an entropy formula in 2006 from Urban Atlas data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Land use mix within 400 meter buffer in 2012 (Urban Atlas)  
+**Variable name**: physenv_ua_bf_bf_landuse400_12  
+**Variable description**: Land use mix in m2 within a 400 meterbuffer. It is calculated using an entropy formula in 2012 from Urban Atlas data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of built-up area within 400 meter buffer in 2006 (Urban Atlas)  
+**Variable name**: physenv_ua_bf_landuse400_bu_06  
+**Variable description**: Area size in m2 of built-up areas within buffer in 2006 from Urban Atlas data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of built-up area within 400 meter buffer in 2012 (Urban Atlas)  
+**Variable name**: physenv_ua_bf_landuse400_bu_12  
+**Variable description**: Area size in m2 of built-up areas within buffer in 2012 from Urban Atlas data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of industrial and commercial area within 400 meter buffer in 2006 (Urban Atlas)  
+**Variable name**: physenv_ua_bf_landuse400_ic_06  
+**Variable description**: Area size in m2 of industrial and commercial areas within buffer in 2006 from Urban Atlas data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of industrial and commercial area within 400 meter buffer in 2012 (Urban Atlas)  
+**Variable name**: physenv_ua_bf_landuse400_ic_12  
+**Variable description**: Area size in m2 of industrial and commercial areas within buffer in 2012 from Urban Atlas data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of infrastructure area within 400 meter buffer in 2006 (Urban Atlas)  
+**Variable name**: physenv_ua_bf_landuse400_in_06  
+**Variable description**: Area size in m2 of infrastructure areas within buffer in 2006 from Urban Atlas data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+
+### **Variable label**: Area size of infrastructure area within 400 meter buffer in 2012 (Urban Atlas)  
+**Variable name**: physenv_ua_bf_landuse400_in_12  
+**Variable description**: Area size in m2 of infrastructure areas within buffer in 2012 from Urban Atlas data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of port area within 400 meter buffer in 2006 (Urban Atlas)  
+**Variable name**: physenv_ua_bf_landuse400_po_06  
+**Variable description**: Area size in m2 of ports (airports and sea ports) within buffer in 2006 from Urban Atlas data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+
+### **Variable label**: Area size of port area within 400 meter buffer in 2012 (Urban Atlas)  
+**Variable name**: physenv_ua_bf_landuse400_po_12  
+**Variable description**: Area size in m2 of ports (airports and sea ports) within buffer in 2012 from Urban Atlas data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of green urban area within 400 meter buffer in 2006 (Urban Atlas)  
+**Variable name**: physenv_ua_bf_landuse400_gu_06  
+**Variable description**: Area size in m2 of green urban areas within buffer in 2006 from Urban Atlas data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of green urban area within 400 meter buffer in 2012 (Urban Atlas)  
+**Variable name**: physenv_ua_bf_landuse400_gu_12  
+**Variable description**: Area size in m2 of green urban areas within buffer in 2012 from Urban Atlas data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of sports & leisure facilities area within 400 meter buffer in 2006 (Urban Atlas)  
+**Variable name**: physenv_ua_bf_landuse400_fa_06  
+**Variable description**: Area size in m2 of sports & leisure facilities within buffer in 2006 from Urban Atlas data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of sports & leisure facilities area within 400 meter buffer in 2012 (Urban Atlas)  
+**Variable name**: physenv_ua_bf_landuse400_fa_12  
+**Variable description**: Area size in m2 of sports & leisure facilities within buffer in 2012 from Urban Atlas data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of agricultural land within 400 meter buffer in 2006 (Urban Atlas)  
+**Variable name**: physenv_ua_bf_landuse400_ag_06  
+**Variable description**: Area size in m2 of agricultural within buffer in 2006 from Urban Atlas data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of agricultural land within 400 meter buffer in 2012 (Urban Atlas)  
+**Variable name**: physenv_ua_bf_landuse400_ag_12  
+**Variable description**: Area size in m2 of agricultural within buffer in 2012 from Urban Atlas data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of other natural areas within 400 meter buffer in 2006 (Urban Atlas)  
+**Variable name**: physenv_ua_bf_landuse400_on_06  
+**Variable description**: Area size in m2 of other natural areas within buffer in 2006 from Urban Atlas data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of other natural areas within 400 meter buffer in 2012 (Urban Atlas)  
+**Variable name**: physenv_ua_bf_landuse400_on_12  
+**Variable description**: Area size in m2 of other natural areas within buffer in 2012 from Urban Atlas data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of water within 400 meter buffer in 2006 (Urban Atlas)  
+**Variable name**: physenv_ua_bf_landuse400_bs_06  
+**Variable description**: Area size in m2 of water within buffer in 2006 from Urban Atlas data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of water within 400 meter buffer in 2012 (Urban Atlas)  
+**Variable name**: physenv_ua_bf_landuse400_bs_12  
+**Variable description**: Area size in m2 of water within buffer in 2012 from Urban Atlas data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of other areas within 400 meter buffer in 2006 (Urban Atlas)  
+**Variable name**: physenv_ua_bf_landuse400_ot_06  
+**Variable description**: Area size in m2 of other areas within buffer in 2006 from Urban Atlas data.
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of other areas within 400 meter buffer in 2012 (Urban Atlas)  
+**Variable name**: physenv_ua_bf_landuse400_ot_12  
+**Variable description**: Area size in m2 of other areas within buffer in 2012 from Urban Atlas data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Land use mix within 400 meter buffer in 1990 (CORINE)  
+**Variable name**: physenv_cn_bf_landuse400_90  
+**Variable description**: Land use mix in m2 within a 400 meter buffer. It is calculated using an entropy formula in 1990 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Land use mix within 400 meter buffer in 2000 (CORINE)  
+**Variable name**: physenv_cn_bf_landuse400_00  
+**Variable description**: Land use mix in m2 within a 400 meter buffer. It is calculated using an entropy formula in 2000 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Land use mix within 400 meter buffer in 2006 (CORINE)  
+**Variable name**: physenv_cn_bf_landuse400_06  
+**Variable description**: Land use mix in m2 within a 400 meter buffer. It is calculated using an entropy formula in 2006 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Land use mix within 400 meter buffer in 2012 (CORINE)  
+**Variable name**: physenv_cn_bf_landuse400_12  
+**Variable description**: Land use mix in m2 within a 400 meter buffer. It is calculated using an entropy formula in 2012 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of built-up area within 400 meter buffer in 1990 (CORINE)  
+**Variable name**: physenv_cn_bf_landuse400_bu_90  
+**Variable description**: Area size in m2 of built-up areas within buffer in 1990 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of built-up area within 400 meter buffer in 2000 (CORINE)  
+**Variable name**: physenv_cn_bf_landuse400_bu_00  
+**Variable description**: Area size in m2 of built-up areas within buffer in 2000 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+
+### **Variable label**: Area size of built-up area within 400 meter buffer in 2006 (CORINE)  
+**Variable name**: physenv_cn_bf_landuse400_bu_06  
+**Variable description**: Area size in m2 of built-up areas within buffer in 2006 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of built-up area within 400 meter buffer in 2012 (CORINE)  
+**Variable name**: physenv_cn_bf_landuse400_bu_12  
+**Variable description**: Area size in m2 of built-up areas within buffer in 2012 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of industrial and commercial area within 400 meter buffer in 1990 (CORINE)  
+**Variable name**: physenv_cn_bf_landuse400_ic_90  
+**Variable description**: Area size in m2 of industrial and commercial areas within buffer in 1990 from CORINE data.
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+
+### **Variable label**: Area size of industrial and commercial area within 400 meter buffer in 2000 (CORINE)  
+**Variable name**: physenv_cn_bf_landuse400_ic_00  
+**Variable description**: Area size in m2 of industrial and commercial areas within buffer in 2000 from CORINE data.
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of industrial and commercial area within 400 meter buffer in 2006 (CORINE)  
+**Variable name**: physenv_cn_bf_landuse400_ic_06  
+**Variable description**: Area size in m2 of industrial and commercial areas within buffer in 2006 from CORINE data.
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of industrial and commercial area within 400 meter buffer in 2012 (CORINE)  
+**Variable name**: physenv_cn_bf_landuse400_ic_12  
+**Variable description**: Area size in m2 of industrial and commercial areas within buffer in 2012 from CORINE data.
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of infrastructure area within 400 meter buffer in 1990 (CORINE)  
+**Variable name**: physenv_cn_bf_landuse400_in_90  
+**Variable description**: Area size in m2 of infrastructure areas within buffer in 1990 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of infrastructure area within 400 meter buffer in 2000 (CORINE)  
+**Variable name**: physenv_cn_bf_landuse400_in_00  
+**Variable description**: Area size in m2 of infrastructure areas within buffer in 2000 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of infrastructure area within 400 meter buffer in 2006 (CORINE)  
+**Variable name**: physenv_cn_bf_landuse400_in_06  
+**Variable description**: Area size in m2 of infrastructure areas within buffer in 2006 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of infrastructure area within 400 meter buffer in 2012 (CORINE)  
+**Variable name**: physenv_cn_bf_landuse400_in_12  
+**Variable description**: Area size in m2 of infrastructure areas within buffer in 2012 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: 
+**Variable name**:
+**Variable description**:
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
 
 ### **Variable label**: 
 **Variable name**:
