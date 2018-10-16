@@ -7635,9 +7635,377 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-### **Variable label**: 
-**Variable name**:
-**Variable description**:
+### **Variable label**: Area size of infrastructure area within 800 meter buffer in 2006 (Urban Atlas)  
+**Variable name**: physenv_ua_bf_landuse800_in_06  
+**Variable description**: Area size in m2 of infrastructure areas within buffer in 2006 from Urban Atlas data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of infrastructure area within 800 meter buffer in 2012 (Urban Atlas)  
+**Variable name**: physenv_ua_bf_landuse800_in_12  
+**Variable description**: Area size in m2 of infrastructure areas within buffer in 2012 from Urban Atlas data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of port area within 800 meter buffer in 2006 (Urban Atlas)  
+**Variable name**: physenv_ua_bf_landuse800_po_06  
+**Variable description**: Area size in m2 of ports (airports and sea ports) within buffer in 2006 from Urban Atlas data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of port area within 800 meter buffer in 2012 (Urban Atlas)  
+**Variable name**: physenv_ua_bf_landuse800_po_12  
+**Variable description**: Area size in m2 of ports (airports and sea ports) within buffer in 2012 from Urban Atlas data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of green urban area within 800 meter buffer in 2006 (Urban Atlas)  
+**Variable name**: physenv_ua_bf_landuse800_gu_06  
+**Variable description**: Area size in m2 of green urban areas within buffer in 2006 from Urban Atlas data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of green urban area within 800 meter buffer in 2012 (Urban Atlas)  
+**Variable name**: physenv_ua_bf_landuse800_gu_12  
+**Variable description**: Area size in m2 of green urban areas within buffer in 2012 from Urban Atlas data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of sports & leisure facilities area within 800 meter buffer in 2006 (Urban Atlas)  
+**Variable name**: physenv_ua_bf_landuse800_fa_06  
+**Variable description**: Area size in m2 of sports & leisure facilities within buffer in 2006 from Urban Atlas data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of sports & leisure facilities area within 800 meter buffer in 2012 (Urban Atlas)  
+**Variable name**: physenv_ua_bf_landuse800_fa_12  
+**Variable description**: Area size in m2 of sports & leisure facilities within buffer in 2012 from Urban Atlas data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of agricultural land within 800 meter buffer in 2006 (Urban Atlas)  
+**Variable name**: physenv_ua_bf_landuse800_ag_06  
+**Variable description**: Area size in m2 of agricultural within buffer in 2006 from Urban Atlas data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of agricultural land within 800 meter buffer in 2012 (Urban Atlas)  
+**Variable name**: physenv_ua_bf_landuse800_ag_12  
+**Variable description**: Area size in m2 of agricultural within buffer in 2012 from Urban Atlas data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of other natural areas within 800 meter buffer in 2006 (Urban Atlas)  
+**Variable name**: physenv_ua_bf_landuse800_on_06  
+**Variable description**: Area size in m2 of other natural areas within buffer in 2006 from Urban Atlas data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of other natural areas within 800 meter buffer in 2012 (Urban Atlas)  
+**Variable name**: physenv_ua_bf_landuse800_on_12  
+**Variable description**: Area size in m2 of other natural areas within buffer in 2012 from Urban Atlas data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+``` 
+
+
+### **Variable label**: Area size of water within 800 meter buffer in 2006 (Urban Atlas)  
+**Variable name**: physenv_ua_bf_landuse800_bs_06  
+**Variable description**: Area size in m2 of water within buffer in 2006 from Urban Atlas data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of water within 800 meter buffer in 2012 (Urban Atlas)  
+**Variable name**: physenv_ua_bf_landuse800_bs_12  
+**Variable description**: Area size in m2 of water within buffer in 2012 from Urban Atlas data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of other areas within 800 meter buffer in 2006 (Urban Atlas)  
+**Variable name**: physenv_ua_bf_landuse800_ot_06  
+**Variable description**: Area size in m2 of other areas within buffer in 2006 from Urban Atlas data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of other areas within 800 meter buffer in 2012 (Urban Atlas)  
+**Variable name**: physenv_ua_bf_landuse800_ot_12  
+**Variable description**: Area size in m2 of other areas within buffer in 2012 from Urban Atlas data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Land use mix within 800 meter buffer in 1990 (CORINE)  
+**Variable name**: physenv_cn_bf_landuse800_90  
+**Variable description**: Land use mix in m2 within a 800 meter buffer. It is calculated using an entropy formula in 1990 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Land use mix within 800 meter buffer in 2000 (CORINE)  
+**Variable name**: physenv_cn_bf_landuse800_00  
+**Variable description**: Land use mix in m2 within a 800 meter buffer. It is calculated using an entropy formula in 2000 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Land use mix within 800 meter buffer in 2006 (CORINE)  
+**Variable name**: physenv_cn_bf_landuse800_06  
+**Variable description**: Land use mix in m2 within a 800 meter buffer. It is calculated using an entropy formula in 2006 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Land use mix within 800 meter buffer in 2012 (CORINE)  
+**Variable name**: physenv_cn_bf_landuse800_12  
+**Variable description**: Land use mix in m2 within a 800 meter buffer. It is calculated using an entropy formula in 2012 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of built-up area within 800 meter buffer in 1990 (CORINE)  
+**Variable name**: physenv_cn_bf_landuse800_bu_90  
+**Variable description**: Area size in m2 of built-up areas within buffer in 1990 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of built-up area within 800 meter buffer in 2000 (CORINE)  
+**Variable name**: physenv_cn_bf_landuse800_bu_00  
+**Variable description**: Area size in m2 of built-up areas within buffer in 2000 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of built-up area within 800 meter buffer in 2006 (CORINE)  
+**Variable name**: physenv_cn_bf_landuse800_bu_06  
+**Variable description**: Area size in m2 of built-up areas within buffer in 2006 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of built-up area within 800 meter buffer in 2012 (CORINE)  
+**Variable name**: physenv_cn_bf_landuse800_bu_12  
+**Variable description**: Area size in m2 of built-up areas within buffer in 2012 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
