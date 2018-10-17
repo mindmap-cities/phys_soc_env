@@ -5799,7 +5799,6 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-
 ### **Variable label**: Land use mix within 100 meter buffer in 2006 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse100_06  
 **Variable description**: Land use mix in m2 within a 100 meterbuffer. It is calculated using an entropy formula in 2006 from CORINE data.  
@@ -5814,7 +5813,6 @@ total blue and green spaces | Total of both green and blue space (forests, green
 #This is where the R-script will be written  
 
 ```  
-
 
 
 ### **Variable label**: Land use mix within 100 meter buffer in 2012 (CORINE)  
@@ -5911,7 +5909,6 @@ total blue and green spaces | Total of both green and blue space (forests, green
 #This is where the R-script will be written  
 
 ```  
-
 
 
 ### **Variable label**: Area size of industrial and commercial area within 100 meter buffer in 2000 (CORINE)  
@@ -6122,7 +6119,6 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-
 ### **Variable label**: Area size of green urban area within 100 meter buffer in 2006 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse100_gu_06  
 **Variable description**: Area size in m2 of green urban areas within  buffer in 2006 from CORINE data.  
@@ -6137,7 +6133,6 @@ total blue and green spaces | Total of both green and blue space (forests, green
 #This is where the R-script will be written  
 
 ```  
-
 
 
 ### **Variable label**: Area size of green urban area within 100 meter buffer in 2012 (CORINE)  
@@ -6620,7 +6615,6 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-
 ### **Variable label**: Area size of port area within 400 meter buffer in 2012 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_landuse400_po_12  
 **Variable description**: Area size in m2 of ports (airports and sea ports) within buffer in 2012 from Urban Atlas data.  
@@ -6925,7 +6919,6 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-
 ### **Variable label**: Area size of built-up area within 400 meter buffer in 2006 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse400_bu_06  
 **Variable description**: Area size in m2 of built-up areas within buffer in 2006 from CORINE data.  
@@ -6972,7 +6965,6 @@ total blue and green spaces | Total of both green and blue space (forests, green
 #This is where the R-script will be written  
 
 ```  
-
 
 
 ### **Variable label**: Area size of industrial and commercial area within 400 meter buffer in 2000 (CORINE)  
@@ -7616,7 +7608,6 @@ total blue and green spaces | Total of both green and blue space (forests, green
 #This is where the R-script will be written  
 
 ```  
-
 
 
 ### **Variable label**: Area size of industrial and commercial area within 800 meter buffer in 2012 (Urban Atlas)  
@@ -8549,7 +8540,6 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-
 ### **Variable label**: Area size of other areas within 800 meter buffer in 2000 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse800_ot_00  
 **Variable description**: Area size in m2 of other areas within buffer in 2000 from CORINE data.  
@@ -9078,7 +9068,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-## **Variable label**: Area size of industrial and commercial area within 1000 meter buffer in 1990 (CORINE)  
+### **Variable label**: Area size of industrial and commercial area within 1000 meter buffer in 1990 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1000_ic_90  
 **Variable description**: Area size in m2 of industrial and commercial areas within buffer in 1990 from CORINE data.  
 **Variable type**: decimal  
@@ -9094,7 +9084,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-## **Variable label**: Area size of industrial and commercial area within 1000 meter buffer in 2000 (CORINE)  
+### **Variable label**: Area size of industrial and commercial area within 1000 meter buffer in 2000 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1000_ic_00  
 **Variable description**: Area size in m2 of industrial and commercial areas within buffer in 2000 from CORINE data.  
 **Variable type**: decimal  
@@ -9110,7 +9100,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-## **Variable label**: Area size of industrial and commercial area within 1000 meter buffer in 2006 (CORINE)  
+### **Variable label**: Area size of industrial and commercial area within 1000 meter buffer in 2006 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1000_ic_06  
 **Variable description**: Area size in m2 of industrial and commercial areas within buffer in 2006 from CORINE data.  
 **Variable type**: decimal  
@@ -9126,7 +9116,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-## **Variable label**: Area size of industrial and commercial area within 1000 meter buffer in 2012 (CORINE)  
+### **Variable label**: Area size of industrial and commercial area within 1000 meter buffer in 2012 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1000_ic_12  
 **Variable description**: Area size in m2 of industrial and commercial areas within buffer in 2012 from CORINE data.  
 **Variable type**: decimal  
@@ -9158,7 +9148,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-## **Variable label**: Area size of infrastructure area within 1000 meter buffer in 2000 (CORINE)  
+### **Variable label**: Area size of infrastructure area within 1000 meter buffer in 2000 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1000_in_00  
 **Variable description**: Area size in m2 of infrastructure areas within buffer in 2000 from CORINE data.  
 **Variable type**: decimal  
@@ -9174,7 +9164,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-## **Variable label**: Area size of infrastructure area within 1000 meter buffer in 2006 (CORINE)  
+### **Variable label**: Area size of infrastructure area within 1000 meter buffer in 2006 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1000_in_06  
 **Variable description**: Area size in m2 of infrastructure areas within buffer in 2006 from CORINE data.  
 **Variable type**: decimal  
@@ -9190,7 +9180,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-## **Variable label**: Area size of infrastructure area within 1000 meter buffer in 2012 (CORINE)  
+### **Variable label**: Area size of infrastructure area within 1000 meter buffer in 2012 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1000_in_12  
 **Variable description**: Area size in m2 of infrastructure areas within buffer in 2012 from CORINE data.  
 **Variable type**: decimal  
@@ -9206,7 +9196,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-## **Variable label**: Area size of port area within 1000 meter buffer in 1990 (CORINE)  
+### **Variable label**: Area size of port area within 1000 meter buffer in 1990 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1000_po_90  
 **Variable description**: Area size in m2 of ports (airports and sea ports) within buffer in 1990 from CORINE data.  
 **Variable type**: decimal  
@@ -9222,7 +9212,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-## **Variable label**: Area size of port area within 1000 meter buffer in 2000 (CORINE)  
+### **Variable label**: Area size of port area within 1000 meter buffer in 2000 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1000_po_00  
 **Variable description**: Area size in m2 of ports (airports and sea ports) within buffer in 2000 from CORINE data.  
 **Variable type**: decimal  
@@ -9238,7 +9228,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-## **Variable label**: Area size of port area within 1000 meter buffer in 2006 (CORINE)  
+### **Variable label**: Area size of port area within 1000 meter buffer in 2006 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1000_po_06  
 **Variable description**: Area size in m2 of ports (airports and sea ports) within buffer in 2006 from CORINE data.  
 **Variable type**: decimal  
@@ -9254,7 +9244,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-## **Variable label**: Area size of port area within 1000 meter buffer in 2012 (CORINE)  
+### **Variable label**: Area size of port area within 1000 meter buffer in 2012 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1000_po_12  
 **Variable description**: Area size in m2 of ports (airports and sea ports) within buffer in 2012 from CORINE data.  
 **Variable type**: decimal  
@@ -9270,7 +9260,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-## **Variable label**: Area size of green urban area within 1000 meter buffer in 1990 (CORINE)  
+### **Variable label**: Area size of green urban area within 1000 meter buffer in 1990 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1000_gu_90  
 **Variable description**: Area size in m2 of green urban areas within buffer in 1990 from CORINE data.  
 **Variable type**: decimal  
@@ -9286,7 +9276,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-## **Variable label**: Area size of green urban area within 1000 meter buffer in 2000 (CORINE)  
+### **Variable label**: Area size of green urban area within 1000 meter buffer in 2000 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1000_gu_00  
 **Variable description**: Area size in m2 of green urban areas within buffer in 2000 from CORINE data.  
 **Variable type**: decimal  
@@ -9302,7 +9292,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-## **Variable label**: Area size of green urban area within 1000 meter buffer in 2006 (CORINE)  
+### **Variable label**: Area size of green urban area within 1000 meter buffer in 2006 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1000_gu_06  
 **Variable description**: Area size in m2 of green urban areas within buffer in 2006 from CORINE data.  
 **Variable type**: decimal  
@@ -9318,7 +9308,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-## **Variable label**: Area size of green urban area within 1000 meter buffer in 2012 (CORINE)  
+### **Variable label**: Area size of green urban area within 1000 meter buffer in 2012 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1000_gu_12  
 **Variable description**: Area size in m2 of green urban areas within buffer in 2012 from CORINE data.  
 **Variable type**: decimal  
@@ -9334,7 +9324,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-## **Variable label**: Area size of sports & leisure facilities area within 1000 meter buffer in 1990 (CORINE)  
+### **Variable label**: Area size of sports & leisure facilities area within 1000 meter buffer in 1990 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1000_fa_90  
 **Variable description**: Area size in m2 of sports & leisure facilities within buffer in 1990 from CORINE data.  
 **Variable type**: decimal  
@@ -9350,7 +9340,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-## **Variable label**: Area size of sports & leisure facilities area within 1000 meter buffer in 2000 (CORINE)  
+### **Variable label**: Area size of sports & leisure facilities area within 1000 meter buffer in 2000 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1000_fa_00  
 **Variable description**: Area size in m2 of sports & leisure facilities within buffer in 2000 from CORINE data.  
 **Variable type**: decimal  
@@ -9366,7 +9356,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-## **Variable label**: Area size of sports & leisure facilities area within 2006 meter buffer in 2006 (CORINE)  
+### **Variable label**: Area size of sports & leisure facilities area within 2006 meter buffer in 2006 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1000_fa_06  
 **Variable description**: Area size in m2 of sports & leisure facilities within buffer in 2006 from CORINE data.  
 **Variable type**: decimal  
@@ -9382,7 +9372,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-## **Variable label**: Area size of sports & leisure facilities area within 1000 meter buffer in 2012 (CORINE)  
+### **Variable label**: Area size of sports & leisure facilities area within 1000 meter buffer in 2012 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1000_fa_12  
 **Variable description**: Area size in m2 of sports & leisure facilities within buffer in 2012 from CORINE data.  
 **Variable type**: decimal  
@@ -9398,7 +9388,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-## **Variable label**: Area size of agricultural land within 1000 meter buffer in 1990 (CORINE)  
+### **Variable label**: Area size of agricultural land within 1000 meter buffer in 1990 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1000_ag_90  
 **Variable description**: Area size in m2 of agricultural within buffer in 1990 from CORINE data.  
 **Variable type**: decimal  
@@ -9414,7 +9404,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-## **Variable label**: Area size of agricultural land within 1000 meter buffer in 2000 (CORINE)  
+### **Variable label**: Area size of agricultural land within 1000 meter buffer in 2000 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1000_ag_00  
 **Variable description**: Area size in m2 of agricultural within buffer in 2000 from CORINE data.  
 **Variable type**: decimal  
@@ -9430,7 +9420,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-## **Variable label**: Area size of agricultural land within 1000 meter buffer in 2006 (CORINE)  
+### **Variable label**: Area size of agricultural land within 1000 meter buffer in 2006 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1000_ag_06  
 **Variable description**: Area size in m2 of agricultural within buffer in 2006 from CORINE data.  
 **Variable type**: decimal  
@@ -9446,7 +9436,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-## **Variable label**: Area size of agricultural land within 1000 meter buffer in 2012 (CORINE)  
+### **Variable label**: Area size of agricultural land within 1000 meter buffer in 2012 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1000_ag_12  
 **Variable description**: Area size in m2 of agricultural within buffer in 2012 from CORINE data.  
 **Variable type**: decimal  
@@ -9462,7 +9452,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-## **Variable label**: Area size of other natural areas within 1000 meter buffer in 1990 (CORINE)  
+### **Variable label**: Area size of other natural areas within 1000 meter buffer in 1990 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1000_on_90  
 **Variable description**: Area size in m2 of other natural areas within buffer in 1990 from CORINE data.  
 **Variable type**: decimal  
@@ -9478,7 +9468,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-## **Variable label**: Area size of other natural areas within 1000 meter buffer in 2000 (CORINE)  
+### **Variable label**: Area size of other natural areas within 1000 meter buffer in 2000 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1000_on_00  
 **Variable description**: Area size in m2 of other natural areas within buffer in 2000 from CORINE data.  
 **Variable type**: decimal  
@@ -9494,7 +9484,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-## **Variable label**: Area size of other natural areas within 1000 meter buffer in 2006 (CORINE)  
+### **Variable label**: Area size of other natural areas within 1000 meter buffer in 2006 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1000_on_06  
 **Variable description**: Area size in m2 of other natural areas within buffer in 2006 from CORINE data.  
 **Variable type**: decimal  
@@ -9510,7 +9500,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-## **Variable label**: Area size of other natural areas within 1000 meter buffer in 2012 (CORINE)  
+### **Variable label**: Area size of other natural areas within 1000 meter buffer in 2012 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1000_on_12  
 **Variable description**: Area size in m2 of other natural areas within buffer in 2012 from CORINE data.  
 **Variable type**: decimal  
@@ -9526,7 +9516,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-## **Variable label**: Area size of water within 1000 meter buffer in 1990 (CORINE)  
+### **Variable label**: Area size of water within 1000 meter buffer in 1990 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1000_bs_90  
 **Variable description**: Area size in m2 of water within bufferin 1990 from CORINE data.  
 **Variable type**: decimal  
@@ -9542,7 +9532,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-## **Variable label**: Area size of water within 1000 meter buffer in 2000 (CORINE)  
+### **Variable label**: Area size of water within 1000 meter buffer in 2000 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1000_bs_00  
 **Variable description**: Area size in m2 of water within bufferin 2000 from CORINE data.  
 **Variable type**: decimal  
@@ -9558,7 +9548,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-## **Variable label**: Area size of water within 1000 meter buffer in 2006 (CORINE)  
+### **Variable label**: Area size of water within 1000 meter buffer in 2006 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1000_bs_06  
 **Variable description**: Area size in m2 of water within bufferin 2006 from CORINE data.  
 **Variable type**: decimal  
@@ -9574,7 +9564,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-## **Variable label**: Area size of water within 1000 meter buffer in 2012 (CORINE)  
+### **Variable label**: Area size of water within 1000 meter buffer in 2012 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1000_bs_12  
 **Variable description**: Area size in m2 of water within bufferin 2012 from CORINE data.  
 **Variable type**: decimal  
@@ -9590,7 +9580,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-## **Variable label**: Area size of other areas within 1000 meter buffer in 1990 (CORINE)  
+### **Variable label**: Area size of other areas within 1000 meter buffer in 1990 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1000_ot_90  
 **Variable description**: Area size in m2 of other areas within buffer in 1990 from CORINE data.  
 **Variable type**: decimal  
@@ -9606,7 +9596,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-## **Variable label**: Area size of other areas within 1000 meter buffer in 2000 (CORINE)  
+### **Variable label**: Area size of other areas within 1000 meter buffer in 2000 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1000_ot_00  
 **Variable description**: Area size in m2 of other areas within buffer in 2000 from CORINE data.  
 **Variable type**: decimal  
@@ -9622,7 +9612,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-## **Variable label**: Area size of other areas within 1000 meter buffer in 2006 (CORINE)  
+### **Variable label**: Area size of other areas within 1000 meter buffer in 2006 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1000_ot_06  
 **Variable description**: Area size in m2 of other areas within buffer in 2006 from CORINE data.  
 **Variable type**: decimal  
@@ -9638,7 +9628,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-## **Variable label**: Area size of other areas within 1000 meter buffer in 2012 (CORINE)  
+### **Variable label**: Area size of other areas within 1000 meter buffer in 2012 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1000_ot_12  
 **Variable description**: Area size in m2 of other areas within buffer in 2012 from CORINE data.  
 **Variable type**: decimal  
@@ -9654,7 +9644,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```
 
 
-## **Variable label**: Land use mix within 1600 meter buffer in 2006 (Urban Atlas)  
+### **Variable label**: Land use mix within 1600 meter buffer in 2006 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_bf_landuse1600_06  
 **Variable description**: Land use mix in m2 within a 1600 meter buffer. It is calculated using an entropy formula in 2006 from Urban Atlas data.  
 **Variable type**: decimal  
@@ -9670,7 +9660,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-## **Variable label**: Land use mix within 1600 meter buffer in 2012 (Urban Atlas)  
+### **Variable label**: Land use mix within 1600 meter buffer in 2012 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_bf_landuse1600_12  
 **Variable description**: Land use mix in m2 within a 1600 meter buffer. It is calculated using an entropy formula in 2012 from Urban Atlas data.  
 **Variable type**: decimal  
@@ -9686,7 +9676,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-## **Variable label**: Area size of built-up area within 1600 meter buffer in 2006 (Urban Atlas)  
+### **Variable label**: Area size of built-up area within 1600 meter buffer in 2006 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_landuse1600_bu_06  
 **Variable description**: Area size in m2 of built-up areas within buffer in 2006 from Urban Atlas data.  
 **Variable type**: decimal  
@@ -9702,7 +9692,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-## **Variable label**: Area size of built-up area within 1600 meter buffer in 2012 (Urban Atlas)  
+### **Variable label**: Area size of built-up area within 1600 meter buffer in 2012 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_landuse1600_bu_12  
 **Variable description**: Area size in m2 of built-up areas within buffer in 2012 from Urban Atlas data.  
 **Variable type**: decimal  
@@ -9718,7 +9708,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-## **Variable label**: Area size of industrial and commercial area within 1600 meter buffer in 2006 (Urban Atlas)  
+### **Variable label**: Area size of industrial and commercial area within 1600 meter buffer in 2006 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_landuse1600_ic_06  
 **Variable description**: Area size in m2 of industrial and commercial areas within buffer in 2006 from Urban Atlas data.  
 **Variable type**: decimal  
@@ -9734,7 +9724,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-## **Variable label**: Area size of industrial and commercial area within 1600 meter buffer in 2012 (Urban Atlas)  
+### **Variable label**: Area size of industrial and commercial area within 1600 meter buffer in 2012 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_landuse1600_ic_12  
 **Variable description**: Area size in m2 of industrial and commercial areas within buffer in 2012 from Urban Atlas data.  
 **Variable type**: decimal  
@@ -9750,7 +9740,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-## **Variable label**: Area size of infrastructure area within 1600 meter buffer in 2006 (Urban Atlas)  
+### **Variable label**: Area size of infrastructure area within 1600 meter buffer in 2006 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_landuse1600_in_06  
 **Variable description**: Area size in m2 of infrastructure areas within buffer in 2006 from Urban Atlas data.  
 **Variable type**: decimal  
@@ -9766,7 +9756,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-## **Variable label**: Area size of infrastructure area within 1600 meter buffer in 2012 (Urban Atlas)  
+### **Variable label**: Area size of infrastructure area within 1600 meter buffer in 2012 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_landuse1600_in_12  
 **Variable description**: Area size in m2 of infrastructure areas within buffer in 2012 from Urban Atlas data.  
 **Variable type**: decimal  
@@ -9782,7 +9772,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-## **Variable label**: Area size of port area within 1600 meter buffer in 2006 (Urban Atlas)  
+### **Variable label**: Area size of port area within 1600 meter buffer in 2006 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_landuse1600_po_06  
 **Variable description**: Area size in m2 of ports (airports and sea ports) within buffer in 2006 from Urban Atlas data.  
 **Variable type**: decimal  
@@ -9798,7 +9788,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-## **Variable label**: Area size of port area within 1600 meter buffer in 2012 (Urban Atlas)  
+### **Variable label**: Area size of port area within 1600 meter buffer in 2012 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_landuse1600_po_12  
 **Variable description**: Area size in m2 of ports (airports and sea ports) within buffer in 2012 from Urban Atlas data.  
 **Variable type**: decimal  
@@ -9814,7 +9804,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-## **Variable label**: Area size of green urban area within 1600 meter buffer in 2006 (Urban Atlas)  
+### **Variable label**: Area size of green urban area within 1600 meter buffer in 2006 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_landuse1600_gu_06  
 **Variable description**: Area size in m2 of green urban areas within buffer in 2006 from Urban Atlas data.  
 **Variable type**: decimal  
@@ -9830,7 +9820,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-## **Variable label**: Area size of green urban area within 1600 meter buffer in 2006 (Urban Atlas)  
+### **Variable label**: Area size of green urban area within 1600 meter buffer in 2006 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_landuse1600_gu_06  
 **Variable description**: Area size in m2 of green urban areas within buffer in 2006 from Urban Atlas data.  
 **Variable type**: decimal  
@@ -9846,7 +9836,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-## **Variable label**: Area size of sports & leisure facilities area within 1600 meter buffer in 2006 (Urban Atlas)  
+### **Variable label**: Area size of sports & leisure facilities area within 1600 meter buffer in 2006 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_landuse1600_fa_06  
 **Variable description**: Area size in m2 of sports & leisure facilities within buffer in 2006 from Urban Atlas data.  
 **Variable type**: decimal  
@@ -9862,7 +9852,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-## **Variable label**: Area size of sports & leisure facilities area within 1600 meter buffer in 2012 (Urban Atlas)  
+### **Variable label**: Area size of sports & leisure facilities area within 1600 meter buffer in 2012 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_landuse1600_fa_12  
 **Variable description**: Area size in m2 of sports & leisure facilities within buffer in 2012 from Urban Atlas data.  
 **Variable type**: decimal  
@@ -9878,7 +9868,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-## **Variable label**: Area size of agricultural land within 1600 meter buffer in 2006 (Urban Atlas)  
+### **Variable label**: Area size of agricultural land within 1600 meter buffer in 2006 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_landuse1600_ag_06  
 **Variable description**: Area size in m2 of agricultural within buffer in 2006 from Urban Atlas data.  
 **Variable type**: decimal  
@@ -9894,7 +9884,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-## **Variable label**: Area size of agricultural land within 1600 meter buffer in 2012 (Urban Atlas)  
+### **Variable label**: Area size of agricultural land within 1600 meter buffer in 2012 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_landuse1600_ag_12  
 **Variable description**: Area size in m2 of agricultural within buffer in 2012 from Urban Atlas data.  
 **Variable type**: decimal  
@@ -9910,7 +9900,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-## **Variable label**: Area size of other natural areas within 1600 meter buffer in 2006 (Urban Atlas)  
+### **Variable label**: Area size of other natural areas within 1600 meter buffer in 2006 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_landuse1600_on_06  
 **Variable description**: Area size in m2 of other natural areas within buffer in 2006 from Urban Atlas data.  
 **Variable type**: decimal  
@@ -9926,7 +9916,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-## **Variable label**: Area size of other natural areas within 1600 meter buffer in 2012 (Urban Atlas)  
+### **Variable label**: Area size of other natural areas within 1600 meter buffer in 2012 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_landuse1600_on_12  
 **Variable description**: Area size in m2 of other natural areas within buffer in 2012 from Urban Atlas data.  
 **Variable type**: decimal  
@@ -9942,7 +9932,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-## **Variable label**: Area size of water within 1600 meter buffer in 2006 (Urban Atlas)  
+### **Variable label**: Area size of water within 1600 meter buffer in 2006 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_landuse1600_bs_06  
 **Variable description**: Area size in m2 of water within buffer in 2006 from Urban Atlas data.  
 **Variable type**: decimal  
@@ -9958,7 +9948,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-## **Variable label**: Area size of water within 1600 meter buffer in 2012 (Urban Atlas)  
+### **Variable label**: Area size of water within 1600 meter buffer in 2012 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_landuse1600_bs_12  
 **Variable description**: Area size in m2 of water within buffer in 2012 from Urban Atlas data.  
 **Variable type**: decimal  
@@ -9974,7 +9964,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-## **Variable label**: Area size of other areas within 1600 meter buffer in 2006 (Urban Atlas)  
+### **Variable label**: Area size of other areas within 1600 meter buffer in 2006 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_landuse1600_ot_06  
 **Variable description**: Area size in m2 of other areas within buffer in 2006 from Urban Atlas data.  
 **Variable type**: decimal  
@@ -9990,7 +9980,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-## **Variable label**: Area size of other areas within 1600 meter buffer in 2012 (Urban Atlas)  
+### **Variable label**: Area size of other areas within 1600 meter buffer in 2012 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_landuse1600_ot_12  
 **Variable description**: Area size in m2 of other areas within buffer in 2012 from Urban Atlas data.  
 **Variable type**: decimal  
@@ -10006,7 +9996,71 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-## **Variable label**: 
+### **Variable label**: Land use mix within 1600 meter buffer in 1990 (CORINE)  
+**Variable name**: physenv_cn_bf_bf_landuse1600_90  
+**Variable description**: Land use mix in m2 within a 1600 meter buffer. It is calculated using an entropy formula in 1990 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Land use mix within 1600 meter buffer in 2000 (CORINE)  
+**Variable name**: physenv_cn_bf_bf_landuse1600_00  
+**Variable description**: Land use mix in m2 within a 1600 meter buffer. It is calculated using an entropy formula in 2000 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Land use mix within 1600 meter buffer in 2006 (CORINE)  
+**Variable name**: physenv_cn_bf_bf_landuse1600_06  
+**Variable description**: Land use mix in m2 within a 1600 meter buffer. It is calculated using an entropy formula in 2006 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Land use mix within 1600 meter buffer in 2012 (CORINE)  
+**Variable name**: physenv_cn_bf_bf_landuse1600_12  
+**Variable description**: Land use mix in m2 within a 1600 meter buffer. It is calculated using an entropy formula in 2012 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: 
 **Variable name**:
 **Variable description**:
 **Variable type**: decimal  
