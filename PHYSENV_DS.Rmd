@@ -2,14 +2,6 @@
 title: "Physical environmental (i.e. geospatial) DataSchema"
 output: html_document
 ---
-# Table of Contents
-1. [Natural environment - Urban Atlas subdomain] #(Natural-environment - Urban-Atlas-subdomain)  
-2. [Natural environment - CORINE subdomain] #(Natural-environment - CORINE-subdomain)  
-3. [Built environment - Urban Atlas subdomain] #(Built-environment - Urban-Atlas-subdomain)  
-4. [Built environment - CORINE subdomain] #(Built-environment - CORINE-subdomain)  
-5. [Land use - Urban Atlas subdomain] #(Land-use - Urban-Atla-subdomain)  
-6. [Land use - CORINE subdomain] #(Land-use - CORINE-subdomain)  
-7. [Built environment - Urban Atlas subdomain] #(Built-environment - Urban-Atlas-subdomain)  
 
 # Table of Contents
 1. [Natural environment - Urban Atlas & CORINE subdomain] #(Natural-environment - Urban Atlas & CORINE - without a buffer - subdomain)    
