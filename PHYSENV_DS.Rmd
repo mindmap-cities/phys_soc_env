@@ -10747,5 +10747,3 @@ total blue and green spaces | Total of both green and blue space (forests, green
 
 ```  
 
-
-blablalbla
