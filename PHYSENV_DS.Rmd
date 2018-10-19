@@ -11,6 +11,15 @@ output: html_document
 6. [Land use - CORINE subdomain] #(Land-use - CORINE-subdomain)  
 7. [Built environment - Urban Atlas subdomain] #(Built-environment - Urban-Atlas-subdomain)  
 
+# Table of Contents
+1. [Natural environment - Urban Atlas & CORINE subdomain] #(Natural-environment - Urban Atlas & CORINE - without a buffer - subdomain)    
+2. [Built environment - Urban Atlas & CORINE subdomain] #(Built-environment - Urban Atlas & CORINE - without a buffer - subdomain)  
+3. [Natural environment - Urban Atlas & CORINE subdomain] #(Natural- & environment Built-environment - Urban Atlas & CORINE - within a buffer - subdomain)  
+4. [Land use - Urban Atlas & CORINE subdomain] #(Land-use - Urban Atlas & CORINE - within a buffer - subdomain)  
+5. [Built environment - Urban Atlas subdomain] #(Built-environment - Urban-Atlas - subdomain)  
+
+
+
 **Variable** | **definition of variable**
 ------------------------ | --------------------------------------------------
 total blue space | Total of all categories of blue spaces (water + wetlands).  
@@ -18,7 +27,7 @@ total green spaces | Total of all categories of green spaces (forests + green ur
 total blue and green spaces | Total of both green and blue space (forests, green urban areas, water, wetlands).  
 
 
-# Natural environment - Urban Atlas  
+# Natural environment - Urban Atlas & CORINE - without a buffer  
 
 ### **Variable label**: Distance to green urban areas in 2006 (Urban Atlas)  
 **Variable name**: physenv_ua_ne_greenurban_06  
@@ -437,7 +446,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 
 ### **Variable label**: Area size of total blue and green space (water, wetlands, forests, green urban areas) in 2006 (Urban Atlas)  
 **Variable name**: physenv_ua_ne_totalbluegreen_area_06  
-**Variable description**:  Area size of the nearest polygon. Total of both green and blue spaces  (water, wetlands, forests, green urban areas) in 2006 from Urban Atalas data.  
+**Variable description**:  Area size of the nearest polygon. Total of both green and blue spaces (water, wetlands, forests, green urban areas) in 2006 from Urban Atalas data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -
@@ -465,6 +474,1115 @@ total blue and green spaces | Total of both green and blue space (forests, green
 #This is where the R-script will be written  
 
 ```  
+
+
+### **Variable label**: Distance to green urban areas in 1990 (CORINE)  
+**Variable name**: physenv_cn_ne_greenurban_90  
+**Variable description**: Absolute distance to the nearest polygon marked as green urban area in 1990 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Distance to green urban areas in 2000 (CORINE)  
+**Variable name**: physenv_cn_ne_greenurban_00  
+**Variable description**: Absolute distance to the nearest polygon marked as green urban area in 2000 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Distance to green urban areas in 2006 (CORINE)  
+**Variable name**: physenv_cn_ne_greenurban_06  
+**Variable description**: Absolute distance to the nearest polygon marked as green urban area in 2006 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Distance to green urban areas in 2012 (CORINE)  
+**Variable name**: physenv_cn_ne_greenurban_12  
+**Variable description**: Absolute distance to the nearest polygon marked as green urban area in 2012 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+
+### **Variable label**: Distance to forests in 1990 (CORINE)  
+**Variable name**: physenv_cn_ne_forests_90  
+**Variable description**: Absolute distance to the nearest polygon marked as forest in 1990 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Distance to forests in 2000 (CORINE)  
+**Variable name**: physenv_cn_ne_forests_00  
+**Variable description**: Absolute distance to the nearest polygon marked as forest in 2000 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Distance to forests in 2006 (CORINE)  
+**Variable name**: physenv_cn_ne_forests_06  
+**Variable description**: Absolute distance to the nearest polygon marked as forest in 2006 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Distance to forests in 2012 (CORINE)  
+**Variable name**: physenv_cn_ne_forests_12  
+**Variable description**: Absolute distance to the nearest polygon marked as forest in 2012 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Distance to water in 1990 (CORINE)  
+**Variable name**: physenv_cn_ne_water_90  
+**Variable description**: Absolute distance to the nearest polygon marked as water in 1990 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Distance to water in 2000 (CORINE)  
+**Variable name**: physenv_cn_ne_water_00  
+**Variable description**: Absolute distance to the nearest polygon marked as water in 2000 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Distance to water in 2006 (CORINE)  
+**Variable name**: physenv_cn_ne_water_06  
+**Variable description**: Absolute distance to the nearest polygon marked as water in 2006 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Distance to water in 2012 (CORINE)  
+**Variable name**: physenv_cn_ne_water_12  
+**Variable description**: Absolute distance to the nearest polygon marked as water in 2012 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Distance to agricultural land in 1990 (CORINE)  
+**Variable name**: physenv_cn_ne_agriland_90  
+**Variable description**:  Absolute distance to the nearest polygon. No distinction is made between different types of agricultural land in 1990 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Distance to agricultural land in 2000 (CORINE)  
+**Variable name**: physenv_cn_ne_agriland_00  
+**Variable description**:  Absolute distance to the nearest polygon. No distinction is made between different types of agricultural land in 2000 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Distance to agricultural land in 2006 (CORINE)  
+**Variable name**: physenv_cn_ne_agriland_06  
+**Variable description**:  Absolute distance to the nearest polygon. No distinction is made between different types of agricultural land in 2006 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Distance to agricultural land in 2012 (CORINE)  
+**Variable name**: physenv_cn_ne_agriland_12  
+**Variable description**:  Absolute distance to the nearest polygon. No distinction is made between different types of agricultural land in 2012 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Distance to total green spaces (forest + green urban areas) in 1990 (CORINE)  
+**Variable name**: physenv_cn_ne_totalgreen_90  
+**Variable description**: Absolute distance to the nearest polygon. Total of all categories of green spaces (forests + green urban areas) in 1990 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Distance to total green spaces (forest + green urban areas) in 2000 (CORINE)  
+**Variable name**: physenv_cn_ne_totalgreen_00  
+**Variable description**: Absolute distance to the nearest polygon. Total of all categories of green spaces (forests + green urban areas) in 2000 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Distance to total green spaces (forest + green urban areas) in 2006 (CORINE)  
+**Variable name**: physenv_cn_ne_totalgreen_06  
+**Variable description**: Absolute distance to the nearest polygon. Total of all categories of green spaces (forests + green urban areas) in 2006 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Distance to total green spaces (forest + green urban areas) in 2012 (CORINE)  
+**Variable name**: physenv_cn_ne_totalgreen_12  
+**Variable description**: Absolute distance to the nearest polygon. Total of all categories of green spaces (forests + green urban areas) in 2012 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Distance to total blue spaces (water + wetlands) in 1990 (CORINE)  
+**Variable name**: physenv_cn_ne_totalblue_90  
+**Variable description**: Absolute distance to the nearest polygon. Total of all categories of blue spaces (water + wetlands) in 1990 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Distance to total blue spaces (water + wetlands) in 2000 (CORINE)  
+**Variable name**: physenv_cn_ne_totalblue_00  
+**Variable description**: Absolute distance to the nearest polygon. Total of all categories of blue spaces (water + wetlands) in 2000 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Distance to total blue spaces (water + wetlands) in 2006 (CORINE)  
+**Variable name**: physenv_cn_ne_totalblue_06  
+**Variable description**: Absolute distance to the nearest polygon. Total of all categories of blue spaces (water + wetlands) in 2006 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Distance to total blue spaces (water + wetlands) in 2012 (CORINE)  
+**Variable name**: physenv_cn_ne_totalblue_12  
+**Variable description**: Absolute distance to the nearest polygon. Total of all categories of blue spaces (water + wetlands) in 2012 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Distance to total blue and green Spaces (water, wetlands, forests, green urban areas) in 1990 (CORINE)  
+**Variable name**: physenv_cn_ne_totalbluegreen_90  
+**Variable description**: Absolute distance to the nearest polygon. Total of both green and blue spaces (water, wetlands, forests, green urban areas) in 1990 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Distance to total blue and green Spaces (water, wetlands, forests, green urban areas) in 2000 (CORINE)  
+**Variable name**: physenv_cn_ne_totalbluegreen_00  
+**Variable description**: Absolute distance to the nearest polygon. Total of both green and blue spaces (water, wetlands, forests, green urban areas) in 2000 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Distance to total blue and green Spaces (water, wetlands, forests, green urban areas) in 2006 (CORINE)  
+**Variable name**: physenv_cn_ne_totalbluegreen_06  
+**Variable description**: Absolute distance to the nearest polygon. Total of both green and blue spaces (water, wetlands, forests, green urban areas) in 2006 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Distance to total blue and green Spaces (water, wetlands, forests, green urban areas) in 2012 (CORINE)  
+**Variable name**: physenv_cn_ne_totalbluegreen_12  
+**Variable description**: Absolute distance to the nearest polygon. Total of both green and blue spaces (water, wetlands, forests, green urban areas) in 2012 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of green urban areas in 1990 (CORINE)  
+**Variable name**: physenv_cn_ne_greenurban_area_90  
+**Variable description**: Area size of the nearest polygon marked as green urban area in 1990 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of green urban areas in 2000 (CORINE)  
+**Variable name**: physenv_cn_ne_greenurban_area_00  
+**Variable description**: Area size of the nearest polygon marked as green urban area in 2000 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of green urban areas in 2006 (CORINE)  
+**Variable name**: physenv_cn_ne_greenurban_area_06  
+**Variable description**: Area size of the nearest polygon marked as green urban area in 2006 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of green urban areas in 2012 (CORINE)  
+**Variable name**: physenv_cn_ne_greenurban_area_12  
+**Variable description**: Area size of the nearest polygon marked as green urban area in 2012 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of  forests in 1990 (CORINE)  
+**Variable name**: physenv_cn_ne_forests_area_90  
+**Variable description**: Area size of the nearest polygon marked as green urban area in 1990 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of  forests in 2000 (CORINE)  
+**Variable name**: physenv_cn_ne_forests_area_00  
+**Variable description**: Area size of the nearest polygon marked as green urban area in 2000 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of  forests in 2006 (CORINE)  
+**Variable name**: physenv_cn_ne_forests_area_06  
+**Variable description**: Area size of the nearest polygon marked as green urban area in 2006 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of  forests in 2012 (CORINE)  
+**Variable name**: physenv_cn_ne_forests_area_12  
+**Variable description**: Area size of the nearest polygon marked as green urban area in 2012 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of  water in 1990 (CORINE)  
+**Variable name**: physenv_cn_ne_water_area_90  
+**Variable description**: Area size of the nearest polygon marked as water in 1990 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of  water in 2000 (CORINE)  
+**Variable name**: physenv_cn_ne_water_area_00  
+**Variable description**: Area size of the nearest polygon marked as water in 2000 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of  water in 2006 (CORINE)  
+**Variable name**: physenv_cn_ne_water_area_06  
+**Variable description**: Area size of the nearest polygon marked as water in 2006 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of  water in 2012 (CORINE)  
+**Variable name**: physenv_cn_ne_water_area_12  
+**Variable description**: Area size of the nearest polygon marked as water in 2012 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of  agricultural land in 1990 (CORINE)  
+**Variable name**: physenv_cn_ne_agriland_area_90  
+**Variable description**: Area size of the nearest polygon. No distinction is made between different types of agricultural land in 1990 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of  agricultural land in 2000 (CORINE)  
+**Variable name**: physenv_cn_ne_agriland_area_00  
+**Variable description**: Area size of the nearest polygon. No distinction is made between different types of agricultural land in 2000 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of  agricultural land in 2006 (CORINE)  
+**Variable name**: physenv_cn_ne_agriland_area_06  
+**Variable description**: Area size of the nearest polygon. No distinction is made between different types of agricultural land in 2006 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of  agricultural land in 2012 (CORINE)  
+**Variable name**: physenv_cn_ne_agriland_area_12  
+**Variable description**: Area size of the nearest polygon. No distinction is made between different types of agricultural land in 2012 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of total green spaces (forest + green urban areas) in 1990 (CORINE)  
+**Variable name**: physenv_cn_ne_totalgreen_area_90  
+**Variable description**: Area size of the nearest polygon. Total of all categories of green spaces (forests + green urban areas) in 1990 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of total green spaces (forest + green urban areas) in 2000 (CORINE)  
+**Variable name**: physenv_cn_ne_totalgreen_area_00  
+**Variable description**: Area size of the nearest polygon. Total of all categories of green spaces (forests + green urban areas) in 2000 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of total green spaces (forest + green urban areas) in 2006 (CORINE)  
+**Variable name**: physenv_cn_ne_totalgreen_area_06  
+**Variable description**: Area size of the nearest polygon. Total of all categories of green spaces (forests + green urban areas) in 2006 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of total green spaces (forest + green urban areas) in 2012 (CORINE)  
+**Variable name**: physenv_cn_ne_totalgreen_area_12  
+**Variable description**: Area size of the nearest polygon. Total of all categories of green spaces (forests + green urban areas) in 2012 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of total blue spaces (water + wetlands) in 1990 (CORINE)  
+**Variable name**: physenv_cn_ne_totalblue_area_90  
+**Variable description**: Area size of the nearest polygon. Total of all categories of blue spaces (water + wetlands) in 1990 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of total blue spaces (water + wetlands) in 2000 (CORINE)  
+**Variable name**: physenv_cn_ne_totalblue_area_00  
+**Variable description**: Area size of the nearest polygon. Total of all categories of blue spaces (water + wetlands) in 2000 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of total blue spaces (water + wetlands) in 2006 (CORINE)  
+**Variable name**: physenv_cn_ne_totalblue_area_06  
+**Variable description**: Area size of the nearest polygon. Total of all categories of blue spaces (water + wetlands) in 2006 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of total blue spaces (water + wetlands) in 2012 (CORINE)  
+**Variable name**: physenv_cn_ne_totalblue_area_12  
+**Variable description**: Area size of the nearest polygon. Total of all categories of blue spaces (water + wetlands) in 2012 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of total blue and green Spaces (water, wetlands, forests, green urban areas) in 1990 (CORINE)  
+**Variable name**: physenv_cn_ne_totalbluegreen_area_90  
+**Variable description**: Area size of the nearest polygon. Total of both green and blue spaces (water, wetlands, forests, green urban areas) in 1990 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: AArea size of total blue and green Spaces (water, wetlands, forests, green urban areas) in 2000 (CORINE)  
+**Variable name**: physenv_cn_ne_totalbluegreen_area_00  
+**Variable description**: Area size of the nearest polygon. Total of both green and blue spaces (water, wetlands, forests, green urban areas) in 2000 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of total blue and green Spaces (water, wetlands, forests, green urban areas) in 2006 (CORINE)  
+**Variable name**: physenv_cn_ne_totalbluegreen_area_06  
+**Variable description**: Area size of the nearest polygon. Total of both green and blue spaces (water, wetlands, forests, green urban areas) in 2006 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of total blue and green Spaces (water, wetlands, forests, green urban areas) in total in 2012 (CORINE)  
+**Variable name**: physenv_cn_ne_totalbluegreen_area_12  
+**Variable description**: Area size of the nearest polygon. Total of both green and blue spaces (water, wetlands, forests, green urban areas) in 2012 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+# Built-environment - Urban Atlas & CORINE - without a buffer  
+
+
+### **Variable label**: Distance to facilities in 2006 (Urban Atlas)  
+**Variable name**: physenv_ua_be_facilities_06  
+**Variable description**: Absolute distance to the nearest polygon marked as sports & leisure facilitiesin in 2006 from Urban Atlas data.  
+**Variable type**: decimal  
+**Variable unit**: meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Distance to facilities in 2012 (Urban Atlas)  
+**Variable name**: physenv_ua_be_facilities_12  
+**Variable description**: Absolute distance to the nearest polygon marked as sports & leisure facilitiesin in 2012 from Urban Atlas data.  
+**Variable type**: decimal  
+**Variable unit**: meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of facilities in 2006 (Urban Atlas)  
+**Variable name**: physenv_ua_be_facilities_area_06  
+**Variable description**: Area size of the nearest polygon marked as sports & leisure facilities in 2006 from Urban Atlas data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of facilities in 2012 (Urban Atlas)  
+**Variable name**: physenv_ua_be_facilities_area_12  
+**Variable description**: Area size of the nearest polygon marked as sports & leisure facilities in 2012 from Urban Atlas data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Distance to facilities in 1990 (CORINE)  
+**Variable name**: physenv_cn_be_facilities_90  
+**Variable description**: Absolute distance to the nearest polygon marked as sports & leisure facilities in 1990 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Distance to facilities in 2000 (CORINE)  
+**Variable name**: physenv_cn_be_facilities_00  
+**Variable description**: Absolute distance to the nearest polygon marked as sports & leisure facilities in 2000 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Distance to facilities in 2006 (CORINE)  
+**Variable name**: physenv_cn_be_facilities_06  
+**Variable description**: Absolute distance to the nearest polygon marked as sports & leisure facilities in 2006 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Distance to facilities in 2012 (CORINE)  
+**Variable name**: physenv_cn_be_facilities_12  
+**Variable description**: Absolute distance to the nearest polygon marked as sports & leisure facilities in 2012 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of facilities in 1990 (CORINE)  
+**Variable name**: physenv_cn_be_facilities_area_90  
+**Variable description**: Area size of the nearest polygon marked as sports & leisure facilities in 1990 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of facilities in 1990 (CORINE)  
+**Variable name**: physenv_cn_be_facilities_area_90  
+**Variable description**: Area size of the nearest polygon marked as sports & leisure facilities in 1990 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of facilities in 2000 (CORINE)  
+**Variable name**: physenv_cn_be_facilities_area_00  
+**Variable description**: Area size of the nearest polygon marked as sports & leisure facilities in 2000 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of facilities in 2006 (CORINE)  
+**Variable name**: physenv_cn_be_facilities_area_06  
+**Variable description**: Area size of the nearest polygon marked as sports & leisure facilities in 2006 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of facilities in 2012 (CORINE)  
+**Variable name**: physenv_cn_be_facilities_area_12  
+**Variable description**: Area size of the nearest polygon marked as sports & leisure facilities in 2012 from CORINE data.  
+**Variable type**: decimal  
+**Variable unit**: square meters  
+**Category coding**: -  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+# Natural- & environment Built-environment - Urban Atlas & CORINE - within a buffer  
 
 
 ### **Variable label**: Amount of green urban areas within 100 meter buffer in 2006 (Urban Atlas)  
@@ -4309,1109 +5427,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-### **Variable label**: Distance to  green urban areas in 1990 (CORINE)  
-**Variable name**: physenv_cn_ne_greenurban_90  
-**Variable description**: Absolute distance to the nearest polygon marked as green urban area in 1990 from CORINE data.  
-**Variable type**: decimal  
-**Variable unit**: meters  
-**Category coding**: -  
-
-**Harmonization status**:  
-**Harmonization comment**:  
-**R script**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written  
-
-```  
-
-
-### **Variable label**: Distance to  green urban areas in 2000 (CORINE)  
-**Variable name**: physenv_cn_ne_greenurban_00  
-**Variable description**: Absolute distance to the nearest polygon marked as green urban area in 2000 from CORINE data.  
-**Variable type**: decimal  
-**Variable unit**: meters  
-**Category coding**: -  
-
-**Harmonization status**:  
-**Harmonization comment**:  
-**R script**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written  
-
-```  
-
-
-### **Variable label**: Distance to  green urban areas in 2006 (CORINE)  
-**Variable name**: physenv_cn_ne_greenurban_06  
-**Variable description**: Absolute distance to the nearest polygon marked as green urban area in 2006 from CORINE data.  
-**Variable type**: decimal  
-**Variable unit**: meters  
-**Category coding**: -  
-
-**Harmonization status**:  
-**Harmonization comment**:  
-**R script**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written  
-
-```  
-
-
-### **Variable label**: Distance to  green urban areas in 2012 (CORINE)  
-**Variable name**: physenv_cn_ne_greenurban_12  
-**Variable description**: Absolute distance to the nearest polygon marked as green urban area in 2012 from CORINE data.  
-**Variable type**: decimal  
-**Variable unit**: meters  
-**Category coding**: -  
-
-**Harmonization status**:  
-**Harmonization comment**:  
-**R script**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written  
-
-```  
-
-
-
-### **Variable label**: Distance to forests in 1990 (CORINE)  
-**Variable name**: physenv_cn_ne_forests_90  
-**Variable description**: Absolute distance to the nearest polygon marked as forest in 1990 from CORINE data.  
-**Variable type**: decimal  
-**Variable unit**: meters  
-**Category coding**: -  
-
-**Harmonization status**:  
-**Harmonization comment**:  
-**R script**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written  
-
-```  
-
-
-### **Variable label**: Distance to forests in 2000 (CORINE)  
-**Variable name**: physenv_cn_ne_forests_00  
-**Variable description**: Absolute distance to the nearest polygon marked as forest in 2000 from CORINE data.  
-**Variable type**: decimal  
-**Variable unit**: meters  
-**Category coding**: -  
-
-**Harmonization status**:  
-**Harmonization comment**:  
-**R script**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written  
-
-```  
-
-
-### **Variable label**: Distance to forests in 2006 (CORINE)  
-**Variable name**: physenv_cn_ne_forests_06  
-**Variable description**: Absolute distance to the nearest polygon marked as forest in 2006 from CORINE data.  
-**Variable type**: decimal  
-**Variable unit**: meters  
-**Category coding**: -  
-
-**Harmonization status**:  
-**Harmonization comment**:  
-**R script**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written  
-
-```  
-
-
-### **Variable label**: Distance to forests in 2012 (CORINE)  
-**Variable name**: physenv_cn_ne_forests_12  
-**Variable description**: Absolute distance to the nearest polygon marked as forest in 2012 from CORINE data.  
-**Variable type**: decimal  
-**Variable unit**: meters  
-**Category coding**: -  
-
-**Harmonization status**:  
-**Harmonization comment**:  
-**R script**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written  
-
-```  
-
-
-### **Variable label**: Distance to water in 1990 (CORINE)  
-**Variable name**: physenv_cn_ne_water_90  
-**Variable description**: Absolute distance to the nearest polygon marked as water in 1990 from CORINE data.  
-**Variable type**: decimal  
-**Variable unit**: meters  
-**Category coding**: -  
-
-**Harmonization status**:  
-**Harmonization comment**:  
-**R script**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written  
-
-```  
-
-
-### **Variable label**: Distance to water in 2000 (CORINE)  
-**Variable name**: physenv_cn_ne_water_00  
-**Variable description**: Absolute distance to the nearest polygon marked as water in 2000 from CORINE data.  
-**Variable type**: decimal  
-**Variable unit**: meters  
-**Category coding**: -  
-
-**Harmonization status**:  
-**Harmonization comment**:  
-**R script**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written  
-
-```  
-
-
-### **Variable label**: Distance to water in 2006 (CORINE)  
-**Variable name**: physenv_cn_ne_water_06  
-**Variable description**: Absolute distance to the nearest polygon marked as water in 2006 from CORINE data.  
-**Variable type**: decimal  
-**Variable unit**: meters  
-**Category coding**: -  
-
-**Harmonization status**:  
-**Harmonization comment**:  
-**R script**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written  
-
-```  
-
-
-### **Variable label**: Distance to water in 2012 (CORINE)  
-**Variable name**: physenv_cn_ne_water_12  
-**Variable description**: Absolute distance to the nearest polygon marked as water in 2012 from CORINE data.  
-**Variable type**: decimal  
-**Variable unit**: meters  
-**Category coding**: -  
-
-**Harmonization status**:  
-**Harmonization comment**:  
-**R script**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written  
-
-```  
-
-
-### **Variable label**: Distance to agricultural land in 1990 (CORINE)  
-**Variable name**: physenv_cn_ne_agriland_90  
-**Variable description**:  Absolute distance to the nearest polygon. No distinction is made between different types of agricultural land in 1990 from CORINE data.  
-**Variable type**: decimal  
-**Variable unit**: meters  
-**Category coding**: -  
-
-**Harmonization status**:  
-**Harmonization comment**:  
-**R script**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written  
-
-```  
-
-
-### **Variable label**: Distance to agricultural land in 2000 (CORINE)  
-**Variable name**: physenv_cn_ne_agriland_00  
-**Variable description**:  Absolute distance to the nearest polygon. No distinction is made between different types of agricultural land in 2000 from CORINE data.  
-**Variable type**: decimal  
-**Variable unit**: meters  
-**Category coding**: -  
-
-**Harmonization status**:  
-**Harmonization comment**:  
-**R script**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written  
-
-```  
-
-
-### **Variable label**: Distance to agricultural land in 2006 (CORINE)  
-**Variable name**: physenv_cn_ne_agriland_06  
-**Variable description**:  Absolute distance to the nearest polygon. No distinction is made between different types of agricultural land in 2006 from CORINE data.  
-**Variable type**: decimal  
-**Variable unit**: meters  
-**Category coding**: -  
-
-**Harmonization status**:  
-**Harmonization comment**:  
-**R script**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written  
-
-```  
-
-
-### **Variable label**: Distance to agricultural land in 2012 (CORINE)  
-**Variable name**: physenv_cn_ne_agriland_12  
-**Variable description**:  Absolute distance to the nearest polygon. No distinction is made between different types of agricultural land in 2012 from CORINE data.  
-**Variable type**: decimal  
-**Variable unit**: meters  
-**Category coding**: -  
-
-**Harmonization status**:  
-**Harmonization comment**:  
-**R script**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written  
-
-```  
-
-
-### **Variable label**: Distance to total green spaces (forest + green urban areas) in 1990 (CORINE)  
-**Variable name**: physenv_cn_ne_totalgreen_90  
-**Variable description**: Absolute distance to the nearest polygon. Total of all categories of green spaces (forests + green urban areas) in 1990 from CORINE data.  
-**Variable type**: decimal  
-**Variable unit**: meters  
-**Category coding**: -  
-
-**Harmonization status**:  
-**Harmonization comment**:  
-**R script**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written  
-
-```  
-
-
-### **Variable label**: Distance to total green spaces (forest + green urban areas) in 2000 (CORINE)  
-**Variable name**: physenv_cn_ne_totalgreen_00  
-**Variable description**: Absolute distance to the nearest polygon. Total of all categories of green spaces (forests + green urban areas) in 2000 from CORINE data.  
-**Variable type**: decimal  
-**Variable unit**: meters  
-**Category coding**: -  
-
-**Harmonization status**:  
-**Harmonization comment**:  
-**R script**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written  
-
-```  
-
-
-### **Variable label**: Distance to total green spaces (forest + green urban areas) in 2006 (CORINE)  
-**Variable name**: physenv_cn_ne_totalgreen_06  
-**Variable description**: Absolute distance to the nearest polygon. Total of all categories of green spaces (forests + green urban areas) in 2006 from CORINE data.  
-**Variable type**: decimal  
-**Variable unit**: meters  
-**Category coding**: -  
-
-**Harmonization status**:  
-**Harmonization comment**:  
-**R script**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written  
-
-```  
-
-
-### **Variable label**: Distance to total green spaces (forest + green urban areas) in 2012 (CORINE)  
-**Variable name**: physenv_cn_ne_totalgreen_12  
-**Variable description**: Absolute distance to the nearest polygon. Total of all categories of green spaces (forests + green urban areas) in 2012 from CORINE data.  
-**Variable type**: decimal  
-**Variable unit**: meters  
-**Category coding**: -  
-
-**Harmonization status**:  
-**Harmonization comment**:  
-**R script**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written  
-
-```  
-
-
-### **Variable label**: Distance to total blue spaces (water + wetlands) in 1990 (CORINE)  
-**Variable name**: physenv_cn_ne_totalblue_90  
-**Variable description**: Absolute distance to the nearest polygon. Total of all categories of blue spaces (water + wetlands) in 1990 from CORINE data.  
-**Variable type**: decimal  
-**Variable unit**: meters  
-**Category coding**: -  
-
-**Harmonization status**:  
-**Harmonization comment**:  
-**R script**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written  
-
-```  
-
-
-### **Variable label**: Distance to total blue spaces (water + wetlands) in 2000 (CORINE)  
-**Variable name**: physenv_cn_ne_totalblue_00  
-**Variable description**: Absolute distance to the nearest polygon. Total of all categories of blue spaces (water + wetlands) in 2000 from CORINE data.  
-**Variable type**: decimal  
-**Variable unit**: meters  
-**Category coding**: -  
-
-**Harmonization status**:  
-**Harmonization comment**:  
-**R script**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written  
-
-```  
-
-
-### **Variable label**: Distance to total blue spaces (water + wetlands) in 2006 (CORINE)  
-**Variable name**: physenv_cn_ne_totalblue_06  
-**Variable description**: Absolute distance to the nearest polygon. Total of all categories of blue spaces (water + wetlands) in 2006 from CORINE data.  
-**Variable type**: decimal  
-**Variable unit**: meters  
-**Category coding**: -  
-
-**Harmonization status**:  
-**Harmonization comment**:  
-**R script**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written  
-
-```  
-
-
-### **Variable label**: Distance to total blue spaces (water + wetlands) in 2012 (CORINE)  
-**Variable name**: physenv_cn_ne_totalblue_12  
-**Variable description**: Absolute distance to the nearest polygon. Total of all categories of blue spaces (water + wetlands) in 2012 from CORINE data.  
-**Variable type**: decimal  
-**Variable unit**: meters  
-**Category coding**: -  
-
-**Harmonization status**:  
-**Harmonization comment**:  
-**R script**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written  
-
-```  
-
-
-### **Variable label**: Distance to total blue and green Spaces (water, wetlands, forests, green urban areas) in 1990 (CORINE)  
-**Variable name**: physenv_cn_ne_totalbluegreen_90  
-**Variable description**: Absolute distance to the nearest polygon. Total of both green and blue spaces (water, wetlands, forests, green urban areas) in 1990 from CORINE data.  
-**Variable type**: decimal  
-**Variable unit**: meters  
-**Category coding**: -  
-
-**Harmonization status**:  
-**Harmonization comment**:  
-**R script**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written  
-
-```  
-
-
-### **Variable label**: Distance to total blue and green Spaces (water, wetlands, forests, green urban areas) in 2000 (CORINE)  
-**Variable name**: physenv_cn_ne_totalbluegreen_00  
-**Variable description**: Absolute distance to the nearest polygon. Total of both green and blue spaces (water, wetlands, forests, green urban areas) in 2000 from CORINE data.  
-**Variable type**: decimal  
-**Variable unit**: meters  
-**Category coding**: -  
-
-**Harmonization status**:  
-**Harmonization comment**:  
-**R script**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written  
-
-```  
-
-
-### **Variable label**: Distance to total blue and green Spaces (water, wetlands, forests, green urban areas) in 2006 (CORINE)  
-**Variable name**: physenv_cn_ne_totalbluegreen_06  
-**Variable description**: Absolute distance to the nearest polygon. Total of both green and blue spaces (water, wetlands, forests, green urban areas) in 2006 from CORINE data.  
-**Variable type**: decimal  
-**Variable unit**: meters  
-**Category coding**: -  
-
-**Harmonization status**:  
-**Harmonization comment**:  
-**R script**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written  
-
-```  
-
-
-### **Variable label**: Distance to total blue and green Spaces (water, wetlands, forests, green urban areas) in 2012 (CORINE)  
-**Variable name**: physenv_cn_ne_totalbluegreen_12  
-**Variable description**: Absolute distance to the nearest polygon. Total of both green and blue spaces (water, wetlands, forests, green urban areas) in 2012 from CORINE data.  
-**Variable type**: decimal  
-**Variable unit**: meters  
-**Category coding**: -  
-
-**Harmonization status**:  
-**Harmonization comment**:  
-**R script**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written  
-
-```  
-
-
-### **Variable label**: Area size of green urban areas in 1990 (CORINE)  
-**Variable name**: physenv_cn_ne_greenurban_area_90  
-**Variable description**: Area size of the nearest polygon marked as green urban area in 1990 from CORINE data.  
-**Variable type**: decimal  
-**Variable unit**: square meters  
-**Category coding**: -  
-
-**Harmonization status**:  
-**Harmonization comment**:  
-**R script**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written  
-
-```  
-
-
-### **Variable label**: Area size of green urban areas in 2000 (CORINE)  
-**Variable name**: physenv_cn_ne_greenurban_area_00  
-**Variable description**: Area size of the nearest polygon marked as green urban area in 2000 from CORINE data.  
-**Variable type**: decimal  
-**Variable unit**: square meters  
-**Category coding**: -  
-
-**Harmonization status**:  
-**Harmonization comment**:  
-**R script**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written  
-
-```  
-
-
-### **Variable label**: Area size of green urban areas in 2006 (CORINE)  
-**Variable name**: physenv_cn_ne_greenurban_area_06  
-**Variable description**: Area size of the nearest polygon marked as green urban area in 2006 from CORINE data.  
-**Variable type**: decimal  
-**Variable unit**: square meters  
-**Category coding**: -  
-
-**Harmonization status**:  
-**Harmonization comment**:  
-**R script**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written  
-
-```  
-
-
-### **Variable label**: Area size of green urban areas in 2012 (CORINE)  
-**Variable name**: physenv_cn_ne_greenurban_area_12  
-**Variable description**: Area size of the nearest polygon marked as green urban area in 2012 from CORINE data.  
-**Variable type**: decimal  
-**Variable unit**: square meters  
-**Category coding**: -  
-
-**Harmonization status**:  
-**Harmonization comment**:  
-**R script**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written  
-
-```  
-
-
-### **Variable label**: Area size of  forests in 1990 (CORINE)  
-**Variable name**: physenv_cn_ne_forests_area_90  
-**Variable description**: Area size of the nearest polygon marked as green urban area in 1990 from CORINE data.  
-**Variable type**: decimal  
-**Variable unit**: square meters  
-**Category coding**: -  
-
-**Harmonization status**:  
-**Harmonization comment**:  
-**R script**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written  
-
-```  
-
-
-### **Variable label**: Area size of  forests in 2000 (CORINE)  
-**Variable name**: physenv_cn_ne_forests_area_00  
-**Variable description**: Area size of the nearest polygon marked as green urban area in 2000 from CORINE data.  
-**Variable type**: decimal  
-**Variable unit**: square meters  
-**Category coding**: -  
-
-**Harmonization status**:  
-**Harmonization comment**:  
-**R script**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written  
-
-```  
-
-
-### **Variable label**: Area size of  forests in 2006 (CORINE)  
-**Variable name**: physenv_cn_ne_forests_area_06  
-**Variable description**: Area size of the nearest polygon marked as green urban area in 2006 from CORINE data.  
-**Variable type**: decimal  
-**Variable unit**: square meters  
-**Category coding**: -  
-
-**Harmonization status**:  
-**Harmonization comment**:  
-**R script**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written  
-
-```  
-
-
-### **Variable label**: Area size of  forests in 2012 (CORINE)  
-**Variable name**: physenv_cn_ne_forests_area_12  
-**Variable description**: Area size of the nearest polygon marked as green urban area in 2012 from CORINE data.  
-**Variable type**: decimal  
-**Variable unit**: square meters  
-**Category coding**: -  
-
-**Harmonization status**:  
-**Harmonization comment**:  
-**R script**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written  
-
-```  
-
-
-### **Variable label**: Area size of  water in 1990 (CORINE)  
-**Variable name**: physenv_cn_ne_water_area_90  
-**Variable description**: Area size of the nearest polygon marked as water in 1990 from CORINE data.  
-**Variable type**: decimal  
-**Variable unit**: square meters  
-**Category coding**: -  
-
-**Harmonization status**:  
-**Harmonization comment**:  
-**R script**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written  
-
-```  
-
-
-### **Variable label**: Area size of  water in 2000 (CORINE)  
-**Variable name**: physenv_cn_ne_water_area_00  
-**Variable description**: Area size of the nearest polygon marked as water in 2000 from CORINE data.  
-**Variable type**: decimal  
-**Variable unit**: square meters  
-**Category coding**: -  
-
-**Harmonization status**:  
-**Harmonization comment**:  
-**R script**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written  
-
-```  
-
-
-### **Variable label**: Area size of  water in 2006 (CORINE)  
-**Variable name**: physenv_cn_ne_water_area_06  
-**Variable description**: Area size of the nearest polygon marked as water in 2006 from CORINE data.  
-**Variable type**: decimal  
-**Variable unit**: square meters  
-**Category coding**: -  
-
-**Harmonization status**:  
-**Harmonization comment**:  
-**R script**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written  
-
-```  
-
-
-### **Variable label**: Area size of  water in 2012 (CORINE)  
-**Variable name**: physenv_cn_ne_water_area_12  
-**Variable description**: Area size of the nearest polygon marked as water in 2012 from CORINE data.  
-**Variable type**: decimal  
-**Variable unit**: square meters  
-**Category coding**: -  
-
-**Harmonization status**:  
-**Harmonization comment**:  
-**R script**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written  
-
-```  
-
-
-### **Variable label**: Area size of  agricultural land in 1990 (CORINE)  
-**Variable name**: physenv_cn_ne_agriland_area_90  
-**Variable description**: Area size of the nearest polygon. No distinction is made between different types of agricultural land in 1990 from CORINE data.  
-**Variable type**: decimal  
-**Variable unit**: square meters  
-**Category coding**: -  
-
-**Harmonization status**:  
-**Harmonization comment**:  
-**R script**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written  
-
-```  
-
-
-### **Variable label**: Area size of  agricultural land in 2000 (CORINE)  
-**Variable name**: physenv_cn_ne_agriland_area_00  
-**Variable description**: Area size of the nearest polygon. No distinction is made between different types of agricultural land in 2000 from CORINE data.  
-**Variable type**: decimal  
-**Variable unit**: square meters  
-**Category coding**: -  
-
-**Harmonization status**:  
-**Harmonization comment**:  
-**R script**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written  
-
-```  
-
-
-### **Variable label**: Area size of  agricultural land in 2006 (CORINE)  
-**Variable name**: physenv_cn_ne_agriland_area_06  
-**Variable description**: Area size of the nearest polygon. No distinction is made between different types of agricultural land in 2006 from CORINE data.  
-**Variable type**: decimal  
-**Variable unit**: square meters  
-**Category coding**: -  
-
-**Harmonization status**:  
-**Harmonization comment**:  
-**R script**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written  
-
-```  
-
-
-### **Variable label**: Area size of  agricultural land in 2012 (CORINE)  
-**Variable name**: physenv_cn_ne_agriland_area_12  
-**Variable description**: Area size of the nearest polygon. No distinction is made between different types of agricultural land in 2012 from CORINE data.  
-**Variable type**: decimal  
-**Variable unit**: square meters  
-**Category coding**: -  
-
-**Harmonization status**:  
-**Harmonization comment**:  
-**R script**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written  
-
-```  
-
-
-### **Variable label**: Area size of total green spaces (forest + green urban areas) in 1990 (CORINE)  
-**Variable name**: physenv_cn_ne_totalgreen_area_90  
-**Variable description**: Area size of the nearest polygon. Total of all categories of green spaces (forests + green urban areas) in 1990 from CORINE data.  
-**Variable type**: decimal  
-**Variable unit**: square meters  
-**Category coding**: -  
-
-**Harmonization status**:  
-**Harmonization comment**:  
-**R script**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written  
-
-```  
-
-
-### **Variable label**: Area size of total green spaces (forest + green urban areas) in 2000 (CORINE)  
-**Variable name**: physenv_cn_ne_totalgreen_area_00  
-**Variable description**: Area size of the nearest polygon. Total of all categories of green spaces (forests + green urban areas) in 2000 from CORINE data.  
-**Variable type**: decimal  
-**Variable unit**: square meters  
-**Category coding**: -  
-
-**Harmonization status**:  
-**Harmonization comment**:  
-**R script**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written  
-
-```  
-
-
-### **Variable label**: Area size of total green spaces (forest + green urban areas) in 2006 (CORINE)  
-**Variable name**: physenv_cn_ne_totalgreen_area_06  
-**Variable description**: Area size of the nearest polygon. Total of all categories of green spaces (forests + green urban areas) in 2006 from CORINE data.  
-**Variable type**: decimal  
-**Variable unit**: square meters  
-**Category coding**: -  
-
-**Harmonization status**:  
-**Harmonization comment**:  
-**R script**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written  
-
-```  
-
-
-### **Variable label**: Area size of total green spaces (forest + green urban areas) in 2012 (CORINE)  
-**Variable name**: physenv_cn_ne_totalgreen_area_12  
-**Variable description**: Area size of the nearest polygon. Total of all categories of green spaces (forests + green urban areas) in 2012 from CORINE data.  
-**Variable type**: decimal  
-**Variable unit**: square meters  
-**Category coding**: -  
-
-**Harmonization status**:  
-**Harmonization comment**:  
-**R script**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written  
-
-```  
-
-
-### **Variable label**: Area size of total blue spaces (water + wetlands) in 1990 (CORINE)  
-**Variable name**: physenv_cn_ne_totalblue_area_90  
-**Variable description**: Area size of the nearest polygon. Total of all categories of blue spaces (water + wetlands) in 1990 from CORINE data.  
-**Variable type**: decimal  
-**Variable unit**: square meters  
-**Category coding**: -  
-
-**Harmonization status**:  
-**Harmonization comment**:  
-**R script**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written  
-
-```  
-
-
-### **Variable label**: Area size of total blue spaces (water + wetlands) in 2000 (CORINE)  
-**Variable name**: physenv_cn_ne_totalblue_area_00  
-**Variable description**: Area size of the nearest polygon. Total of all categories of blue spaces (water + wetlands) in 2000 from CORINE data.  
-**Variable type**: decimal  
-**Variable unit**: square meters  
-**Category coding**: -  
-
-**Harmonization status**:  
-**Harmonization comment**:  
-**R script**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written  
-
-```  
-
-
-### **Variable label**: Area size of total blue spaces (water + wetlands) in 2006 (CORINE)  
-**Variable name**: physenv_cn_ne_totalblue_area_06  
-**Variable description**: Area size of the nearest polygon. Total of all categories of blue spaces (water + wetlands) in 2006 from CORINE data.  
-**Variable type**: decimal  
-**Variable unit**: square meters  
-**Category coding**: -  
-
-**Harmonization status**:  
-**Harmonization comment**:  
-**R script**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written  
-
-```  
-
-
-### **Variable label**: Area size of total blue spaces (water + wetlands) in 2012 (CORINE)  
-**Variable name**: physenv_cn_ne_totalblue_area_12  
-**Variable description**: Area size of the nearest polygon. Total of all categories of blue spaces (water + wetlands) in 2012 from CORINE data.  
-**Variable type**: decimal  
-**Variable unit**: square meters  
-**Category coding**: -  
-
-**Harmonization status**:  
-**Harmonization comment**:  
-**R script**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written  
-
-```  
-
-
-### **Variable label**: Area size of total blue and green Spaces (water, wetlands, forests, green urban areas) in 1990 (CORINE)  
-**Variable name**: physenv_cn_ne_totalbluegreen_area_90  
-**Variable description**: Area size of the nearest polygon. Total of both green and blue spaces (water, wetlands, forests, green urban areas) in 1990 from CORINE data.  
-**Variable type**: decimal  
-**Variable unit**: square meters  
-**Category coding**: -  
-
-**Harmonization status**:  
-**Harmonization comment**:  
-**R script**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written  
-
-```  
-
-
-### **Variable label**: AArea size of total blue and green Spaces (water, wetlands, forests, green urban areas) in 2000 (CORINE)  
-**Variable name**: physenv_cn_ne_totalbluegreen_area_00  
-**Variable description**: Area size of the nearest polygon. Total of both green and blue spaces (water, wetlands, forests, green urban areas) in 2000 from CORINE data.  
-**Variable type**: decimal  
-**Variable unit**: square meters  
-**Category coding**: -  
-
-**Harmonization status**:  
-**Harmonization comment**:  
-**R script**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written  
-
-```  
-
-
-### **Variable label**: Area size of total blue and green Spaces (water, wetlands, forests, green urban areas) in 2006 (CORINE)  
-**Variable name**: physenv_cn_ne_totalbluegreen_area_06  
-**Variable description**: Area size of the nearest polygon. Total of both green and blue spaces (water, wetlands, forests, green urban areas) in 2006 from CORINE data.  
-**Variable type**: decimal  
-**Variable unit**: square meters  
-**Category coding**: -  
-
-**Harmonization status**:  
-**Harmonization comment**:  
-**R script**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written  
-
-```  
-
-
-### **Variable label**: Area size of total blue and green Spaces (water, wetlands, forests, green urban areas) in total in 2012 (CORINE)  
-**Variable name**: physenv_cn_ne_totalbluegreen_area_12  
-**Variable description**: Area size of the nearest polygon. Total of both green and blue spaces (water, wetlands, forests, green urban areas) in 2012 from CORINE data.  
-**Variable type**: decimal  
-**Variable unit**: square meters  
-**Category coding**: -  
-
-**Harmonization status**:  
-**Harmonization comment**:  
-**R script**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written  
-
-```  
-
-
-### **Variable label**: Distance to facilities in 2006 (Urban Atlas)  
-**Variable name**: physenv_ua_be_facilities_06  
-**Variable description**: Absolute distance to the nearest polygon marked as sports & leisure facilitiesin in 2006 from Urban Atlas data.  
-**Variable type**: decimal  
-**Variable unit**: meters  
-**Category coding**: -  
-
-**Harmonization status**:  
-**Harmonization comment**:  
-**R script**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written  
-
-```  
-
-
-### **Variable label**: Distance to facilities in 2012 (Urban Atlas)  
-**Variable name**: physenv_ua_be_facilities_12  
-**Variable description**: Absolute distance to the nearest polygon marked as sports & leisure facilitiesin in 2012 from Urban Atlas data.  
-**Variable type**: decimal  
-**Variable unit**: meters  
-**Category coding**: -  
-
-**Harmonization status**:  
-**Harmonization comment**:  
-**R script**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written  
-
-```  
-
-
-### **Variable label**: Area size of facilities in 2006 (Urban Atlas)  
-**Variable name**: physenv_ua_be_facilities_area_06  
-**Variable description**: Area size of the nearest polygon marked as sports & leisure facilities in 2006 from Urban Atlas data.  
-**Variable type**: decimal  
-**Variable unit**: square meters  
-**Category coding**: -  
-
-**Harmonization status**:  
-**Harmonization comment**:  
-**R script**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written  
-
-```  
-
-
-### **Variable label**: Area size of facilities in 2012 (Urban Atlas)  
-**Variable name**: physenv_ua_be_facilities_area_12  
-**Variable description**: Area size of the nearest polygon marked as sports & leisure facilities in 2012 from Urban Atlas data.  
-**Variable type**: decimal  
-**Variable unit**: square meters  
-**Category coding**: -  
-
-**Harmonization status**:  
-**Harmonization comment**:  
-**R script**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written  
-
-```  
-
-
-### **Variable label**: Distance to facilities in 1990 (CORINE)  
-**Variable name**: physenv_cn_be_facilities_90  
-**Variable description**: Absolute distance to the nearest polygon marked as sports & leisure facilities in 1990 from CORINE data.  
-**Variable type**: decimal  
-**Variable unit**: meters  
-**Category coding**: -  
-
-**Harmonization status**:  
-**Harmonization comment**:  
-**R script**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written  
-
-```  
-
-
-### **Variable label**: Distance to facilities in 2000 (CORINE)  
-**Variable name**: physenv_cn_be_facilities_00  
-**Variable description**: Absolute distance to the nearest polygon marked as sports & leisure facilities in 2000 from CORINE data.  
-**Variable type**: decimal  
-**Variable unit**: meters  
-**Category coding**: -  
-
-**Harmonization status**:  
-**Harmonization comment**:  
-**R script**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written  
-
-```  
-
-
-### **Variable label**: Distance to facilities in 2006 (CORINE)  
-**Variable name**: physenv_cn_be_facilities_06  
-**Variable description**: Absolute distance to the nearest polygon marked as sports & leisure facilities in 2006 from CORINE data.  
-**Variable type**: decimal  
-**Variable unit**: meters  
-**Category coding**: -  
-
-**Harmonization status**:  
-**Harmonization comment**:  
-**R script**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written  
-
-```  
-
-
-### **Variable label**: Distance to facilities in 2012 (CORINE)  
-**Variable name**: physenv_cn_be_facilities_12  
-**Variable description**: Absolute distance to the nearest polygon marked as sports & leisure facilities in 2012 from CORINE data.  
-**Variable type**: decimal  
-**Variable unit**: meters  
-**Category coding**: -  
-
-**Harmonization status**:  
-**Harmonization comment**:  
-**R script**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written  
-
-```  
-
-
-### **Variable label**: Area size of facilities in 1990 (CORINE)  
-**Variable name**: physenv_cn_be_facilities_area_90  
-**Variable description**: Area size of the nearest polygon marked as sports & leisure facilities in 1990 from CORINE data.  
-**Variable type**: decimal  
-**Variable unit**: square meters  
-**Category coding**: -  
-
-**Harmonization status**:  
-**Harmonization comment**:  
-**R script**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written  
-
-```  
-
-
-### **Variable label**: Area size of facilities in 1990 (CORINE)  
-**Variable name**: physenv_cn_be_facilities_area_90  
-**Variable description**: Area size of the nearest polygon marked as sports & leisure facilities in 1990 from CORINE data.  
-**Variable type**: decimal  
-**Variable unit**: square meters  
-**Category coding**: -  
-
-**Harmonization status**:  
-**Harmonization comment**:  
-**R script**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written  
-
-```  
-
-
-### **Variable label**: Area size of facilities in 2000 (CORINE)  
-**Variable name**: physenv_cn_be_facilities_area_00  
-**Variable description**: Area size of the nearest polygon marked as sports & leisure facilities in 2000 from CORINE data.  
-**Variable type**: decimal  
-**Variable unit**: square meters  
-**Category coding**: -  
-
-**Harmonization status**:  
-**Harmonization comment**:  
-**R script**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written  
-
-```  
-
-
-### **Variable label**: Area size of facilities in 2006 (CORINE)  
-**Variable name**: physenv_cn_be_facilities_area_06  
-**Variable description**: Area size of the nearest polygon marked as sports & leisure facilities in 2006 from CORINE data.  
-**Variable type**: decimal  
-**Variable unit**: square meters  
-**Category coding**: -  
-
-**Harmonization status**:  
-**Harmonization comment**:  
-**R script**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written  
-
-```  
-
-
-### **Variable label**: Area size of facilities in 2012 (CORINE)  
-**Variable name**: physenv_cn_be_facilities_area_12  
-**Variable description**: Area size of the nearest polygon marked as sports & leisure facilities in 2012 from CORINE data.  
-**Variable type**: decimal  
-**Variable unit**: square meters  
-**Category coding**: -  
-
-**Harmonization status**:  
-**Harmonization comment**:  
-**R script**:  
-```{r, echo=TRUE}  
-#This is where the R-script will be written  
-
-```  
+# Land-use - Urban Atlas & CORINE - within a buffer  
 
 
 ### **Variable label**: Land use mix within 100 meter buffer in 2006 (Urban Atlas)  
@@ -6468,6 +6484,9 @@ total blue and green spaces | Total of both green and blue space (forests, green
 #This is where the R-script will be written  
 
 ```  
+
+
+# Ueberschrift-------------------------------------------------------------------------------  
 
 
 ### **Variable label**: Land use mix within 400 meter buffer in 2006 (Urban Atlas)  
@@ -7528,6 +7547,9 @@ total blue and green spaces | Total of both green and blue space (forests, green
 #This is where the R-script will be written  
 
 ```  
+
+
+# Ueberschrift-------------------------------------------------------------------------------  
 
 
 ### **Variable label**: Land use mix within 800 meter buffer in 2006 (Urban Atlas)  
@@ -10695,6 +10717,9 @@ total blue and green spaces | Total of both green and blue space (forests, green
 #This is where the R-script will be written  
 
 ```  
+
+
+# Built-environment - Urban-Atlas  
 
 
 **Code** | **Urbanicity grade in 2006 (Urban Atlas)**
