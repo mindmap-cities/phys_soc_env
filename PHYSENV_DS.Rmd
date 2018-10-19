@@ -6,7 +6,7 @@ output: html_document
 # Table of Contents
 1. [Natural environment - Urban Atlas & CORINE subdomain] #(Natural-environment - Urban Atlas & CORINE - without a buffer - subdomain)    
 2. [Built environment - Urban Atlas & CORINE subdomain] #(Built-environment - Urban Atlas & CORINE - without a buffer - subdomain)  
-3. [Natural environment - Urban Atlas & CORINE subdomain] #(Natural- & environment Built-environment - Urban Atlas & CORINE - within a buffer - subdomain)  
+3. [Natural environment - Urban Atlas & CORINE subdomain] #(Natural- & Built-environment - Urban Atlas & CORINE - within a buffer - subdomain)  
 4. [Land use - Urban Atlas & CORINE subdomain] #(Land-use - Urban Atlas & CORINE - within a buffer - subdomain)  
 5. [Built environment - Urban Atlas subdomain] #(Built-environment - Urban-Atlas - subdomain)  
 
@@ -1574,7 +1574,7 @@ total blue and green spaces | Total of both green and blue space (forests, green
 
 ```  
 
-# Natural- & environment Built-environment - Urban Atlas & CORINE - within a buffer  
+# Natural- & Built-environment - Urban Atlas & CORINE - within a buffer  
 
 
 ### **Variable label**: Amount of green urban areas within 100 meter buffer in 2006 (Urban Atlas)  
