@@ -10714,7 +10714,14 @@ total blue and green spaces | Total of both green and blue space (forests, green
 # Built-environment - Urban-Atlas  
 
 
-**Code** | **Urbanicity grade in 2006 (Urban Atlas)**
+### **Variable label**: Urbanicity grade in 2006 (Urban Atlas)   
+**Variable name**: physenv_ua_urbanicity_06    
+**Variable description**: Urbanicity grade based on the classes from the urban atlas. This is a categorical variable with 5 classes ranging from continuous urban to dense, medium, low, and very low density in 2006 from Urban Atlas data.  
+**Variable type**: Integer  
+**Variable unit**: percentage  
+**Category coding**: -  
+
+**physenv_ua_urbanicity_06** | **Urbanicity grade in 2006 (Urban Atlas)**
 ------------------------ | --------------------------------------------------
 11100 | Continuous urban fabric (S.L. > 80%)  
 11210 | Discontinuous dense urban fabric (S.L.: 50% - 80%)  
@@ -10731,7 +10738,14 @@ total blue and green spaces | Total of both green and blue space (forests, green
 ```  
 
 
-**Code** | **Urbanicity grade in 2012 (Urban Atlas)**
+### **Variable label**: Urbanicity grade in 2012 (Urban Atlas)   
+**Variable name**: physenv_ua_urbanicity_12    
+**Variable description**: Urbanicity grade based on the classes from the urban atlas. This is a categorical variable with 5 classes ranging from continuous urban to dense, medium, low, and very low density in 2012 from Urban Atlas data.  
+**Variable type**: Integer  
+**Variable unit**: percentage  
+**Category coding**: -  
+
+**physenv_ua_urbanicity_12** | **Urbanicity grade in 2012 (Urban Atlas)**
 ------------------------ | --------------------------------------------------
 11100 | Continuous urban fabric (S.L. > 80%)  
 11210 | Discontinuous dense urban fabric (S.L.: 50% - 80%)  
@@ -10747,3 +10761,102 @@ total blue and green spaces | Total of both green and blue space (forests, green
 
 ```  
 
+
+### **Variable label**: Urbanicity grade in 1990 (CORINE)  
+**Variable name**: physenv_cn_urbanicity_90  
+**Variable description**: Urbanicity grade based on the classes from the CORINE. This is a categorical variable with 2 classes being from continuous urban to dense, medium, low, and very low density in 1990 from CORINE data.  
+**Variable type**: Integer  
+**Variable unit**: percentage  
+**Category coding**: -  
+
+
+**physenv_cn_urbanicity_90** | **Urbanicity grade in 1990 (CORINE)**
+------------------------ | --------------------------------------------------
+11100 | Continuous urban fabric (S.L. > 80%)  
+11210 | Discontinuous dense urban fabric (S.L.: 50% - 80%)  
+11220 | Discontinuous medium density urban fabric (S.L.: 30% - 50%)  
+11230 | Discontinuous low density urban fabric (S.L.: 10% - 30%)  
+11240 | Discontinuous very low density urban fabric (S.L.: < 10%)  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Urbanicity grade in 2000 (CORINE)  
+**Variable name**: physenv_cn_urbanicity_00  
+**Variable description**: Urbanicity grade based on the classes from the CORINE. This is a categorical variable with 2 classes being from continuous urban to dense, medium, low, and very low density in 2000 from CORINE data.  
+**Variable type**: Integer  
+**Variable unit**: percentage  
+**Category coding**: -  
+
+
+**physenv_cn_urbanicity_90** | **Urbanicity grade in 2000 (CORINE)**
+------------------------ | --------------------------------------------------
+11100 | Continuous urban fabric (S.L. > 80%)  
+11210 | Discontinuous dense urban fabric (S.L.: 50% - 80%)  
+11220 | Discontinuous medium density urban fabric (S.L.: 30% - 50%)  
+11230 | Discontinuous low density urban fabric (S.L.: 10% - 30%)  
+11240 | Discontinuous very low density urban fabric (S.L.: < 10%)  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Urbanicity grade in 2006 (CORINE)  
+**Variable name**: physenv_cn_urbanicity_06  
+**Variable description**: Urbanicity grade based on the classes from the CORINE. This is a categorical variable with 2 classes being from continuous urban to dense, medium, low, and very low density in 2006 from CORINE data.  
+**Variable type**: Integer  
+**Variable unit**: percentage  
+**Category coding**: -  
+
+
+**physenv_cn_urbanicity_90** | **Urbanicity grade in 2006 (CORINE)**
+------------------------ | --------------------------------------------------
+11100 | Continuous urban fabric (S.L. > 80%)  
+11210 | Discontinuous dense urban fabric (S.L.: 50% - 80%)  
+11220 | Discontinuous medium density urban fabric (S.L.: 30% - 50%)  
+11230 | Discontinuous low density urban fabric (S.L.: 10% - 30%)  
+11240 | Discontinuous very low density urban fabric (S.L.: < 10%)  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Urbanicity grade in 2012 (CORINE)  
+**Variable name**: physenv_cn_urbanicity_12  
+**Variable description**: Urbanicity grade based on the classes from the CORINE. This is a categorical variable with 2 classes being from continuous urban to dense, medium, low, and very low density in 2012 from CORINE data.  
+**Variable type**: Integer  
+**Variable unit**: percentage  
+**Category coding**: -  
+
+
+**physenv_cn_urbanicity_90** | **Urbanicity grade in 2000 (CORINE)**
+------------------------ | --------------------------------------------------
+11100 | Continuous urban fabric (S.L. > 80%)  
+11210 | Discontinuous dense urban fabric (S.L.: 50% - 80%)  
+11220 | Discontinuous medium density urban fabric (S.L.: 30% - 50%)  
+11230 | Discontinuous low density urban fabric (S.L.: 10% - 30%)  
+11240 | Discontinuous very low density urban fabric (S.L.: < 10%)  
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}  
+#This is where the R-script will be written  
+
+```  
