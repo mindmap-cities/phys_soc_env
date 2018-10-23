@@ -17,8 +17,20 @@ output: html_document
 total blue space | Total of all categories of blue spaces (water + wetlands).  
 total green spaces | Total of all categories of green spaces (forests + green urban areas).  
 total blue and green spaces | Total of both green and blue space (forests, green urban areas, water, wetlands).  
+Land use mix | Mix consists of the following categories:
+                                                        1. Built-up areas
+                                                        2. Industrial & Commercial
+                                                        3. Infrastructure
+                                                        4. Ports
+                                                        5. Green urban areas
+                                                        6. Sports & leisure facilities
+                                                        7. Agricultural areas
+                                                        8. Other natural areas
+                                                        9. Blue spaces
+                                                        10. Other  
+                                                        
 
-# Please use the following link for other and more detailed information about the variables:
+# Please use the following link for other and more detailed information about the CORINE variables:
 https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.10.2018]
 
 
@@ -10775,8 +10787,8 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 **physenv_cn_urbanicity_90** | **Urbanicity grade in 1990 (CORINE)**
 ------------------------ | --------------------------------------------------
-XXXX | Continuous urban fabric (S.L. > 80%)  
-XXXX | Discontinuous urban fabric (S.L.: XXXX)  
+0 | Continuous urban fabric (S.L. > 80%)  
+1 | Discontinuous urban fabric (S.L.: 30% - 80%)  
 
 
 **Harmonization status**:  
@@ -10798,8 +10810,8 @@ XXXX | Discontinuous urban fabric (S.L.: XXXX)
 
 **physenv_cn_urbanicity_90** | **Urbanicity grade in 2000 (CORINE)**
 ------------------------ | --------------------------------------------------
-XXXX | Continuous urban fabric (S.L. > 80%)  
-XXXX | Discontinuous urban fabric (S.L.: XXXX)  
+0 | Continuous urban fabric (S.L. > 80%)  
+1 | Discontinuous urban fabric (S.L.: 30% - 80%)  
 
 **Harmonization status**:  
 **Harmonization comment**:  
@@ -10820,8 +10832,8 @@ XXXX | Discontinuous urban fabric (S.L.: XXXX)
 
 **physenv_cn_urbanicity_90** | **Urbanicity grade in 2006 (CORINE)**
 ------------------------ | --------------------------------------------------
-XXXX | Continuous urban fabric (S.L. > 80%)  
-XXXX | Discontinuous urban fabric (S.L.: XXXX)  
+0 | Continuous urban fabric (S.L. > 80%)  
+1 | Discontinuous urban fabric (S.L.: 30% - 80%)  
 
 **Harmonization status**:  
 **Harmonization comment**:  
@@ -10840,10 +10852,10 @@ XXXX | Discontinuous urban fabric (S.L.: XXXX)
 **Category coding**: -  
 
 
-**physenv_cn_urbanicity_90** | **Urbanicity grade in 2000 (CORINE)**
+**physenv_cn_urbanicity_90** | **Urbanicity grade in 2012 (CORINE)**
 ------------------------ | --------------------------------------------------
-XXXX | Continuous urban fabric (S.L. > 80%)  
-XXXX | Discontinuous urban fabric (S.L.: XXXX)  
+0 | Continuous urban fabric (S.L. > 80%)  
+1 | Discontinuous urban fabric (S.L.: 30% - 80%)  
 
 **Harmonization status**:  
 **Harmonization comment**:  
