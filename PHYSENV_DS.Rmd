@@ -6,9 +6,18 @@ output: html_document
 # Table of Contents
 1. [Natural environment - Urban Atlas & CORINE subdomain] #(Natural-environment - Urban Atlas & CORINE - without a buffer - subdomain)    
 2. [Built environment - Urban Atlas & CORINE subdomain] #(Built-environment - Urban Atlas & CORINE - without a buffer - subdomain)  
-3. [Natural environment - Urban Atlas & CORINE subdomain] #(Natural- & Built-environment - Urban Atlas & CORINE - within a buffer - subdomain)  
-4. [Land use - Urban Atlas & CORINE subdomain] #(Land-use - Urban Atlas & CORINE - within a buffer - subdomain)  
-5. [Built environment - Urban Atlas subdomain] #(Built-environment - Urban-Atlas - subdomain)  
+3. [Natural environment - Urban Atlas & CORINE subdomain] #(Natural- & Built-environment - Urban Atlas & CORINE - within a 100m buffer - subdomain)  
+4. [Natural environment - Urban Atlas & CORINE subdomain] #(Natural- & Built-environment - Urban Atlas & CORINE - within a 400m buffer - subdomain)  
+5. [Natural environment - Urban Atlas & CORINE subdomain] #(Natural- & Built-environment - Urban Atlas & CORINE - within a 800m buffer - subdomain)  
+6. [Natural environment - Urban Atlas & CORINE subdomain] #(Natural- & Built-environment - Urban Atlas & CORINE - within a 1000m buffer - subdomain)  
+7. [Natural environment - Urban Atlas & CORINE subdomain] #(Natural- & Built-environment - Urban Atlas & CORINE - within a 1600m buffer - subdomain)  
+8. [Natural environment - Urban Atlas & CORINE subdomain] #(Natural- & Built-environment - Urban Atlas & CORINE - within a 3000m buffer - subdomain)  
+9. [Land use - Urban Atlas & CORINE subdomain] #(Land-use - Urban Atlas & CORINE - within a 100m buffer - subdomain)  
+10. [Land use - Urban Atlas & CORINE subdomain] #(Land-use - Urban Atlas & CORINE - within a 400m buffer - subdomain)  
+11. [Land use - Urban Atlas & CORINE subdomain] #(Land-use - Urban Atlas & CORINE - within a 800m buffer - subdomain)  
+12. [Land use - Urban Atlas & CORINE subdomain] #(Land-use - Urban Atlas & CORINE - within a 1000m buffer - subdomain)  
+13. [Land use - Urban Atlas & CORINE subdomain] #(Land-use - Urban Atlas & CORINE - within a 1600m buffer - subdomain)  
+14. [Built environment - Urban Atlas subdomain] #(Built-environment - Urban-Atlas - urbanicity)  
 
 
 
@@ -1589,7 +1598,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ```  
 
-# Natural- & Built-environment - Urban Atlas & CORINE - within a buffer  
+# Natural- & Built-environment - Urban Atlas & CORINE - within a 100m buffer  
 
 
 ### **Variable label**: Amount of green urban areas within 100 meter buffer in 2006 (Urban Atlas)  
@@ -2262,6 +2271,10 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 #This is where the R-script will be written  
 
 ```  
+
+
+# Natural- & Built-environment - Urban Atlas & CORINE - within a 400m buffer  
+
 
 
 ### **Variable label**: Amount of green urban areas within 400 meter buffer in 2006 (Urban Atlas)  
@@ -3029,6 +3042,9 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ```  
 
+# Natural- & Built-environment - Urban Atlas & CORINE - within a 800m buffer  
+
+
 
 ### **Variable label**: Amount of green urban areas within 800 meter buffer in 2006 (Urban Atlas)
 **Variable name**: physenv_ua_bf_greenurban800_06
@@ -3794,6 +3810,9 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 #This is where the R-script will be written  
 
 ``` 
+
+# Natural- & Built-environment - Urban Atlas & CORINE - within a 1000m buffer  
+
 
 
 ### **Variable label**: Amount of green urban areas within 1000 meter buffer in 2006 (Urban Atlas)  
@@ -4563,6 +4582,9 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 #This is where the R-script will be written  
 
 ``` 
+
+# Natural- & Built-environment - Urban Atlas & CORINE - within a 1600m buffer  
+
 
 
 ### **Variable label**: Amount of green urban areas within 1600 meter buffer in 2006 (Urban Atlas)  
@@ -5337,6 +5359,9 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ```  
 
+# Natural- & Built-environment - Urban Atlas & CORINE - within a 3000m buffer  
+
+
 
 ### **Variable label**: Amount of sports & leisure facilities  within 3000 meter buffer in 2006 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_facilities3000_06  
@@ -5434,7 +5459,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 ```  
 
 
-# Land-use - Urban Atlas & CORINE - within a buffer  
+# Land-use - Urban Atlas & CORINE - within a 100m buffer  
 
 
 ### **Variable label**: Land use mix within 100 meter buffer in 2006 (Urban Atlas)  
@@ -6492,8 +6517,8 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ```  
 
+# Land-use - Urban Atlas & CORINE - within a 400m buffer  
 
-# Ueberschrift-------------------------------------------------------------------------------  
 
 
 ### **Variable label**: Land use mix within 400 meter buffer in 2006 (Urban Atlas)  
@@ -7556,7 +7581,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 ```  
 
 
-# Ueberschrift-------------------------------------------------------------------------------  
+# Land-use - Urban Atlas & CORINE - within a 800m buffer  
 
 
 ### **Variable label**: Land use mix within 800 meter buffer in 2006 (Urban Atlas)  
@@ -8617,6 +8642,10 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 ```  
 
 
+# Land-use - Urban Atlas & CORINE - within a 1000m buffer  
+
+
+
 ### **Variable label**: Land use mix within 1000 meter buffer in 2006 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_bf_landuse1000_06  
 **Variable description**: Land use mix in m2 within a 1000 meter buffer. It is calculated using an entropy formula in 2006 from Urban Atlas data.
@@ -9673,6 +9702,10 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 ```
 
 
+# Land-use - Urban Atlas & CORINE - within a 1600m buffer  
+
+
+
 ### **Variable label**: Land use mix within 1600 meter buffer in 2006 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_bf_landuse1600_06  
 **Variable description**: Land use mix in m2 within a 1600 meter buffer. It is calculated using an entropy formula in 2006 from Urban Atlas data.  
@@ -10726,7 +10759,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 ```  
 
 
-# Built-environment - Urban-Atlas  
+# Built-environment - Urban-Atlas - urbanicity 
 
 
 ### **Variable label**: Urbanicity grade in 2006 (Urban Atlas)   
