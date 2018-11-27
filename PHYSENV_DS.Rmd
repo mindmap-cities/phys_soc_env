@@ -222,7 +222,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Distance to total blue spaces (water + wetlands) in 2012 (Urban Atlas)  
 **Variable name**: physenv_ua_ne_totalblue_12  
-**Variable description**: Absolute distance to the nearest polygon. Total of all categories of blue spaces (water + wetlands) in 2012 from Urban Atalas data.  
+**Variable description**: Absolute distance to the nearest polygon. Total of all categories of blue spaces (water + wetlands) in 2012 from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: meters  
 **Category coding**: -
