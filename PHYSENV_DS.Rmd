@@ -45,7 +45,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 # Natural environment - Urban Atlas & CORINE - without a buffer  
 
-### **Variable label**: Distance to green urban areas in 2006 (Urban Atlas)  
+### **Variable label**: Distance to  green urban areas in 2006 (Urban Atlas)  
 **Variable name**: physenv_ua_ne_greenurban_06  
 **Variable description**: Absolute distance to the nearest polygon marked as green urban area in 2006 from Urban Atalas data.  
 **Variable type**: decimal  
