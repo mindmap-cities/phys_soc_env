@@ -9048,7 +9048,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of built-up area within 1000 meter buffer in 1990 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1000_bu_90  
-**Variable description**: Area size in m2 of built-up areas within buffer in 1990 from CORINE data.  
+**Variable description**: Area size in m2 of built-up areas within 1000 meter buffer in 1990 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -9064,7 +9064,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of built-up area within 1000 meter buffer in 2000 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1000_bu_00  
-**Variable description**: Area size in m2 of built-up areas within buffer in 2000 from CORINE data.  
+**Variable description**: Area size in m2 of built-up areas within 1000 meter buffer in 2000 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -9080,7 +9080,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of built-up area within 1000 meter buffer in 2006 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1000_bu_06  
-**Variable description**: Area size in m2 of built-up areas within buffer in 2006 from CORINE data.  
+**Variable description**: Area size in m2 of built-up areas within 1000 meter buffer in 2006 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -9096,7 +9096,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of built-up area within 1000 meter buffer in 2012 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1000_bu_12  
-**Variable description**: Area size in m2 of built-up areas within buffer in 2012 from CORINE data.  
+**Variable description**: Area size in m2 of built-up areas within 1000 meter buffer in 2012 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -9112,7 +9112,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of industrial and commercial area within 1000 meter buffer in 1990 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1000_ic_90  
-**Variable description**: Area size in m2 of industrial and commercial areas within buffer in 1990 from CORINE data.  
+**Variable description**: Area size in m2 of industrial and commercial areas within 1000 meter buffer in 1990 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -9128,7 +9128,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of industrial and commercial area within 1000 meter buffer in 2000 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1000_ic_00  
-**Variable description**: Area size in m2 of industrial and commercial areas within buffer in 2000 from CORINE data.  
+**Variable description**: Area size in m2 of industrial and commercial areas within 1000 meter buffer in 2000 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -9144,7 +9144,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of industrial and commercial area within 1000 meter buffer in 2006 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1000_ic_06  
-**Variable description**: Area size in m2 of industrial and commercial areas within buffer in 2006 from CORINE data.  
+**Variable description**: Area size in m2 of industrial and commercial areas within 1000 meter buffer in 2006 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -9160,7 +9160,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of industrial and commercial area within 1000 meter buffer in 2012 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1000_ic_12  
-**Variable description**: Area size in m2 of industrial and commercial areas within buffer in 2012 from CORINE data.  
+**Variable description**: Area size in m2 of industrial and commercial areas within 1000 meter buffer in 2012 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -9176,7 +9176,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ## **Variable label**: Area size of infrastructure area within 1000 meter buffer in 1990 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1000_in_90  
-**Variable description**: Area size in m2 of infrastructure areas within buffer in 1990 from CORINE data.  
+**Variable description**: Area size in m2 of infrastructure areas within 1000 meter buffer in 1990 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -9192,7 +9192,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of infrastructure area within 1000 meter buffer in 2000 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1000_in_00  
-**Variable description**: Area size in m2 of infrastructure areas within buffer in 2000 from CORINE data.  
+**Variable description**: Area size in m2 of infrastructure areas within 1000 meter buffer in 2000 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -9208,7 +9208,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of infrastructure area within 1000 meter buffer in 2006 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1000_in_06  
-**Variable description**: Area size in m2 of infrastructure areas within buffer in 2006 from CORINE data.  
+**Variable description**: Area size in m2 of infrastructure areas within 1000 meter buffer in 2006 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -9224,7 +9224,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of infrastructure area within 1000 meter buffer in 2012 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1000_in_12  
-**Variable description**: Area size in m2 of infrastructure areas within buffer in 2012 from CORINE data.  
+**Variable description**: Area size in m2 of infrastructure areas within 1000 meter buffer in 2012 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -9240,7 +9240,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of port area within 1000 meter buffer in 1990 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1000_po_90  
-**Variable description**: Area size in m2 of ports (airports and sea ports) within buffer in 1990 from CORINE data.  
+**Variable description**: Area size in m2 of ports (airports and sea ports) within 1000 meter buffer in 1990 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -9256,7 +9256,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of port area within 1000 meter buffer in 2000 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1000_po_00  
-**Variable description**: Area size in m2 of ports (airports and sea ports) within buffer in 2000 from CORINE data.  
+**Variable description**: Area size in m2 of ports (airports and sea ports) within 1000 meter buffer in 2000 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -9272,7 +9272,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of port area within 1000 meter buffer in 2006 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1000_po_06  
-**Variable description**: Area size in m2 of ports (airports and sea ports) within buffer in 2006 from CORINE data.  
+**Variable description**: Area size in m2 of ports (airports and sea ports) within 1000 meter buffer in 2006 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -9288,7 +9288,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of port area within 1000 meter buffer in 2012 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1000_po_12  
-**Variable description**: Area size in m2 of ports (airports and sea ports) within buffer in 2012 from CORINE data.  
+**Variable description**: Area size in m2 of ports (airports and sea ports) within 1000 meter buffer in 2012 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -9304,7 +9304,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of green urban area within 1000 meter buffer in 1990 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1000_gu_90  
-**Variable description**: Area size in m2 of green urban areas within buffer in 1990 from CORINE data.  
+**Variable description**: Area size in m2 of green urban areas within 1000 meter buffer in 1990 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -9320,7 +9320,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of green urban area within 1000 meter buffer in 2000 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1000_gu_00  
-**Variable description**: Area size in m2 of green urban areas within buffer in 2000 from CORINE data.  
+**Variable description**: Area size in m2 of green urban areas within 1000 meter buffer in 2000 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -9336,7 +9336,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of green urban area within 1000 meter buffer in 2006 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1000_gu_06  
-**Variable description**: Area size in m2 of green urban areas within buffer in 2006 from CORINE data.  
+**Variable description**: Area size in m2 of green urban areas within 1000 meter buffer in 2006 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -9352,7 +9352,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of green urban area within 1000 meter buffer in 2012 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1000_gu_12  
-**Variable description**: Area size in m2 of green urban areas within buffer in 2012 from CORINE data.  
+**Variable description**: Area size in m2 of green urban areas within 1000 meter buffer in 2012 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -9368,7 +9368,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of sports & leisure facilities area within 1000 meter buffer in 1990 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1000_fa_90  
-**Variable description**: Area size in m2 of sports & leisure facilities within buffer in 1990 from CORINE data.  
+**Variable description**: Area size in m2 of sports & leisure facilities within 1000 meter buffer in 1990 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -9384,7 +9384,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of sports & leisure facilities area within 1000 meter buffer in 2000 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1000_fa_00  
-**Variable description**: Area size in m2 of sports & leisure facilities within buffer in 2000 from CORINE data.  
+**Variable description**: Area size in m2 of sports & leisure facilities within 1000 meter buffer in 2000 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -9398,9 +9398,9 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 ```  
 
 
-### **Variable label**: Area size of sports & leisure facilities area within 2006 meter buffer in 2006 (CORINE)  
+### **Variable label**: Area size of sports & leisure facilities area within 1000 meter buffer in 2006 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1000_fa_06  
-**Variable description**: Area size in m2 of sports & leisure facilities within buffer in 2006 from CORINE data.  
+**Variable description**: Area size in m2 of sports & leisure facilities within 1000 meter buffer in 2006 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -9416,7 +9416,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of sports & leisure facilities area within 1000 meter buffer in 2012 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1000_fa_12  
-**Variable description**: Area size in m2 of sports & leisure facilities within buffer in 2012 from CORINE data.  
+**Variable description**: Area size in m2 of sports & leisure facilities within 1000 meter buffer in 2012 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -9432,7 +9432,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of agricultural land within 1000 meter buffer in 1990 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1000_ag_90  
-**Variable description**: Area size in m2 of agricultural within buffer in 1990 from CORINE data.  
+**Variable description**: Area size in m2 of agricultural land within 1000 meter buffer in 1990 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -9448,7 +9448,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of agricultural land within 1000 meter buffer in 2000 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1000_ag_00  
-**Variable description**: Area size in m2 of agricultural within buffer in 2000 from CORINE data.  
+**Variable description**: Area size in m2 of agricultural land within 1000 meter buffer in 2000 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -9464,7 +9464,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of agricultural land within 1000 meter buffer in 2006 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1000_ag_06  
-**Variable description**: Area size in m2 of agricultural within buffer in 2006 from CORINE data.  
+**Variable description**: Area size in m2 of agricultural land within 1000 meter buffer in 2006 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -9480,7 +9480,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of agricultural land within 1000 meter buffer in 2012 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1000_ag_12  
-**Variable description**: Area size in m2 of agricultural within buffer in 2012 from CORINE data.  
+**Variable description**: Area size in m2 of agricultural land within 1000 meter buffer in 2012 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -9496,7 +9496,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of other natural areas within 1000 meter buffer in 1990 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1000_on_90  
-**Variable description**: Area size in m2 of other natural areas within buffer in 1990 from CORINE data.  
+**Variable description**: Area size in m2 of other natural areas within 1000 meter buffer in 1990 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -9512,7 +9512,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of other natural areas within 1000 meter buffer in 2000 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1000_on_00  
-**Variable description**: Area size in m2 of other natural areas within buffer in 2000 from CORINE data.  
+**Variable description**: Area size in m2 of other natural areas within 1000 meter buffer in 2000 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -9528,7 +9528,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of other natural areas within 1000 meter buffer in 2006 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1000_on_06  
-**Variable description**: Area size in m2 of other natural areas within buffer in 2006 from CORINE data.  
+**Variable description**: Area size in m2 of other natural areas within 1000 meter buffer in 2006 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -9544,7 +9544,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of other natural areas within 1000 meter buffer in 2012 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1000_on_12  
-**Variable description**: Area size in m2 of other natural areas within buffer in 2012 from CORINE data.  
+**Variable description**: Area size in m2 of other natural areas within 1000 meter buffer in 2012 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -9560,7 +9560,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of water within 1000 meter buffer in 1990 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1000_bs_90  
-**Variable description**: Area size in m2 of water within bufferin 1990 from CORINE data.  
+**Variable description**: Area size in m2 of water within 1000 meter buffer in 1990 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -9576,7 +9576,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of water within 1000 meter buffer in 2000 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1000_bs_00  
-**Variable description**: Area size in m2 of water within bufferin 2000 from CORINE data.  
+**Variable description**: Area size in m2 of water within 1000 meter buffer in 2000 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -9592,7 +9592,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of water within 1000 meter buffer in 2006 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1000_bs_06  
-**Variable description**: Area size in m2 of water within bufferin 2006 from CORINE data.  
+**Variable description**: Area size in m2 of water within 1000 meter buffer in 2006 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -9608,7 +9608,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of water within 1000 meter buffer in 2012 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1000_bs_12  
-**Variable description**: Area size in m2 of water within bufferin 2012 from CORINE data.  
+**Variable description**: Area size in m2 of water within 1000 meter buffer in 2012 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -9624,7 +9624,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of other areas within 1000 meter buffer in 1990 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1000_ot_90  
-**Variable description**: Area size in m2 of other areas within buffer in 1990 from CORINE data.  
+**Variable description**: Area size in m2 of other areas within 1000 meter buffer in 1990 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -9640,7 +9640,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of other areas within 1000 meter buffer in 2000 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1000_ot_00  
-**Variable description**: Area size in m2 of other areas within buffer in 2000 from CORINE data.  
+**Variable description**: Area size in m2 of other areas within 1000 meter buffer in 2000 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -9656,7 +9656,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of other areas within 1000 meter buffer in 2006 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1000_ot_06  
-**Variable description**: Area size in m2 of other areas within buffer in 2006 from CORINE data.  
+**Variable description**: Area size in m2 of other areas within 1000 meter buffer in 2006 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -9672,7 +9672,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of other areas within 1000 meter buffer in 2012 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1000_ot_12  
-**Variable description**: Area size in m2 of other areas within buffer in 2012 from CORINE data.  
+**Variable description**: Area size in m2 of other areas within 1000 meter buffer in 2012 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -9724,7 +9724,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of built-up area within 1600 meter buffer in 2006 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_landuse1600_bu_06  
-**Variable description**: Area size in m2 of built-up areas within buffer in 2006 from Urban Atlas data.  
+**Variable description**: Area size in m2 of built-up areas within 1600 meter buffer in 2006 from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -9740,7 +9740,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of built-up area within 1600 meter buffer in 2012 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_landuse1600_bu_12  
-**Variable description**: Area size in m2 of built-up areas within buffer in 2012 from Urban Atlas data.  
+**Variable description**: Area size in m2 of built-up areas within 1600 meter buffer in 2012 from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -9756,7 +9756,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of industrial and commercial area within 1600 meter buffer in 2006 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_landuse1600_ic_06  
-**Variable description**: Area size in m2 of industrial and commercial areas within buffer in 2006 from Urban Atlas data.  
+**Variable description**: Area size in m2 of industrial and commercial areas within 1600 meter buffer in 2006 from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -9772,7 +9772,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of industrial and commercial area within 1600 meter buffer in 2012 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_landuse1600_ic_12  
-**Variable description**: Area size in m2 of industrial and commercial areas within buffer in 2012 from Urban Atlas data.  
+**Variable description**: Area size in m2 of industrial and commercial areas within 1600 meter buffer in 2012 from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -9788,7 +9788,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of infrastructure area within 1600 meter buffer in 2006 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_landuse1600_in_06  
-**Variable description**: Area size in m2 of infrastructure areas within buffer in 2006 from Urban Atlas data.  
+**Variable description**: Area size in m2 of infrastructure areas within 1600 meter buffer in 2006 from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -9804,7 +9804,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of infrastructure area within 1600 meter buffer in 2012 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_landuse1600_in_12  
-**Variable description**: Area size in m2 of infrastructure areas within buffer in 2012 from Urban Atlas data.  
+**Variable description**: Area size in m2 of infrastructure areas within 1600 meter buffer in 2012 from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -9820,7 +9820,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of port area within 1600 meter buffer in 2006 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_landuse1600_po_06  
-**Variable description**: Area size in m2 of ports (airports and sea ports) within buffer in 2006 from Urban Atlas data.  
+**Variable description**: Area size in m2 of ports (airports and sea ports) within 1600 meter buffer in 2006 from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -9836,7 +9836,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of port area within 1600 meter buffer in 2012 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_landuse1600_po_12  
-**Variable description**: Area size in m2 of ports (airports and sea ports) within buffer in 2012 from Urban Atlas data.  
+**Variable description**: Area size in m2 of ports (airports and sea ports) within 1600 meter buffer in 2012 from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -9852,7 +9852,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of green urban area within 1600 meter buffer in 2006 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_landuse1600_gu_06  
-**Variable description**: Area size in m2 of green urban areas within buffer in 2006 from Urban Atlas data.  
+**Variable description**: Area size in m2 of green urban areas within 1600 meter buffer in 2006 from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -9868,7 +9868,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of green urban area within 1600 meter buffer in 2006 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_landuse1600_gu_06  
-**Variable description**: Area size in m2 of green urban areas within buffer in 2006 from Urban Atlas data.  
+**Variable description**: Area size in m2 of green urban areas within 1600 meter buffer in 2006 from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -9884,7 +9884,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of sports & leisure facilities area within 1600 meter buffer in 2006 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_landuse1600_fa_06  
-**Variable description**: Area size in m2 of sports & leisure facilities within buffer in 2006 from Urban Atlas data.  
+**Variable description**: Area size in m2 of sports & leisure facilities within 1600 meter buffer in 2006 from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -9900,7 +9900,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of sports & leisure facilities area within 1600 meter buffer in 2012 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_landuse1600_fa_12  
-**Variable description**: Area size in m2 of sports & leisure facilities within buffer in 2012 from Urban Atlas data.  
+**Variable description**: Area size in m2 of sports & leisure facilities within 1600 meter buffer in 2012 from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -9916,7 +9916,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of agricultural land within 1600 meter buffer in 2006 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_landuse1600_ag_06  
-**Variable description**: Area size in m2 of agricultural within buffer in 2006 from Urban Atlas data.  
+**Variable description**: Area size in m2 of agricultural within 1600 meter buffer in 2006 from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -9932,7 +9932,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of agricultural land within 1600 meter buffer in 2012 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_landuse1600_ag_12  
-**Variable description**: Area size in m2 of agricultural within buffer in 2012 from Urban Atlas data.  
+**Variable description**: Area size in m2 of agricultural within 1600 meter buffer in 2012 from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -9948,7 +9948,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of other natural areas within 1600 meter buffer in 2006 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_landuse1600_on_06  
-**Variable description**: Area size in m2 of other natural areas within buffer in 2006 from Urban Atlas data.  
+**Variable description**: Area size in m2 of other natural areas within 1600 meter buffer in 2006 from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -9964,7 +9964,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of other natural areas within 1600 meter buffer in 2012 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_landuse1600_on_12  
-**Variable description**: Area size in m2 of other natural areas within buffer in 2012 from Urban Atlas data.  
+**Variable description**: Area size in m2 of other natural areas within 1600 meter buffer in 2012 from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -9980,7 +9980,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of water within 1600 meter buffer in 2006 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_landuse1600_bs_06  
-**Variable description**: Area size in m2 of water within buffer in 2006 from Urban Atlas data.  
+**Variable description**: Area size in m2 of water within 1600 meter buffer in 2006 from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -9996,7 +9996,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of water within 1600 meter buffer in 2012 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_landuse1600_bs_12  
-**Variable description**: Area size in m2 of water within buffer in 2012 from Urban Atlas data.  
+**Variable description**: Area size in m2 of water within 1600 meter buffer in 2012 from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -10012,7 +10012,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of other areas within 1600 meter buffer in 2006 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_landuse1600_ot_06  
-**Variable description**: Area size in m2 of other areas within buffer in 2006 from Urban Atlas data.  
+**Variable description**: Area size in m2 of other areas within 1600 meter buffer in 2006 from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -10028,7 +10028,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of other areas within 1600 meter buffer in 2012 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_landuse1600_ot_12  
-**Variable description**: Area size in m2 of other areas within buffer in 2012 from Urban Atlas data.  
+**Variable description**: Area size in m2 of other areas within 1600 meter buffer in 2012 from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -10108,7 +10108,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of built-up area within 1600 meter buffer in 1990 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1600_bu_90  
-**Variable description**: Area size in m2 of built-up areas within buffer in 1990 from CORINE data.  
+**Variable description**: Area size in m2 of built-up areas within 1600 meter buffer in 1990 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -10124,7 +10124,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of built-up area within 1600 meter buffer in 2000 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1600_bu_00  
-**Variable description**: Area size in m2 of built-up areas within buffer in 2000 from CORINE data.  
+**Variable description**: Area size in m2 of built-up areas within 1600 meter buffer in 2000 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -10140,7 +10140,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of built-up area within 1600 meter buffer in 2006 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1600_bu_06  
-**Variable description**: Area size in m2 of built-up areas within buffer in 2006 from CORINE data.  
+**Variable description**: Area size in m2 of built-up areas within 1600 meter buffer in 2006 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -10156,7 +10156,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of built-up area within 1600 meter buffer in 2012 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1600_bu_12  
-**Variable description**: Area size in m2 of built-up areas within buffer in 2012 from CORINE data.  
+**Variable description**: Area size in m2 of built-up areas within 1600 meter buffer in 2012 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -10172,7 +10172,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of industrial and commercial area within 1600 meter buffer in 1990 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1600_ic_90  
-**Variable description**: Area size in m2 of industrial and commercial areas within buffer in 1990 from CORINE data.  
+**Variable description**: Area size in m2 of industrial and commercial areas within 1600 meter buffer in 1990 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -10188,7 +10188,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of industrial and commercial area within 1600 meter buffer in 2000 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1600_ic_00  
-**Variable description**: Area size in m2 of industrial and commercial areas within buffer in 2000 from CORINE data.  
+**Variable description**: Area size in m2 of industrial and commercial areas within 1600 meter buffer in 2000 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -10204,7 +10204,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of industrial and commercial area within 1600 meter buffer in 2006 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1600_ic_06  
-**Variable description**: Area size in m2 of industrial and commercial areas within buffer in 2006 from CORINE data.  
+**Variable description**: Area size in m2 of industrial and commercial areas within 1600 meter buffer in 2006 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -10220,7 +10220,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of industrial and commercial area within 1600 meter buffer in 2012 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1600_ic_12  
-**Variable description**: Area size in m2 of industrial and commercial areas within buffer in 2012 from CORINE data.  
+**Variable description**: Area size in m2 of industrial and commercial areas within 1600 meter buffer in 2012 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -10236,7 +10236,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of infrastructure area within 1600 meter buffer in 1990 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1600_in_90  
-**Variable description**: Area size in m2 of infrastructure areas within buffer in 1990 from CORINE data.  
+**Variable description**: Area size in m2 of infrastructure areas within 1600 meter buffer in 1990 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -10252,7 +10252,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of infrastructure area within 1600 meter buffer in 1990 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1600_in_90  
-**Variable description**: Area size in m2 of infrastructure areas within buffer in 1990 from CORINE data.  
+**Variable description**: Area size in m2 of infrastructure areas within 1600 meter buffer in 1990 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -10268,7 +10268,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of infrastructure area within 1600 meter buffer in 2000 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1600_in_00  
-**Variable description**: Area size in m2 of infrastructure areas within buffer in 2000 from CORINE data.  
+**Variable description**: Area size in m2 of infrastructure areas within 1600 meter buffer in 2000 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -10284,7 +10284,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of infrastructure area within 1600 meter buffer in 2006 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1600_in_06  
-**Variable description**: Area size in m2 of infrastructure areas within buffer in 2006 from CORINE data.  
+**Variable description**: Area size in m2 of infrastructure areas within 1600 meter buffer in 2006 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -10300,7 +10300,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of infrastructure area within 1600 meter buffer in 2012 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1600_in_12  
-**Variable description**: Area size in m2 of infrastructure areas within buffer in 2012 from CORINE data.  
+**Variable description**: Area size in m2 of infrastructure areas within 1600 meter buffer in 2012 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -10316,7 +10316,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of port area within 1600 meter buffer in 1990 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1600_po_90  
-**Variable description**: Area size in m2 of ports (airports and sea ports) within buffer in 1990 from CORINE data.  
+**Variable description**: Area size in m2 of ports (airports and sea ports) within 1600 meter buffer in 1990 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -10331,7 +10331,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of port area within 1600 meter buffer in 2000 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1600_po_00  
-**Variable description**: Area size in m2 of ports (airports and sea ports) within buffer in 2000 from CORINE data.  
+**Variable description**: Area size in m2 of ports (airports and sea ports) within 1600 meter buffer in 2000 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -10347,7 +10347,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of port area within 1600 meter buffer in 2006 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1600_po_06  
-**Variable description**: Area size in m2 of ports (airports and sea ports) within buffer in 2006 from CORINE data.  
+**Variable description**: Area size in m2 of ports (airports and sea ports) within 1600 meter buffer in 2006 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -10362,7 +10362,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of port area within 1600 meter buffer in 2012 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1600_po_12  
-**Variable description**: Area size in m2 of ports (airports and sea ports) within buffer in 2012 from CORINE data.  
+**Variable description**: Area size in m2 of ports (airports and sea ports) within 1600 meter buffer in 2012 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -10378,7 +10378,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of green urban area within 1600 meter buffer in 1990 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1600_gu_90  
-**Variable description**: Area size in m2 of green urban areas within buffer in 1990 from CORINE data.  
+**Variable description**: Area size in m2 of green urban areas within 1600 meter buffer in 1990 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -10394,7 +10394,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of green urban area within 1600 meter buffer in 2000 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1600_gu_00  
-**Variable description**: Area size in m2 of green urban areas within buffer in 2000 from CORINE data.  
+**Variable description**: Area size in m2 of green urban areas within 1600 meter buffer in 2000 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -10410,7 +10410,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of green urban area within 1600 meter buffer in 2006 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1600_gu_06  
-**Variable description**: Area size in m2 of green urban areas within buffer in 2006 from CORINE data.  
+**Variable description**: Area size in m2 of green urban areas within 1600 meter buffer in 2006 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -10426,7 +10426,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of green urban area within 1600 meter buffer in 2012 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1600_gu_12  
-**Variable description**: Area size in m2 of green urban areas within buffer in 2012 from CORINE data.  
+**Variable description**: Area size in m2 of green urban areas within 1600 meter buffer in 2012 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -10442,7 +10442,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of sports & leisure facilities area within 1600 meter buffer in 1990 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1600_fa_90  
-**Variable description**: Area size in m2 of sports & leisure facilities within buffer in 1990 from CORINE data.  
+**Variable description**: Area size in m2 of sports & leisure facilities within 1600 meter buffer in 1990 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -10458,7 +10458,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of sports & leisure facilities area within 1600 meter buffer in 2000 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1600_fa_00  
-**Variable description**: Area size in m2 of sports & leisure facilities within buffer in 2000 from CORINE data.  
+**Variable description**: Area size in m2 of sports & leisure facilities within 1600 meter buffer in 2000 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -10474,7 +10474,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of sports & leisure facilities area within 1600 meter buffer in 2006 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1600_fa_06  
-**Variable description**: Area size in m2 of sports & leisure facilities within buffer in 2006 from CORINE data.  
+**Variable description**: Area size in m2 of sports & leisure facilities within 1600 meter buffer in 2006 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -10490,7 +10490,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of sports & leisure facilities area within 1600 meter buffer in 2012 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1600_fa_12  
-**Variable description**: Area size in m2 of sports & leisure facilities within buffer in 2012 from CORINE data.  
+**Variable description**: Area size in m2 of sports & leisure facilities within 1600 meter buffer in 2012 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -10506,7 +10506,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of agricultural land within 1600 meter buffer in 1990 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1600_ag_90  
-**Variable description**: Area size in m2 of agricultural within buffer in 1990 from CORINE data.  
+**Variable description**: Area size in m2 of agricultural land within buffer 1600 meter in 1990 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -10521,7 +10521,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of agricultural land within 1600 meter buffer in 2000 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1600_ag_00  
-**Variable description**: Area size in m2 of agricultural within buffer in 2000 from CORINE data.  
+**Variable description**: Area size in m2 of agricultural land within 1600 meter buffer in 2000 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -10537,7 +10537,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of agricultural land within 1600 meter buffer in 2006 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1600_ag_06  
-**Variable description**: Area size in m2 of agricultural within buffer in 2006 from CORINE data.  
+**Variable description**: Area size in m2 of agricultural land within 1600 meter buffer in 2006 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -10553,7 +10553,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of agricultural land within 1600 meter buffer in 2012 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1600_ag_12  
-**Variable description**: Area size in m2 of agricultural within buffer in 2012 from CORINE data.  
+**Variable description**: Area size in m2 of agricultural land within 1600 meter buffer in 2012 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -10569,7 +10569,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of other natural areas within 1600 meter buffer in 1990 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1600_on_90  
-**Variable description**: Area size in m2 of other natural areas within buffer in 1990 from CORINE data.  
+**Variable description**: Area size in m2 of other natural areas within 1600 meter buffer in 1990 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -10585,7 +10585,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of other natural areas within 1600 meter buffer in 2000 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1600_on_00  
-**Variable description**: Area size in m2 of other natural areas within buffer in 2000 from CORINE data.  
+**Variable description**: Area size in m2 of other natural areas within 1600 meter buffer in 2000 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -10601,7 +10601,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of other natural areas within 1600 meter buffer in 2006 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1600_on_06  
-**Variable description**: Area size in m2 of other natural areas within buffer in 2006 from CORINE data.  
+**Variable description**: Area size in m2 of other natural areas within 1600 meter buffer in 2006 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -10617,7 +10617,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of other natural areas within 1600 meter buffer in 2012 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1600_on_12  
-**Variable description**: Area size in m2 of other natural areas within buffer in 2012 from CORINE data.  
+**Variable description**: Area size in m2 of other natural areas within 1600 meter buffer in 2012 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -10633,7 +10633,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of water within 1600 meter buffer in 1990 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1600_bs_90  
-**Variable description**: Area size in m2 of water within bufferin 1990 from CORINE data.  
+**Variable description**: Area size in m2 of water within 1600 meter buffer in 1990 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -10649,7 +10649,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of water within 1600 meter buffer in 2000 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1600_bs_00  
-**Variable description**: Area size in m2 of water within bufferin 2000 from CORINE data.  
+**Variable description**: Area size in m2 of water within 1600 meter buffer in 2000 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -10665,7 +10665,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of water within 1600 meter buffer in 2006 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1600_bs_06  
-**Variable description**: Area size in m2 of water within bufferin 2006 from CORINE data.  
+**Variable description**: Area size in m2 of water within 1600 meter buffer in 2006 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -10681,7 +10681,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of water within 1600 meter buffer in 2012 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1600_bs_12  
-**Variable description**: Area size in m2 of water within bufferin 2012 from CORINE data.  
+**Variable description**: Area size in m2 of water within 1600 meter buffer in 2012 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -10697,7 +10697,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of other areas within 1600 meter buffer in 1990 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1600_ot_90  
-**Variable description**: Area size in m2 of other areas within buffer in 1990 from CORINE data.  
+**Variable description**: Area size in m2 of other areas within 1600 meter buffer in 1990 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -10713,7 +10713,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of other areas within 1600 meter buffer in 2000 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1600_ot_00  
-**Variable description**: Area size in m2 of other areas within buffer in 2000 from CORINE data.  
+**Variable description**: Area size in m2 of other areas within 1600 meter buffer in 2000 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
@@ -10729,7 +10729,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of other areas within 1600 meter buffer in 2012 (CORINE)  
 **Variable name**: physenv_cn_bf_landuse1600_ot_12  
-**Variable description**: Area size in m2 of other areas within buffer in 2012 from CORINE data.  
+**Variable description**: Area size in m2 of other areas within 1600 meter buffer in 2012 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: square meters  
 **Category coding**: -  
