@@ -10779,11 +10779,11 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 **physenv_ua_urbanicity_12** | **Urbanicity grade in 2012 (Urban Atlas)**
 ------------------------ | --------------------------------------------------
-11100 | Continuous urban fabric (S.L. > 80%)  
-11210 | Discontinuous dense urban fabric (S.L.: 50% - 80%)  
-11220 | Discontinuous medium density urban fabric (S.L.: 30% - 50%)  
-11230 | Discontinuous low density urban fabric (S.L.: 10% - 30%)  
-11240 | Discontinuous very low density urban fabric (S.L.: < 10%)  
+1 | Continuous urban fabric (S.L. > 80%)  
+2 | Discontinuous dense urban fabric (S.L.: 50% - 80%)  
+3 | Discontinuous medium density urban fabric (S.L.: 30% - 50%)  
+4 | Discontinuous low density urban fabric (S.L.: 10% - 30%)  
+5 | Discontinuous very low density urban fabric (S.L.: < 10%)  
 
 **Harmonization status**:  
 **Harmonization comment**:  
