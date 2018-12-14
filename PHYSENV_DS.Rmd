@@ -94,7 +94,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Distance to forests in 2012 (Urban Atlas)  
 **Variable name**: physenv_ua_ne_forests_12
-**Variable description**: Absolute distance to the nearest polygon marked as forest in 2012 from Urban Atalas data.  
+**Variable description**: Absolute distance to the nearest polygon marked as forest in 2012 from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: m  
 **Category coding**:   
