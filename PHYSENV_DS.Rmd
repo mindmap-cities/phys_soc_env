@@ -8631,7 +8631,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 
 ### **Variable label**: Land use mix within 1000m buffer in 2006 (Urban Atlas)  
-**Variable name**: physenv_ua_bf_bf_lu1000_06  
+**Variable name**: physenv_ua_bf_lu1000_06  
 **Variable description**: Land use mix in m² within a 1000m buffer. It is calculated using an entropy formula in 2006 from Urban Atlas data.
 **Variable type**: decimal  
 **Variable unit**: m²  
@@ -8647,7 +8647,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 
 ### **Variable label**: Land use mix within 1000m buffer in 2012 (Urban Atlas)  
-**Variable name**: physenv_ua_bf_bf_lu1000_12  
+**Variable name**: physenv_ua_bf_lu1000_12  
 **Variable description**: Land use mix in m² within a 1000m buffer. It is calculated using an entropy formula in 2012 from Urban Atlas data.
 **Variable type**: decimal  
 **Variable unit**: m²  
@@ -8981,7 +8981,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 
 ### **Variable label**: Land use mix within 1000m buffer in 1990 (CORINE)  
-**Variable name**: physenv_cn_bf_bf_lu1000_90  
+**Variable name**: physenv_cn_bf_lu1000_90  
 **Variable description**: Land use mix in m² within a 1000m buffer. It is calculated using an entropy formula in 1990 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
@@ -8997,7 +8997,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 
 ### **Variable label**: Land use mix within 1000m buffer in 2000 (CORINE)  
-**Variable name**: physenv_cn_bf_bf_lu1000_00  
+**Variable name**: physenv_cn_bf_lu1000_00  
 **Variable description**: Land use mix in m² within a 1000m buffer. It is calculated using an entropy formula in 2000 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
@@ -9013,7 +9013,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 
 ### **Variable label**: Land use mix within 1000m buffer in 2006 (CORINE)  
-**Variable name**: physenv_cn_bf_bf_lu1000_06  
+**Variable name**: physenv_cn_bf_lu1000_06  
 **Variable description**: Land use mix in m² within a 1000m buffer. It is calculated using an entropy formula in 2006 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
@@ -9031,7 +9031,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 
 ### **Variable label**: Land use mix within 1000m buffer in 2012 (CORINE)  
-**Variable name**: physenv_cn_bf_bf_lu1000_12  
+**Variable name**: physenv_cn_bf_lu1000_12  
 **Variable description**: Land use mix in m² within a 1000m buffer. It is calculated using an entropy formula in 2012 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
@@ -9691,7 +9691,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 
 ### **Variable label**: Land use mix within 1600m buffer in 2006 (Urban Atlas)  
-**Variable name**: physenv_ua_bf_bf_lu1600_06  
+**Variable name**: physenv_ua_bf_lu1600_06  
 **Variable description**: Land use mix in m² within a 1600m buffer. It is calculated using an entropy formula in 2006 from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
@@ -9707,7 +9707,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 
 ### **Variable label**: Land use mix within 1600m buffer in 2012 (Urban Atlas)  
-**Variable name**: physenv_ua_bf_bf_lu1600_12  
+**Variable name**: physenv_ua_bf_lu1600_12  
 **Variable description**: Land use mix in m² within a 1600m buffer. It is calculated using an entropy formula in 2012 from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
@@ -10043,7 +10043,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 
 ### **Variable label**: Land use mix within 1600m buffer in 1990 (CORINE)  
-**Variable name**: physenv_cn_bf_bf_lu1600_90  
+**Variable name**: physenv_cn_bf_lu1600_90  
 **Variable description**: Land use mix in m² within a 1600m buffer. It is calculated using an entropy formula in 1990 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
@@ -10059,7 +10059,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 
 ### **Variable label**: Land use mix within 1600m buffer in 2000 (CORINE)  
-**Variable name**: physenv_cn_bf_bf_lu1600_00  
+**Variable name**: physenv_cn_bf_lu1600_00  
 **Variable description**: Land use mix in m² within a 1600m buffer. It is calculated using an entropy formula in 2000 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
@@ -10075,7 +10075,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 
 ### **Variable label**: Land use mix within 1600m buffer in 2006 (CORINE)  
-**Variable name**: physenv_cn_bf_bf_lu1600_06  
+**Variable name**: physenv_cn_bf_lu1600_06  
 **Variable description**: Land use mix in m² within a 1600m buffer. It is calculated using an entropy formula in 2006 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
@@ -10091,7 +10091,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 
 ### **Variable label**: Land use mix within 1600m buffer in 2012 (CORINE)  
-**Variable name**: physenv_cn_bf_bf_lu1600_12  
+**Variable name**: physenv_cn_bf_lu1600_12  
 **Variable description**: Land use mix in m² within a 1600m buffer. It is calculated using an entropy formula in 2012 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
