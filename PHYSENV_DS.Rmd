@@ -254,7 +254,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Distance to total blue and green spaces (water, wetlands, forests, green urban areas) in 2012 (Urban Atlas)  
 **Variable name**: physenv_ua_ne_ttbsgr_12  
-**Variable description**: Absolute distance to the nearest polygon. Total of both green and blue space (water, wetlands, forests, green urban areas) in 2012 from Urban Atlas data.  
+**Variable description**: Absolute distance to the nearest polygon. Total of both green and blue spaces (water, wetlands, forests, green urban areas) in 2012 from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: m    
 **Category coding**: 
@@ -478,7 +478,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of total blue and green space (water, wetlands, forests, green urban areas) in 2012 (Urban Atlas)  
 **Variable name**: physenv_ua_ne_ttbsgr_as_12  
-**Variable description**: Area size of the nearest polygon. Total of both green and blue space (water, wetlands, forests, green urban areas) in 2012 from Urban Atlas data.  
+**Variable description**: Area size of the nearest polygon. Total of both green and blue spaces (water, wetlands, forests, green urban areas) in 2012 from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
 **Category coding**: 
@@ -1745,7 +1745,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 ```  
 
 
-### **Variable label**: Area size of total blue space (water + wetlands) within 100m buffer in 2006 (Urban Atlas)  
+### **Variable label**: Area size of total blue spaces (water + wetlands) within 100m buffer in 2006 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_ttbs100_06  
 **Variable description**: Area size in m² of total blue spaces (water + wetlands) within 100m buffer in 2006 from Urban Atlas data.
 **Variable type**: decimal  
@@ -1761,7 +1761,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 ```  
 
 
-### **Variable label**: Area size of total blue space (water + wetlands) within 100m buffer in 2012 (Urban Atlas)  
+### **Variable label**: Area size of total blue spaces (water + wetlands) within 100m buffer in 2012 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_ttbs100_12  
 **Variable description**: Area size in m² of total blue spaces (water + wetlands) within 100m buffer in 2012 from Urban Atlas data.
 **Variable type**: decimal  
