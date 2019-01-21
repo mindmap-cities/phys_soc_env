@@ -5606,9 +5606,9 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 ```  
 
 
-### **Variable label**: Area size of green urban areas within 100m buffer in 2006 (Urban Atlas)  
+### **Variable label**: Area size of green urban areas (land use) within 100m buffer in 2006 (Urban Atlas)  
 **Variable name**: physenv_ua_lu100_grurb_06  
-**Variable description**: Area size in m² of green urban areas within 100m buffer in 2006 from Urban Atlas data.  
+**Variable description**: Area size in m² of green urban areas (land use) within 100m buffer in 2006 from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
 **Category coding**:  
@@ -5622,9 +5622,9 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 ```  
 
 
-### **Variable label**: Area size of green urban areas within 100m buffer in 2012 (Urban Atlas)  
+### **Variable label**: Area size of green urban areas (land use) within 100m buffer in 2012 (Urban Atlas)  
 **Variable name**: physenv_ua_lu100_grurb_12  
-**Variable description**: Area size in m² of green urban areas within 100m buffer in 2012 from Urban Atlas data.  
+**Variable description**: Area size in m² of green urban areas (land use) within 100m buffer in 2012 from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
 **Category coding**:  
@@ -6119,9 +6119,9 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 ```  
 
 
-### **Variable label**: Area size of green urban areas within 100m buffer in 1990 (CORINE)  
+### **Variable label**: Area size of green urban areas (land use) within 100m buffer in 1990 (CORINE)  
 **Variable name**: physenv_cn_bf_lu100_grurb_90  
-**Variable description**: Area size in m² of green urban areas within 100m buffer in 1990 from CORINE data.  
+**Variable description**: Area size in m² of green urban areas (land use) within 100m buffer in 1990 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
 **Category coding**:  
@@ -6135,9 +6135,9 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 ```  
 
 
-### **Variable label**: Area size of green urban areas within 100m buffer in 2000 (CORINE)  
+### **Variable label**: Area size of green urban areas (land use) within 100m buffer in 2000 (CORINE)  
 **Variable name**: physenv_cn_bf_lu100_grurb_00  
-**Variable description**: Area size in m² of green urban areas within 100m buffer in 2000 from CORINE data.  
+**Variable description**: Area size in m² of green urban areas (land use) within 100m buffer in 2000 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
 **Category coding**:  
@@ -6151,9 +6151,9 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 ```  
 
 
-### **Variable label**: Area size of green urban areas within 100m buffer in 2006 (CORINE)  
+### **Variable label**: Area size of green urban areas (land use) within 100m buffer in 2006 (CORINE)  
 **Variable name**: physenv_cn_bf_lu100_grurb_06  
-**Variable description**: Area size in m² of green urban areas within 100m buffer in 2006 from CORINE data.  
+**Variable description**: Area size in m² of green urban areas (land use) within 100m buffer in 2006 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
 **Category coding**:  
@@ -6167,9 +6167,9 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 ```  
 
 
-### **Variable label**: Area size of green urban areas within 100m buffer in 2012 (CORINE)  
+### **Variable label**: Area size of green urban areas (land use) within 100m buffer in 2012 (CORINE)  
 **Variable name**: physenv_cn_bf_lu100_grurb_12  
-**Variable description**: Area size in m² of green urban areas within 100m buffer in 2012 from CORINE data.  
+**Variable description**: Area size in m² of green urban areas (land use) within 100m buffer in 2012 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
 **Category coding**:  
@@ -6666,9 +6666,9 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 ```  
 
 
-### **Variable label**: Area size of green urban areas within 400m buffer in 2006 (Urban Atlas)  
+### **Variable label**: Area size of green urban areas (land use) within 400m buffer in 2006 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_lu400_grurb_06  
-**Variable description**: Area size in m² of green urban areas within 400m buffer in 2006 from Urban Atlas data.  
+**Variable description**: Area size in m² of green urban areas (land use) within 400m buffer in 2006 from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
 **Category coding**:  
@@ -6682,9 +6682,9 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 ```  
 
 
-### **Variable label**: Area size of green urban areas within 400m buffer in 2012 (Urban Atlas)  
+### **Variable label**: Area size of green urban areas (land use) within 400m buffer in 2012 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_lu400_grurb_12  
-**Variable description**: Area size in m² of green urban areas within 400m buffer in 2012 from Urban Atlas data.  
+**Variable description**: Area size in m² of green urban areas (land use) within 400m buffer in 2012 from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
 **Category coding**:  
@@ -7178,9 +7178,9 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 ```  
 
 
-### **Variable label**: Area size of green urban areas within 400m buffer in 1990 (CORINE)  
+### **Variable label**: Area size of green urban areas (land use) within 400m buffer in 1990 (CORINE)  
 **Variable name**: physenv_cn_bf_lu400_grurb_90  
-**Variable description**: Area size in m² of green urban areas within 400m buffer in 1990 from CORINE data.
+**Variable description**: Area size in m² of green urban areas (land use) within 400m buffer in 1990 from CORINE data.
 **Variable type**: decimal  
 **Variable unit**: m²  
 **Category coding**:  
@@ -7194,9 +7194,9 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 ```  
 
 
-### **Variable label**: Area size of green urban areas within 400m buffer in 2000 (CORINE)  
+### **Variable label**: Area size of green urban areas (land use) within 400m buffer in 2000 (CORINE)  
 **Variable name**: physenv_cn_bf_lu400_grurb_00  
-**Variable description**: Area size in m² of green urban areas within 400m buffer in 2000 from CORINE data.
+**Variable description**: Area size in m² of green urban areas (land use) within 400m buffer in 2000 from CORINE data.
 **Variable type**: decimal  
 **Variable unit**: m²  
 **Category coding**:  
@@ -7210,9 +7210,9 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 ```  
 
 
-### **Variable label**: Area size of green urban areas within 400m buffer in 2006 (CORINE)  
+### **Variable label**: Area size of green urban areas (land use) within 400m buffer in 2006 (CORINE)  
 **Variable name**: physenv_cn_bf_lu400_grurb_06  
-**Variable description**: Area size in m² of green urban areas within 400m buffer in 2006 from CORINE data.
+**Variable description**: Area size in m² of green urban areas (land use) within 400m buffer in 2006 from CORINE data.
 **Variable type**: decimal  
 **Variable unit**: m²  
 **Category coding**:  
@@ -7226,9 +7226,9 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 ```  
 
 
-### **Variable label**: Area size of green urban areas within 400m buffer in 2012 (CORINE)  
+### **Variable label**: Area size of green urban areas (land use) within 400m buffer in 2012 (CORINE)  
 **Variable name**: physenv_cn_bf_lu400_grurb_12  
-**Variable description**: Area size in m² of green urban areas within 400m buffer in 2012 from CORINE data.
+**Variable description**: Area size in m² of green urban areas (land use) within 400m buffer in 2012 from CORINE data.
 **Variable type**: decimal  
 **Variable unit**: m²  
 **Category coding**:  
@@ -7728,9 +7728,9 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 ```  
 
 
-### **Variable label**: Area size of green urban areas within 800m buffer in 2006 (Urban Atlas)  
+### **Variable label**: Area size of green urban areas (land use) within 800m buffer in 2006 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_lu800_grurb_06  
-**Variable description**: Area size in m² of green urban areas within 800m buffer in 2006 from Urban Atlas data.  
+**Variable description**: Area size in m² of green urban areas (land use) within 800m buffer in 2006 from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
 **Category coding**:  
@@ -7744,9 +7744,9 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 ```  
 
 
-### **Variable label**: Area size of green urban areas within 800m buffer in 2012 (Urban Atlas)  
+### **Variable label**: Area size of green urban areas (land use) within 800m buffer in 2012 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_lu800_grurb_12  
-**Variable description**: Area size in m² of green urban areas within 800m buffer in 2012 from Urban Atlas data.  
+**Variable description**: Area size in m² of green urban areas (land use) within 800m buffer in 2012 from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
 **Category coding**:  
@@ -8241,9 +8241,9 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 ```  
 
 
-### **Variable label**: Area size of green urban areas within 800m buffer in 1990 (CORINE)  
+### **Variable label**: Area size of green urban areas (land use) within 800m buffer in 1990 (CORINE)  
 **Variable name**: physenv_cn_bf_lu800_grurb_90  
-**Variable description**: Area size in m² of green urban areas within 800m buffer in 1990 from CORINE data.  
+**Variable description**: Area size in m² of green urban areas (land use) within 800m buffer in 1990 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
 **Category coding**:  
@@ -8257,9 +8257,9 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 ```  
 
 
-### **Variable label**: Area size of green urban areas within 800m buffer in 2000 (CORINE)  
+### **Variable label**: Area size of green urban areas (land use) within 800m buffer in 2000 (CORINE)  
 **Variable name**: physenv_cn_bf_lu800_grurb_00  
-**Variable description**: Area size in m² of green urban areas within 800m buffer in 2000 from CORINE data.  
+**Variable description**: Area size in m² of green urban areas (land use) within 800m buffer in 2000 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
 **Category coding**:  
@@ -8273,9 +8273,9 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 ```  
 
 
-### **Variable label**: Area size of green urban areas within 800m buffer in 2006 (CORINE)  
+### **Variable label**: Area size of green urban areas (land use) within 800m buffer in 2006 (CORINE)  
 **Variable name**: physenv_cn_bf_lu800_grurb_06  
-**Variable description**: Area size in m² of green urban areas within 800m buffer in 2006 from CORINE data.  
+**Variable description**: Area size in m² of green urban areas (land use) within 800m buffer in 2006 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
 **Category coding**:  
@@ -8289,9 +8289,9 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 ```  
 
 
-### **Variable label**: Area size of green urban areas within 800m buffer in 2012 (CORINE)  
+### **Variable label**: Area size of green urban areas (land use) within 800m buffer in 2012 (CORINE)  
 **Variable name**: physenv_cn_bf_lu800_grurb_12  
-**Variable description**: Area size in m² of green urban areas within 800m buffer in 2012 from CORINE data.  
+**Variable description**: Area size in m² of green urban areas (land use) within 800m buffer in 2012 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
 **Category coding**:  
@@ -8789,9 +8789,9 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 ```  
 
 
-### **Variable label**: Area size of green urban areas within 1000m buffer in 2006 (Urban Atlas)  
+### **Variable label**: Area size of green urban areas (land use) within 1000m buffer in 2006 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_lu1000_grurb_06  
-**Variable description**: Area size in m² of green urban areas within 1000m buffer in 2006 from Urban Atlas data.  
+**Variable description**: Area size in m² of green urban areas (land use) within 1000m buffer in 2006 from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
 **Category coding**:  
@@ -8805,9 +8805,9 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 ```  
 
 
-### **Variable label**: Area size of green urban areas within 1000m buffer in 2012 (Urban Atlas)  
+### **Variable label**: Area size of green urban areas (land use) within 1000m buffer in 2012 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_lu1000_grurb_12  
-**Variable description**: Area size in m² of green urban areas within 1000m buffer in 2012 from Urban Atlas data.  
+**Variable description**: Area size in m² of green urban areas (land use) within 1000m buffer in 2012 from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
 **Category coding**:  
@@ -9302,9 +9302,9 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 ```  
 
 
-### **Variable label**: Area size of green urban areas within 1000m buffer in 1990 (CORINE)  
+### **Variable label**: Area size of green urban areas (land use) within 1000m buffer in 1990 (CORINE)  
 **Variable name**: physenv_cn_bf_lu1000_grurb_90  
-**Variable description**: Area size in m² of green urban areas within 1000m buffer in 1990 from CORINE data.  
+**Variable description**: Area size in m² of green urban areas (land use) within 1000m buffer in 1990 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
 **Category coding**:  
@@ -9318,9 +9318,9 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 ```  
 
 
-### **Variable label**: Area size of green urban areas within 1000m buffer in 2000 (CORINE)  
+### **Variable label**: Area size of green urban areas (land use) within 1000m buffer in 2000 (CORINE)  
 **Variable name**: physenv_cn_bf_lu1000_grurb_00  
-**Variable description**: Area size in m² of green urban areas within 1000m buffer in 2000 from CORINE data.  
+**Variable description**: Area size in m² of green urban areas (land use) within 1000m buffer in 2000 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
 **Category coding**:  
@@ -9334,9 +9334,9 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 ```  
 
 
-### **Variable label**: Area size of green urban areas within 1000m buffer in 2006 (CORINE)  
+### **Variable label**: Area size of green urban areas (land use) within 1000m buffer in 2006 (CORINE)  
 **Variable name**: physenv_cn_bf_lu1000_grurb_06  
-**Variable description**: Area size in m² of green urban areas within 1000m buffer in 2006 from CORINE data.  
+**Variable description**: Area size in m² of green urban areas (land use) within 1000m buffer in 2006 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
 **Category coding**:  
@@ -9350,9 +9350,9 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 ```  
 
 
-### **Variable label**: Area size of green urban areas within 1000m buffer in 2012 (CORINE)  
+### **Variable label**: Area size of green urban areas (land use) within 1000m buffer in 2012 (CORINE)  
 **Variable name**: physenv_cn_bf_lu1000_grurb_12  
-**Variable description**: Area size in m² of green urban areas within 1000m buffer in 2012 from CORINE data.  
+**Variable description**: Area size in m² of green urban areas (land use) within 1000m buffer in 2012 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
 **Category coding**:  
@@ -9850,9 +9850,9 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 ```  
 
 
-### **Variable label**: Area size of green urban areas within 1600m buffer in 2006 (Urban Atlas)  
+### **Variable label**: Area size of green urban areas (land use) within 1600m buffer in 2006 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_lu1600_grurb_06  
-**Variable description**: Area size in m² of green urban areas within 1600m buffer in 2006 from Urban Atlas data.  
+**Variable description**: Area size in m² of green urban areas (land use) within 1600m buffer in 2006 from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
 **Category coding**:  
@@ -9866,9 +9866,9 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 ```  
 
 
-### **Variable label**: Area size of green urban areas within 1600m buffer in 2006 (Urban Atlas)  
+### **Variable label**: Area size of green urban areas (land use) within 1600m buffer in 2006 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_lu1600_grurb_06  
-**Variable description**: Area size in m² of green urban areas within 1600m buffer in 2006 from Urban Atlas data.  
+**Variable description**: Area size in m² of green urban areas (land use) within 1600m buffer in 2006 from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
 **Category coding**:  
@@ -10376,9 +10376,9 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 ```  
 
 
-### **Variable label**: Area size of green urban areas within 1600m buffer in 1990 (CORINE)  
+### **Variable label**: Area size of green urban areas (land use) within 1600m buffer in 1990 (CORINE)  
 **Variable name**: physenv_cn_bf_lu1600_grurb_90  
-**Variable description**: Area size in m² of green urban areas within 1600m buffer in 1990 from CORINE data.  
+**Variable description**: Area size in m² of green urban areas (land use) within 1600m buffer in 1990 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
 **Category coding**:  
@@ -10392,9 +10392,9 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 ```  
 
 
-### **Variable label**: Area size of green urban areas within 1600m buffer in 2000 (CORINE)  
+### **Variable label**: Area size of green urban areas (land use) within 1600m buffer in 2000 (CORINE)  
 **Variable name**: physenv_cn_bf_lu1600_grurb_00  
-**Variable description**: Area size in m² of green urban areas within 1600m buffer in 2000 from CORINE data.  
+**Variable description**: Area size in m² of green urban areas (land use) within 1600m buffer in 2000 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
 **Category coding**:  
@@ -10408,9 +10408,9 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 ```  
 
 
-### **Variable label**: Area size of green urban areas within 1600m buffer in 2006 (CORINE)  
+### **Variable label**: Area size of green urban areas (land use) within 1600m buffer in 2006 (CORINE)  
 **Variable name**: physenv_cn_bf_lu1600_grurb_06  
-**Variable description**: Area size in m² of green urban areas within 1600m buffer in 2006 from CORINE data.  
+**Variable description**: Area size in m² of green urban areas (land use) within 1600m buffer in 2006 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
 **Category coding**:  
@@ -10424,9 +10424,9 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 ```  
 
 
-### **Variable label**: Area size of green urban areas within 1600m buffer in 2012 (CORINE)  
+### **Variable label**: Area size of green urban areas (land use) within 1600m buffer in 2012 (CORINE)  
 **Variable name**: physenv_cn_bf_lu1600_grurb_12  
-**Variable description**: Area size in m² of green urban areas within 1600m buffer in 2012 from CORINE data.  
+**Variable description**: Area size in m² of green urban areas (land use) within 1600m buffer in 2012 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
 **Category coding**:  
