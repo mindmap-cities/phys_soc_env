@@ -2130,7 +2130,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 
 ### **Variable label**: Area size of total blue spaces (water + wetlands) within 100m buffer in 1990 (CORINE)  
-**Variable name**: physenv_cn_bf_ttbs100_09  
+**Variable name**: physenv_cn_bf_ttbs100_90  
 **Variable description**: Area size in m² of total blue spaces (water + wetlands) 100m buffer in 1990 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
@@ -5670,9 +5670,9 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 ```  
 
 
-### **Variable label**: Area size of agricultural land within 100m buffer in 2006 (Urban Atlas)  
+### **Variable label**: Area size of agricultural land (land use) within 100m buffer in 2006 (Urban Atlas)  
 **Variable name**: physenv_ua_lu100_agri_06  
-**Variable description**: Area size in m² of agricultural within 100m buffer in 2006 from Urban Atlas data.  
+**Variable description**: Area size in m² of agricultural land (land use) within 100m buffer in 2006 from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
 **Category coding**:  
@@ -5686,9 +5686,9 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 ```  
 
 
-### **Variable label**: Area size of agricultural land within 100m buffer in 2012 (Urban Atlas)  
+### **Variable label**: Area size of agricultural land (land use) within 100m buffer in 2012 (Urban Atlas)  
 **Variable name**: physenv_ua_lu100_agri_12  
-**Variable description**: Area size in m² of agricultural within 100m buffer in 2012 from Urban Atlas data.  
+**Variable description**: Area size in m² of agricultural land (land use) within 100m buffer in 2012 from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
 **Category coding**:  
@@ -6247,9 +6247,9 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 ```  
 
 
-### **Variable label**: Area size of agricultural land within 100m buffer in 1990 (CORINE)  
+### **Variable label**: Area size of agricultural land (land use) within 100m buffer in 1990 (CORINE)  
 **Variable name**: physenv_cn_bf_lu100_agri_90  
-**Variable description**: Area size in m² of agricultural within 100m buffer in 1990 from CORINE data.  
+**Variable description**: Area size in m² of agricultural land (land use) within 100m buffer in 1990 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
 **Category coding**:  
@@ -6263,9 +6263,9 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 ```  
 
 
-### **Variable label**: Area size of agricultural land within 100m buffer in 2000 (CORINE)  
+### **Variable label**: Area size of agricultural land (land use) within 100m buffer in 2000 (CORINE)  
 **Variable name**: physenv_cn_bf_lu100_agri_00  
-**Variable description**: Area size in m² of agricultural within 100m buffer in 2000 from CORINE data.  
+**Variable description**: Area size in m² of agricultural land (land use) within 100m buffer in 2000 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
 **Category coding**:  
@@ -6279,9 +6279,9 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 ```  
 
 
-### **Variable label**: Area size of agricultural land within 100m buffer in 2006 (CORINE)  
+### **Variable label**: Area size of agricultural land (land use) within 100m buffer in 2006 (CORINE)  
 **Variable name**: physenv_cn_bf_lu100_agri_06  
-**Variable description**: Area size in m² of agricultural within 100m buffer in 2006 from CORINE data.  
+**Variable description**: Area size in m² of agricultural land (land use) within 100m buffer in 2006 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
 **Category coding**:  
@@ -6295,9 +6295,9 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 ```  
 
 
-### **Variable label**: Area size of agricultural land within 100m buffer in 2012 (CORINE)  
+### **Variable label**: Area size of agricultural land (land use) within 100m buffer in 2012 (CORINE)  
 **Variable name**: physenv_cn_bf_lu100_agri_12  
-**Variable description**: Area size in m² of agricultural within 100m buffer in 2012 from CORINE data.  
+**Variable description**: Area size in m² of agricultural land (land use) within 100m buffer in 2012 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
 **Category coding**:  
@@ -6730,9 +6730,9 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 ```  
 
 
-### **Variable label**: Area size of agricultural land within 400m buffer in 2006 (Urban Atlas)  
+### **Variable label**: Area size of agricultural land (land use) within 400m buffer in 2006 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_lu400_agri_06  
-**Variable description**: Area size in m² of agricultural within 400m buffer in 2006 from Urban Atlas data.  
+**Variable description**: Area size in m² of agricultural land (land use) within 400m buffer in 2006 from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
 **Category coding**:  
@@ -6746,9 +6746,9 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 ```  
 
 
-### **Variable label**: Area size of agricultural land within 400m buffer in 2012 (Urban Atlas)  
+### **Variable label**: Area size of agricultural land (land use) within 400m buffer in 2012 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_lu400_agri_12  
-**Variable description**: Area size in m² of agricultural within 400m buffer in 2012 from Urban Atlas data.  
+**Variable description**: Area size in m² of agricultural land (land use) within 400m buffer in 2012 from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
 **Category coding**:  
@@ -7306,9 +7306,9 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 ```  
 
 
-### **Variable label**: Area size of agricultural land within 400m buffer in 1990 (CORINE)  
+### **Variable label**: Area size of agricultural land (land use) within 400m buffer in 1990 (CORINE)  
 **Variable name**: physenv_cn_bf_lu400_agri_90  
-**Variable description**: Area size in m² of agricultural within 400m buffer in 1990 from CORINE data.  
+**Variable description**: Area size in m² of agricultural land (land use) within 400m buffer in 1990 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
 **Category coding**:  
@@ -7324,7 +7324,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of agricultural land within 400m buffer in 2000 (CORINE)  
 **Variable name**: physenv_cn_bf_lu400_agri_00  
-**Variable description**: Area size in m² of agricultural within 400m buffer in 2000 from CORINE data.  
+**Variable description**: Area size in m² of agricultural land (land use) within 400m buffer in 2000 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
 **Category coding**:  
@@ -7338,9 +7338,9 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 ```  
 
 
-### **Variable label**: Area size of agricultural land within 400m buffer in 2006 (CORINE)  
+### **Variable label**: Area size of agricultural land (land use) within 400m buffer in 2006 (CORINE)  
 **Variable name**: physenv_cn_bf_lu400_agri_06  
-**Variable description**: Area size in m² of agricultural within 400m buffer in 2006 from CORINE data.  
+**Variable description**: Area size in m² of agricultural land (land use) within 400m buffer in 2006 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
 **Category coding**:  
@@ -7354,9 +7354,9 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 ```  
 
 
-### **Variable label**: Area size of agricultural land within 400m buffer in 2012 (CORINE)  
+### **Variable label**: Area size of agricultural land (land use) within 400m buffer in 2012 (CORINE)  
 **Variable name**: physenv_cn_bf_lu400_agri_12  
-**Variable description**: Area size in m² of agricultural within 400m buffer in 2012 from CORINE data.  
+**Variable description**: Area size in m² of agricultural land (land use) within 400m buffer in 2012 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
 **Category coding**:  
@@ -7792,9 +7792,9 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 ```  
 
 
-### **Variable label**: Area size of agricultural land within 800m buffer in 2006 (Urban Atlas)  
+### **Variable label**: Area size of agricultural land (land use) within 800m buffer in 2006 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_lu800_agri_06  
-**Variable description**: Area size in m² of agricultural within 800m buffer in 2006 from Urban Atlas data.  
+**Variable description**: Area size in m² of agricultural land (land use) within 800m buffer in 2006 from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
 **Category coding**:  
@@ -7808,9 +7808,9 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 ```  
 
 
-### **Variable label**: Area size of agricultural land within 800m buffer in 2012 (Urban Atlas)  
+### **Variable label**: Area size of agricultural land (land use) within 800m buffer in 2012 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_lu800_agri_12  
-**Variable description**: Area size in m² of agricultural within 800m buffer in 2012 from Urban Atlas data.  
+**Variable description**: Area size in m² of agricultural land (land use) within 800m buffer in 2012 from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
 **Category coding**:  
@@ -8369,9 +8369,9 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 ```  
 
 
-### **Variable label**: Area size of agricultural land within 800m buffer in 1990 (CORINE)  
+### **Variable label**: Area size of agricultural land (land use) within 800m buffer in 1990 (CORINE)  
 **Variable name**: physenv_cn_bf_lu800_agri_90  
-**Variable description**: Area size in m² of agricultural within 800m buffer in 1990 from CORINE data.  
+**Variable description**: Area size in m² of agricultural land (land use) within 800m buffer in 1990 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
 **Category coding**:  
@@ -8385,9 +8385,9 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 ```  
 
 
-### **Variable label**: Area size of agricultural land within 800m buffer in 2000 (CORINE)  
+### **Variable label**: Area size of agricultural land (land use) within 800m buffer in 2000 (CORINE)  
 **Variable name**: physenv_cn_bf_lu800_agri_00  
-**Variable description**: Area size in m² of agricultural within 800m buffer in 2000 from CORINE data.  
+**Variable description**: Area size in m² of agricultural land (land use) within 800m buffer in 2000 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
 **Category coding**:  
@@ -8401,9 +8401,9 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 ```  
 
 
-### **Variable label**: Area size of agricultural land within 800m buffer in 2006 (CORINE)  
+### **Variable label**: Area size of agricultural land (land use) within 800m buffer in 2006 (CORINE)  
 **Variable name**: physenv_cn_bf_lu800_agri_06  
-**Variable description**: Area size in m² of agricultural within 800m buffer in 2006 from CORINE data.  
+**Variable description**: Area size in m² of agricultural land (land use) within 800m buffer in 2006 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
 **Category coding**:  
@@ -8417,9 +8417,9 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 ```  
 
 
-### **Variable label**: Area size of agricultural land within 800m buffer in 2012 (CORINE)  
+### **Variable label**: Area size of agricultural land (land use) within 800m buffer in 2012 (CORINE)  
 **Variable name**: physenv_cn_bf_lu800_agri_12  
-**Variable description**: Area size in m² of agricultural within 800m buffer in 2012 from CORINE data.  
+**Variable description**: Area size in m² of agricultural land (land use) within 800m buffer in 2012 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
 **Category coding**:  
@@ -8853,9 +8853,9 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 ```  
 
 
-### **Variable label**: Area size of agricultural land within 1000m buffer in 2006 (Urban Atlas)  
+### **Variable label**: Area size of agricultural land (land use) within 1000m buffer in 2006 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_lu1000_agri_06  
-**Variable description**: Area size in m² of agricultural within 1000m buffer in 2006 from Urban Atlas data.  
+**Variable description**: Area size in m² of agricultural land (land use) within 1000m buffer in 2006 from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
 **Category coding**:  
@@ -8869,9 +8869,9 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 ```  
 
 
-### **Variable label**: Area size of agricultural land within 1000m buffer in 2012 (Urban Atlas)  
+### **Variable label**: Area size of agricultural land (land use) within 1000m buffer in 2012 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_lu1000_agri_12  
-**Variable description**: Area size in m² of agricultural within 1000m buffer in 2012 from Urban Atlas data.  
+**Variable description**: Area size in m² of agricultural land (land use) within 1000m buffer in 2012 from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
 **Category coding**:  
@@ -9430,9 +9430,9 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 ```  
 
 
-### **Variable label**: Area size of agricultural land within 1000m buffer in 1990 (CORINE)  
+### **Variable label**: Area size of agricultural land (land use) within 1000m buffer in 1990 (CORINE)  
 **Variable name**: physenv_cn_bf_lu1000_agri_90  
-**Variable description**: Area size in m² of agricultural land within 1000m buffer in 1990 from CORINE data.  
+**Variable description**: Area size in m² of agricultural land (land use) within 1000m buffer in 1990 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
 **Category coding**:  
@@ -9446,9 +9446,9 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 ```  
 
 
-### **Variable label**: Area size of agricultural land within 1000m buffer in 2000 (CORINE)  
+### **Variable label**: Area size of agricultural land (land use) within 1000m buffer in 2000 (CORINE)  
 **Variable name**: physenv_cn_bf_lu1000_agri_00  
-**Variable description**: Area size in m² of agricultural land within 1000m buffer in 2000 from CORINE data.  
+**Variable description**: Area size in m² of agricultural land (land use) within 1000m buffer in 2000 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
 **Category coding**:  
@@ -9462,9 +9462,9 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 ```  
 
 
-### **Variable label**: Area size of agricultural land within 1000m buffer in 2006 (CORINE)  
+### **Variable label**: Area size of agricultural land (land use) within 1000m buffer in 2006 (CORINE)  
 **Variable name**: physenv_cn_bf_lu1000_agri_06  
-**Variable description**: Area size in m² of agricultural land within 1000m buffer in 2006 from CORINE data.  
+**Variable description**: Area size in m² of agricultural land (land use) within 1000m buffer in 2006 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
 **Category coding**:  
@@ -9478,9 +9478,9 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 ```  
 
 
-### **Variable label**: Area size of agricultural land within 1000m buffer in 2012 (CORINE)  
+### **Variable label**: Area size of agricultural land (land use) within 1000m buffer in 2012 (CORINE)  
 **Variable name**: physenv_cn_bf_lu1000_agri_12  
-**Variable description**: Area size in m² of agricultural land within 1000m buffer in 2012 from CORINE data.  
+**Variable description**: Area size in m² of agricultural land (land use) within 1000m buffer in 2012 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
 **Category coding**:  
@@ -9914,9 +9914,9 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 ```  
 
 
-### **Variable label**: Area size of agricultural land within 1600m buffer in 2006 (Urban Atlas)  
+### **Variable label**: Area size of agricultural land (land use) within 1600m buffer in 2006 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_lu1600_agri_06  
-**Variable description**: Area size in m² of agricultural within 1600m buffer in 2006 from Urban Atlas data.  
+**Variable description**: Area size in m² of agricultural land (land use) within 1600m buffer in 2006 from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
 **Category coding**:  
@@ -9930,9 +9930,9 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 ```  
 
 
-### **Variable label**: Area size of agricultural land within 1600m buffer in 2012 (Urban Atlas)  
+### **Variable label**: Area size of agricultural land (land use) within 1600m buffer in 2012 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_lu1600_agri_12  
-**Variable description**: Area size in m² of agricultural within 1600m buffer in 2012 from Urban Atlas data.  
+**Variable description**: Area size in m² of agricultural land (land use) within 1600m buffer in 2012 from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
 **Category coding**:  
@@ -10504,9 +10504,9 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 ```  
 
 
-### **Variable label**: Area size of agricultural land within 1600m buffer in 1990 (CORINE)  
+### **Variable label**: Area size of agricultural land (land use) within 1600m buffer in 1990 (CORINE)  
 **Variable name**: physenv_cn_bf_lu1600_agri_90  
-**Variable description**: Area size in m² of agricultural land within 1600m buffer in 1990 from CORINE data.  
+**Variable description**: Area size in m² of agricultural land (land use) within 1600m buffer in 1990 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
 **Category coding**:  
@@ -10519,9 +10519,9 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ```  
 
-### **Variable label**: Area size of agricultural land within 1600m buffer in 2000 (CORINE)  
+### **Variable label**: Area size of agricultural land (land use) within 1600m buffer in 2000 (CORINE)  
 **Variable name**: physenv_cn_bf_lu1600_agri_00  
-**Variable description**: Area size in m² of agricultural land within 1600m buffer in 2000 from CORINE data.  
+**Variable description**: Area size in m² of agricultural land (land use) within 1600m buffer in 2000 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
 **Category coding**:  
@@ -10535,9 +10535,9 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 ```  
 
 
-### **Variable label**: Area size of agricultural land within 1600m buffer in 2006 (CORINE)  
+### **Variable label**: Area size of agricultural land (land use) within 1600m buffer in 2006 (CORINE)  
 **Variable name**: physenv_cn_bf_lu1600_agri_06  
-**Variable description**: Area size in m² of agricultural land within 1600m buffer in 2006 from CORINE data.  
+**Variable description**: Area size in m² of agricultural land (land use) within 1600m buffer in 2006 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
 **Category coding**:  
@@ -10551,9 +10551,9 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 ```  
 
 
-### **Variable label**: Area size of agricultural land within 1600m buffer in 2012 (CORINE)  
+### **Variable label**: Area size of agricultural land (land use) within 1600m buffer in 2012 (CORINE)  
 **Variable name**: physenv_cn_bf_lu1600_agri_12  
-**Variable description**: Area size in m² of agricultural land within 1600m buffer in 2012 from CORINE data.  
+**Variable description**: Area size in m² of agricultural land (land use) within 1600m buffer in 2012 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
 **Category coding**:  
@@ -10749,12 +10749,12 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 ### **Variable label**: Urbanicity grade in 2006 (Urban Atlas)   
 **Variable name**: physenv_ua_urbcy_06    
 **Variable description**: Urbanicity grade based on the classes from the urban atlas. This is a categorical variable with 5 classes ranging from continuous urban to dense, medium, low, and very low density in 2006 from Urban Atlas data.  
-**Variable type**: Integer  
+**Variable type**: integer  
 **Variable unit**:   
 **Category coding**:  
 
 **physenv_ua_urbcy_06** | **Urbanicity grade in 2006 (Urban Atlas)**
------------------------- | --------------------------------------------------
+------------------------| --------------------------------------------------
 1 | Continuous urban fabric (S.L. > 80%)  
 2 | Discontinuous dense urban fabric (S.L.: 50% - 80%)  
 3 | Discontinuous medium density urban fabric (S.L.: 30% - 50%)  
@@ -10773,12 +10773,12 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 ### **Variable label**: Urbanicity grade in 2012 (Urban Atlas)   
 **Variable name**: physenv_ua_urbcy_12    
 **Variable description**: Urbanicity grade based on the classes from the urban atlas. This is a categorical variable with 5 classes ranging from continuous urban to dense, medium, low, and very low density in 2012 from Urban Atlas data.  
-**Variable type**: Integer  
-**Variable unit**: %  
+**Variable type**: integer  
+**Variable unit**:   
 **Category coding**:  
 
 **physenv_ua_urbcy_12** | **Urbanicity grade in 2012 (Urban Atlas)**
------------------------- | --------------------------------------------------
+------------------------| --------------------------------------------------
 1 | Continuous urban fabric (S.L. > 80%)  
 2 | Discontinuous dense urban fabric (S.L.: 50% - 80%)  
 3 | Discontinuous medium density urban fabric (S.L.: 30% - 50%)  
@@ -10803,7 +10803,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 
 **physenv_cn_urbcy_90** | **Urbanicity grade in 1990 (CORINE)**
------------------------- | --------------------------------------------------
+------------------------| --------------------------------------------------
 0 | Continuous urban fabric (S.L. > 80%)  
 1 | Discontinuous urban fabric (S.L.: 30% - 80%)  
 
@@ -10820,13 +10820,13 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 ### **Variable label**: Urbanicity grade in 2000 (CORINE)  
 **Variable name**: physenv_cn_urbcy_00  
 **Variable description**: Urbanicity grade based on the classes from the CORINE. This is a categorical variable with 2 classes being from continuous urban to dense, medium, low, and very low density in 2000 from CORINE data.  
-**Variable type**: Integer  
-**Variable unit**: %  
+**Variable type**: integer  
+**Variable unit**:   
 **Category coding**:  
 
 
 **physenv_cn_urbcy_90** | **Urbanicity grade in 2000 (CORINE)**
------------------------- | --------------------------------------------------
+------------------------| --------------------------------------------------
 0 | Continuous urban fabric (S.L. > 80%)  
 1 | Discontinuous urban fabric (S.L.: 30% - 80%)  
 
@@ -10842,13 +10842,13 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 ### **Variable label**: Urbanicity grade in 2006 (CORINE)  
 **Variable name**: physenv_cn_urbcy_06  
 **Variable description**: Urbanicity grade based on the classes from the CORINE. This is a categorical variable with 2 classes being from continuous urban to dense, medium, low, and very low density in 2006 from CORINE data.  
-**Variable type**: Integer  
-**Variable unit**: %  
+**Variable type**: integer  
+**Variable unit**:   
 **Category coding**:  
 
 
 **physenv_cn_urbcy_90** | **Urbanicity grade in 2006 (CORINE)**
------------------------- | --------------------------------------------------
+------------------------| --------------------------------------------------
 0 | Continuous urban fabric (S.L. > 80%)  
 1 | Discontinuous urban fabric (S.L.: 30% - 80%)  
 
@@ -10864,13 +10864,13 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 ### **Variable label**: Urbanicity grade in 2012 (CORINE)  
 **Variable name**: physenv_cn_urbcy_12  
 **Variable description**: Urbanicity grade based on the classes from the CORINE. This is a categorical variable with 2 classes being from continuous urban to dense, medium, low, and very low density in 2012 from CORINE data.  
-**Variable type**: Integer  
-**Variable unit**: %  
+**Variable type**: integer  
+**Variable unit**:   
 **Category coding**:  
 
 
 **physenv_cn_urbcy_90** | **Urbanicity grade in 2012 (CORINE)**
------------------------- | --------------------------------------------------
+------------------------| --------------------------------------------------
 0 | Continuous urban fabric (S.L. > 80%)  
 1 | Discontinuous urban fabric (S.L.: 30% - 80%)  
 
