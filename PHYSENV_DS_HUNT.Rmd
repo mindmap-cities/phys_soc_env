@@ -2422,7 +2422,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of total blue spaces (water + wetlands) within 400m buffer in 2006 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_ttbs400_06  
-**Variable description**: Area size in m² of toal blue spaces (water + wetlands) within 400m buffer in 2006 from Urban Atlas data.  
+**Variable description**: Area size in m² of total blue spaces (water + wetlands) within 400m buffer in 2006 from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
 **Category coding**:  
@@ -2438,7 +2438,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of total blue spaces (water + wetlands) within 400m buffer in 2012 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_ttbs400_12  
-**Variable description**: Area size in m² of toal blue spaces (water + wetlands) within 400m buffer in 2012 from Urban Atlas data.  
+**Variable description**: Area size in m² of total blue spaces (water + wetlands) within 400m buffer in 2012 from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
 **Category coding**:  
@@ -6509,7 +6509,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Land use mix within 400m buffer in 2006 (Urban Atlas)  
 **Variable name**: physenv_ua_bf_lu400_06  
-**Variable description**: Land use mix in m² within a 400mmbuffer. It is calculated using an entropy formula in 2006 from Urban Atlas data.  
+**Variable description**: Land use mix in m² within a 400mm buffer. It is calculated using an entropy formula in 2006 from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
 **Category coding**:  
@@ -9564,7 +9564,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ### **Variable label**: Area size of water within 1000m buffer in 1990 (CORINE)  
 **Variable name**: physenv_cn_bf_lu1000_water_90  
-**Variable description**: Area size in m² of water within 1000m bufferin 1990 from CORINE data.  
+**Variable description**: Area size in m² of water within 1000m buffering 1990 from CORINE data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
 **Category coding**:  
