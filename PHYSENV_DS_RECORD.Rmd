@@ -3693,7 +3693,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 
 ### **Variable label**: Area size of built-up area within 100m buffer (Urban Atlas)  
-**Variable name**: physenv_ua_lu100_bu_0  
+**Variable name**: physenv_ua_bf_lu100_bu_0  
 **Variable description**: Area size in m² of built-up areas within 100m buffer from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
@@ -3709,7 +3709,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 
 ### **Variable label**: Area size of built-up area within 100m buffer (Urban Atlas)  
-**Variable name**: physenv_ua_lu100_bu_1  
+**Variable name**: physenv_ua_bf_lu100_bu_1  
 **Variable description**: Area size in m² of built-up areas within 100m buffer from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
@@ -3725,7 +3725,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 
 ### **Variable label**: Area size of industrial and commercial area within 100m buffer (Urban Atlas)  
-**Variable name**: physenv_ua_lu100_ic_0  
+**Variable name**: physenv_ua_bf_lu100_ic_0  
 **Variable description**: Area size in m² of industrial and commercial areas within 100m buffer from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
@@ -3741,7 +3741,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 
 ### **Variable label**: Area size of industrial and commercial area within 100m buffer (Urban Atlas)  
-**Variable name**: physenv_ua_lu100_ic_1  
+**Variable name**: physenv_ua_bf_lu100_ic_1  
 **Variable description**: Area size in m² of industrial and commercial areas within 100m buffer from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
@@ -3757,7 +3757,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 
 ### **Variable label**: Area size of infrastructure area within 100m buffer (Urban Atlas)  
-**Variable name**: physenv_ua_lu100_in_0  
+**Variable name**: physenv_ua_bf_lu100_in_0  
 **Variable description**: Area size in m² of infrastructure areas within 100m buffer from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
@@ -3773,7 +3773,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 
 ### **Variable label**: Area size of infrastructure area within 100m buffer (Urban Atlas)  
-**Variable name**: physenv_ua_lu100_in_1  
+**Variable name**: physenv_ua_bf_lu100_in_1  
 **Variable description**: Area size in m² of infrastructure areas within 100m buffer from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
@@ -3789,7 +3789,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 
 ### **Variable label**: Area size of port area within 100m buffer (Urban Atlas)  
-**Variable name**: physenv_ua_lu100_po_0  
+**Variable name**: physenv_ua_bf_lu100_po_0  
 **Variable description**: Area size in m² of ports (airports and sea ports) within 100m buffer from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
@@ -3805,7 +3805,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 
 ### **Variable label**: Area size of port area within 100m buffer (Urban Atlas)  
-**Variable name**: physenv_ua_lu100_po_1  
+**Variable name**: physenv_ua_bf_lu100_po_1  
 **Variable description**: Area size in m² of ports (airports and sea ports) within 100m buffer from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
@@ -3821,7 +3821,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 
 ### **Variable label**: Area size of green urban areas (land use) within 100m buffer (Urban Atlas)  
-**Variable name**: physenv_ua_lu100_grurb_0  
+**Variable name**: physenv_ua_bf_lu100_grurb_0  
 **Variable description**: Area size in m² of green urban areas (land use) within 100m buffer from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
@@ -3837,7 +3837,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 
 ### **Variable label**: Area size of green urban areas (land use) within 100m buffer (Urban Atlas)  
-**Variable name**: physenv_ua_lu100_grurb_1  
+**Variable name**: physenv_ua_bf_lu100_grurb_1  
 **Variable description**: Area size in m² of green urban areas (land use) within 100m buffer from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
@@ -3853,7 +3853,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 
 ### **Variable label**: Area size of sports & leisure facilities area within 100m buffer (Urban Atlas)  
-**Variable name**: physenv_ua_lu100_facil_0  
+**Variable name**: physenv_ua_bf_lu100_facil_0  
 **Variable description**: Area size in m² of sports & leisure facilities within 100m buffer from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
@@ -3869,7 +3869,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 
 ### **Variable label**: Area size of sports & leisure facilities area within 100m buffer (Urban Atlas)  
-**Variable name**: physenv_ua_lu100_facil_1  
+**Variable name**: physenv_ua_bf_lu100_facil_1  
 **Variable description**: Area size in m² of sports & leisure facilities within 100m buffer from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
@@ -3885,7 +3885,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 
 ### **Variable label**: Area size of agricultural land (land use) within 100m buffer (Urban Atlas)  
-**Variable name**: physenv_ua_lu100_agri_0  
+**Variable name**: physenv_ua_bf_lu100_agri_0  
 **Variable description**: Area size in m² of agricultural land (land use) within 100m buffer from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
@@ -3901,7 +3901,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 
 ### **Variable label**: Area size of agricultural land (land use) within 100m buffer (Urban Atlas)  
-**Variable name**: physenv_ua_lu100_agri_1  
+**Variable name**: physenv_ua_bf_lu100_agri_1  
 **Variable description**: Area size in m² of agricultural land (land use) within 100m buffer from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
@@ -3917,7 +3917,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 
 ### **Variable label**: Area size of other natural areas within 100m buffer (Urban Atlas)  
-**Variable name**: physenv_ua_lu100_on_0  
+**Variable name**: physenv_ua_bf_lu100_on_0  
 **Variable description**: Area size in m² of other natural areas within 100m buffer from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
@@ -3933,7 +3933,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 
 ### **Variable label**: Area size of other natural areas within 100m buffer (Urban Atlas)  
-**Variable name**: physenv_ua_lu100_on_1  
+**Variable name**: physenv_ua_bf_lu100_on_1  
 **Variable description**: Area size in m² of other natural areas within 100m buffer from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
@@ -3949,7 +3949,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 
 ### **Variable label**: Area size of water within 100m buffer (Urban Atlas)  
-**Variable name**: physenv_ua_lu100_water_0  
+**Variable name**: physenv_ua_bf_lu100_water_0  
 **Variable description**: Area size in m² of water within 100m buffer from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
@@ -3965,7 +3965,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 
 ### **Variable label**: Area size of water within 100m buffer (Urban Atlas)  
-**Variable name**: physenv_ua_lu100_water_1  
+**Variable name**: physenv_ua_bf_lu100_water_1  
 **Variable description**: Area size in m² of water within 100m buffer from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
@@ -3981,7 +3981,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 
 ### **Variable label**: Area size of other areas within 100m buffer (Urban Atlas)  
-**Variable name**: physenv_ua_lu100_ot_0  
+**Variable name**: physenv_ua_bf_lu100_ot_0  
 **Variable description**: Area size in m² of other areas within 100m buffer from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
@@ -3997,7 +3997,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 
 ### **Variable label**: Area size of other areas within 100m buffer (Urban Atlas)  
-**Variable name**: physenv_ua_lu100_ot_1  
+**Variable name**: physenv_ua_bf_lu100_ot_1  
 **Variable description**: Area size in m² of other areas within 100m buffer from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
