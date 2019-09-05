@@ -1225,7 +1225,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ```  
 
- ### **Variable label**: Area size agricultural land (Urban Atlas)  
+### **Variable label**: Area size agricultural land (Urban Atlas)  
 **Variable name**: physenv_ua_ne_agri_as_6  
 **Variable description**: Area size of the nearest polygon. No distinction is made between different types of agricultural land from Urban Atlas data.  
 **Variable type**: decimal  
@@ -3771,7 +3771,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 ```  
 
- ### **Variable label**: Area size of forest within 100m buffer (Urban Atlas)  
+### **Variable label**: Area size of forest within 100m buffer (Urban Atlas)  
 **Variable name**: physenv_ua_bf_forest100_6  
 **Variable description**: Area size in of m² of forest within 100m buffer from Urban Atlas data.  
 **Variable type**: decimal  
@@ -9532,6 +9532,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 #This is where the R-script will be written  
 
 
+```  
 
 ### **Variable label**: Area size of forest within 1000m buffer (CORINE)  
 **Variable name**: physenv_cn_bf_forest1000_0  
@@ -20141,7 +20142,8 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 
 ```  
-\### **Variable label**: Area size of infrastructure area within 1000m buffer (Urban Atlas)  
+
+### **Variable label**: Area size of infrastructure area within 1000m buffer (Urban Atlas)  
 **Variable name**: physenv_ua_bf_lu1000_in_6  
 **Variable description**: Area size in m² of infrastructure areas within 1000m buffer from Urban Atlas data.  
 **Variable type**: decimal  
