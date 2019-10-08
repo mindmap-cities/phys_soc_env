@@ -56,7 +56,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -72,7 +72,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written
+
 
 ```  
 
@@ -87,7 +87,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -103,7 +103,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -119,7 +119,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```
 
@@ -135,7 +135,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -151,7 +151,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -167,7 +167,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -183,7 +183,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -199,7 +199,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -215,7 +215,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -231,7 +231,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -247,7 +247,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -263,7 +263,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -279,7 +279,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -295,7 +295,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -311,7 +311,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -327,7 +327,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -342,7 +342,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization status**:  
 **Harmonization comment**: UrbanAtlas data 2006  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -358,7 +358,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -374,7 +374,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -390,7 +390,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -406,7 +406,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -422,7 +422,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -438,7 +438,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -454,7 +454,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -470,7 +470,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -486,7 +486,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -502,7 +502,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -518,7 +518,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -535,7 +535,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -551,7 +551,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -568,7 +568,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -584,7 +584,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -601,7 +601,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -617,7 +617,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -634,7 +634,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -650,7 +650,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -667,7 +667,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -683,7 +683,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -700,7 +700,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -716,7 +716,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -733,7 +733,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -749,7 +749,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -765,7 +765,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -781,7 +781,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -797,7 +797,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -813,7 +813,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -829,7 +829,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -845,7 +845,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -861,7 +861,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -877,7 +877,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -893,7 +893,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -909,7 +909,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -925,7 +925,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -941,7 +941,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -959,7 +959,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006 
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -975,7 +975,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -991,7 +991,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -1007,7 +1007,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -1023,7 +1023,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -1039,7 +1039,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -1055,7 +1055,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -1071,7 +1071,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -1089,7 +1089,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -1105,7 +1105,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -1121,7 +1121,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -1137,7 +1137,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -1153,7 +1153,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -1169,7 +1169,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -1185,7 +1185,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -1201,7 +1201,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -1217,7 +1217,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -1233,7 +1233,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -1249,7 +1249,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -1265,7 +1265,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -1281,7 +1281,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -1297,7 +1297,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -1313,7 +1313,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -1329,7 +1329,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -1345,7 +1345,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -1361,7 +1361,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -1377,7 +1377,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -1393,7 +1393,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -1409,7 +1409,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -1425,7 +1425,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -1441,7 +1441,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -1457,7 +1457,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -1473,7 +1473,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -1489,7 +1489,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -1505,7 +1505,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -1521,7 +1521,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -1541,7 +1541,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -1557,7 +1557,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -1573,7 +1573,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -1589,7 +1589,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -1605,7 +1605,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -1621,7 +1621,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -1637,7 +1637,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -1653,7 +1653,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -1669,7 +1669,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -1685,7 +1685,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -1701,7 +1701,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -1717,7 +1717,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -1733,7 +1733,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -1749,7 +1749,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -1765,7 +1765,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -1781,7 +1781,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -1797,7 +1797,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -1813,7 +1813,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -1829,7 +1829,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -1845,7 +1845,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -1861,7 +1861,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -1877,7 +1877,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -1893,7 +1893,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -1909,7 +1909,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -1925,7 +1925,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -1941,7 +1941,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -1957,7 +1957,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -1973,7 +1973,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -1989,7 +1989,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -2005,7 +2005,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -2021,7 +2021,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -2037,7 +2037,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -2057,7 +2057,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```
 
@@ -2073,7 +2073,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}
-#This is where the R-script will be written  
+
 
 ```
 
@@ -2089,7 +2089,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -2105,7 +2105,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -2121,7 +2121,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -2137,7 +2137,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -2153,7 +2153,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -2169,7 +2169,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -2185,7 +2185,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -2201,7 +2201,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -2217,7 +2217,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -2233,7 +2233,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -2249,7 +2249,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -2265,7 +2265,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -2281,7 +2281,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -2297,7 +2297,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -2313,7 +2313,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -2328,7 +2328,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -2344,7 +2344,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -2360,7 +2360,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -2376,7 +2376,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -2392,7 +2392,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -2408,7 +2408,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -2424,7 +2424,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -2440,7 +2440,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -2456,7 +2456,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -2472,7 +2472,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -2488,7 +2488,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -2504,7 +2504,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -2520,7 +2520,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -2536,7 +2536,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```
 
@@ -2552,7 +2552,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012   
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```
 
@@ -2571,7 +2571,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -2587,7 +2587,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -2603,7 +2603,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -2619,7 +2619,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -2635,7 +2635,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -2651,7 +2651,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```
 
@@ -2667,7 +2667,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -2683,7 +2683,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -2699,7 +2699,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -2715,7 +2715,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -2731,7 +2731,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -2748,7 +2748,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -2764,7 +2764,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -2780,7 +2780,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -2796,7 +2796,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -2812,7 +2812,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -2828,7 +2828,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```
 
@@ -2844,7 +2844,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```
 
@@ -2860,7 +2860,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -2876,7 +2876,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -2892,7 +2892,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -2908,7 +2908,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -2924,7 +2924,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -2940,7 +2940,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -2956,7 +2956,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```
 
@@ -2972,7 +2972,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```
 
@@ -2988,7 +2988,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```
 
@@ -3004,7 +3004,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```
 
@@ -3020,7 +3020,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -3036,7 +3036,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -3052,7 +3052,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```
 
@@ -3068,7 +3068,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```
 
@@ -3087,7 +3087,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -3103,7 +3103,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -3119,7 +3119,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -3135,7 +3135,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -3151,7 +3151,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -3167,7 +3167,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -3183,7 +3183,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -3199,7 +3199,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -3215,7 +3215,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -3231,7 +3231,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -3247,7 +3247,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -3263,7 +3263,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -3279,7 +3279,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -3295,7 +3295,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -3311,7 +3311,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -3327,7 +3327,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -3344,7 +3344,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -3361,7 +3361,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -3377,7 +3377,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -3393,7 +3393,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -3409,7 +3409,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -3425,7 +3425,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -3441,7 +3441,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -3457,7 +3457,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -3473,7 +3473,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -3489,7 +3489,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -3505,7 +3505,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -3521,7 +3521,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -3537,7 +3537,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -3553,7 +3553,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -3569,7 +3569,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -3585,7 +3585,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -3604,7 +3604,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -3620,7 +3620,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -3636,7 +3636,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -3652,7 +3652,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -3671,7 +3671,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -3687,7 +3687,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -3703,7 +3703,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -3719,7 +3719,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -3735,7 +3735,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -3751,7 +3751,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -3767,7 +3767,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -3783,7 +3783,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -3799,7 +3799,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -3815,7 +3815,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -3831,7 +3831,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -3847,7 +3847,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -3863,7 +3863,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -3879,7 +3879,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -3895,7 +3895,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -3911,7 +3911,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -3927,7 +3927,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -3943,7 +3943,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -3959,7 +3959,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -3975,7 +3975,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -3991,7 +3991,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -4007,7 +4007,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -4023,7 +4023,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -4039,7 +4039,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -4055,7 +4055,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -4071,7 +4071,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -4087,7 +4087,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -4103,7 +4103,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -4119,7 +4119,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -4135,7 +4135,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -4151,7 +4151,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -4167,7 +4167,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -4183,7 +4183,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -4199,7 +4199,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -4215,7 +4215,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -4231,7 +4231,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -4247,7 +4247,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -4263,7 +4263,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -4279,7 +4279,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -4295,7 +4295,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -4311,7 +4311,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -4326,7 +4326,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -4342,7 +4342,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -4358,7 +4358,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -4377,7 +4377,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -4393,7 +4393,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -4409,7 +4409,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -4425,7 +4425,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -4441,7 +4441,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -4457,7 +4457,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -4473,7 +4473,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -4490,7 +4490,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -4506,7 +4506,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -4522,7 +4522,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -4538,7 +4538,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -4554,7 +4554,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -4570,7 +4570,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -4586,7 +4586,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -4602,7 +4602,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -4618,7 +4618,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -4634,7 +4634,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -4650,7 +4650,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -4666,7 +4666,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -4682,7 +4682,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -4698,7 +4698,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -4714,7 +4714,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -4730,7 +4730,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -4746,7 +4746,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -4762,7 +4762,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -4778,7 +4778,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -4794,7 +4794,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -4810,7 +4810,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -4826,7 +4826,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -4842,7 +4842,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -4858,7 +4858,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -4874,7 +4874,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -4890,7 +4890,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -4906,7 +4906,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -4922,7 +4922,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -4938,7 +4938,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -4954,7 +4954,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -4970,7 +4970,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -4986,7 +4986,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -5003,7 +5003,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -5021,7 +5021,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -5037,7 +5037,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -5053,7 +5053,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -5069,7 +5069,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -5088,7 +5088,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -5104,7 +5104,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -5120,7 +5120,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -5136,7 +5136,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -5152,7 +5152,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -5168,7 +5168,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -5184,7 +5184,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -5200,7 +5200,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -5216,7 +5216,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -5232,7 +5232,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -5248,7 +5248,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -5264,7 +5264,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -5280,7 +5280,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -5296,7 +5296,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -5312,7 +5312,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -5328,7 +5328,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -5344,7 +5344,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -5360,7 +5360,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```
 
@@ -5376,7 +5376,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -5392,7 +5392,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -5408,7 +5408,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -5424,7 +5424,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -5440,7 +5440,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -5456,7 +5456,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -5472,7 +5472,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -5488,7 +5488,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -5504,7 +5504,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -5520,7 +5520,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -5536,7 +5536,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -5553,7 +5553,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -5569,7 +5569,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -5585,7 +5585,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -5601,7 +5601,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -5617,7 +5617,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -5633,7 +5633,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -5649,7 +5649,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -5665,7 +5665,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -5681,7 +5681,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -5697,7 +5697,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -5713,7 +5713,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -5729,7 +5729,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -5745,7 +5745,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -5762,7 +5762,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -5778,7 +5778,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -5798,7 +5798,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -5814,7 +5814,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -5830,7 +5830,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -5846,7 +5846,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -5862,7 +5862,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -5878,7 +5878,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -5893,7 +5893,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -5909,7 +5909,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -5925,7 +5925,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -5941,7 +5941,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -5957,7 +5957,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -5973,7 +5973,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -5989,7 +5989,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -6005,7 +6005,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -6021,7 +6021,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -6037,7 +6037,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -6053,7 +6053,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -6069,7 +6069,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -6085,7 +6085,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -6101,7 +6101,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -6117,7 +6117,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -6134,7 +6134,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -6150,7 +6150,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -6166,7 +6166,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -6182,7 +6182,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -6198,7 +6198,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -6214,7 +6214,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -6230,7 +6230,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -6246,7 +6246,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -6262,7 +6262,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -6278,7 +6278,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -6294,7 +6294,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -6310,7 +6310,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -6326,7 +6326,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -6342,7 +6342,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -6358,7 +6358,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -6374,7 +6374,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -6390,7 +6390,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -6406,7 +6406,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -6422,7 +6422,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -6438,7 +6438,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -6454,7 +6454,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -6470,7 +6470,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -6486,7 +6486,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```
 
@@ -6506,7 +6506,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -6522,7 +6522,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -6538,7 +6538,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -6554,7 +6554,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -6570,7 +6570,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -6586,7 +6586,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -6602,7 +6602,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -6618,7 +6618,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -6634,7 +6634,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -6650,7 +6650,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -6666,7 +6666,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -6682,7 +6682,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -6698,7 +6698,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -6714,7 +6714,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -6730,7 +6730,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -6746,7 +6746,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -6762,7 +6762,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -6778,7 +6778,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -6794,7 +6794,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -6810,7 +6810,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -6826,7 +6826,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -6842,7 +6842,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -6858,7 +6858,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -6874,7 +6874,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -6890,7 +6890,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -6906,7 +6906,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -6922,7 +6922,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -6938,7 +6938,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -6954,7 +6954,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -6970,7 +6970,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -6986,7 +6986,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -7001,7 +7001,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -7017,7 +7017,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -7033,7 +7033,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -7049,7 +7049,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -7065,7 +7065,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -7081,7 +7081,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -7097,7 +7097,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -7113,7 +7113,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -7129,7 +7129,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -7145,7 +7145,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -7161,7 +7161,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -7177,7 +7177,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -7193,7 +7193,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -7220,7 +7220,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -7244,7 +7244,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: UrbanAtlas data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -7267,7 +7267,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2006  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
 
@@ -7289,6 +7289,6 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 **Harmonization comment**: CORINE data 2012  
 **R script**:  
 ```{r, echo=TRUE}  
-#This is where the R-script will be written  
+
 
 ```  
