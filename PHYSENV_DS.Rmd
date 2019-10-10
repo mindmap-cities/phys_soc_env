@@ -1023,7 +1023,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 
 ### **Variable label**: Area size of water (Urban Atlas)  
-**Variable name**: phenv_ua_ne_water_as_0  
+**Variable name**: physenv_ua_ne_water_as_0  
 **Variable description**: Area size of the nearest polygon marked as water from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
@@ -1039,7 +1039,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 
 ### **Variable label**: Area size of water (Urban Atlas)  
-**Variable name**: phenv_ua_ne_water_as_1  
+**Variable name**: physenv_ua_ne_water_as_1  
 **Variable description**: Area size of the nearest polygon marked as water from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
@@ -1054,38 +1054,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 ```  
 
 ### **Variable label**: Area size of water (Urban Atlas)  
-**Variable name**: phenv_ua_ne_water_as_2  
-**Variable description**: Area size of the nearest polygon marked as water from Urban Atlas data.  
-**Variable type**: decimal  
-**Variable unit**: m²  
-**Category coding**: 
-
-**Harmonization status**:  
-**Harmonization comment**:  
-**R script**:  
-```{r, echo=TRUE}
-#This is where the R-script will be written  
-
-```  
-
-
-### **Variable label**: Area size of water (Urban Atlas)  
-**Variable name**: phenv_ua_ne_water_as_3  
-**Variable description**: Area size of the nearest polygon marked as water from Urban Atlas data.  
-**Variable type**: decimal  
-**Variable unit**: m²  
-**Category coding**: 
-
-**Harmonization status**:  
-**Harmonization comment**:  
-**R script**:  
-```{r, echo=TRUE}
-#This is where the R-script will be written  
-
-```  
-
-### **Variable label**: Area size of water (Urban Atlas)  
-**Variable name**: phenv_ua_ne_water_as_4  
+**Variable name**: physenv_ua_ne_water_as_2  
 **Variable description**: Area size of the nearest polygon marked as water from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
@@ -1101,7 +1070,7 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 
 
 ### **Variable label**: Area size of water (Urban Atlas)  
-**Variable name**: phenv_ua_ne_water_as_5  
+**Variable name**: physenv_ua_ne_water_as_3  
 **Variable description**: Area size of the nearest polygon marked as water from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
@@ -1116,7 +1085,38 @@ https://land.copernicus.eu/user-corner/technical-library/Nomenclature.pdf  [23.1
 ```  
 
 ### **Variable label**: Area size of water (Urban Atlas)  
-**Variable name**: phenv_ua_ne_water_as_6  
+**Variable name**: physenv_ua_ne_water_as_4  
+**Variable description**: Area size of the nearest polygon marked as water from Urban Atlas data.  
+**Variable type**: decimal  
+**Variable unit**: m²  
+**Category coding**: 
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}
+#This is where the R-script will be written  
+
+```  
+
+
+### **Variable label**: Area size of water (Urban Atlas)  
+**Variable name**: physenv_ua_ne_water_as_5  
+**Variable description**: Area size of the nearest polygon marked as water from Urban Atlas data.  
+**Variable type**: decimal  
+**Variable unit**: m²  
+**Category coding**: 
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+```{r, echo=TRUE}
+#This is where the R-script will be written  
+
+```  
+
+### **Variable label**: Area size of water (Urban Atlas)  
+**Variable name**: physenv_ua_ne_water_as_6  
 **Variable description**: Area size of the nearest polygon marked as water from Urban Atlas data.  
 **Variable type**: decimal  
 **Variable unit**: m²  
